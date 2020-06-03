@@ -1,5 +1,7 @@
 {
-    "0": { "race": "black", "armed": true },
-    "1":{ "race": "white", "armed": true },
-    "2": { "race": "white", "armed": false }
+    "rows": [
+        { "id": "0", "race": "black", "armed": true },
+        { "id": "0", "race": "white", "armed": true },
+        { "id": "0", "race": "white", "armed": false }
+    ]
 }

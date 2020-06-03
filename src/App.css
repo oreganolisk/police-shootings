@@ -16,7 +16,23 @@
 .App-button {
   min-height: 5vh;
   min-width: 30vh;
-  font-size: calc(10px + 2vmin);
+  font-size: 2vh;
+  margin: 1vh;
+}
+
+.App-header-filtergroup {
+  margin: 1vh;
+}
+
+.App-header-filter {
+  display: inline-block;
+  font-size: 2vh;
+  margin: 1vh;
+}
+
+.App-header-filter input {
+  width: 1.5vh;
+  height: 1.5vh;
 }
 
 .App-link {

@@ -11,6 +11,10 @@ interface IncidentMetadata {
 interface IncidentData {
   name: string;
   age: number;
+  photo: string;
+  summary: string;
+  newslink: string;
+  youtube: string;
 }
 
 const db: { rows: IncidentMetadata[] } = require('./db');
@@ -98,12 +102,18 @@ class App extends React.Component<AppProps, AppState> {
     const data = this.state.data;
     if (meta && data) {
       return <main>
-        <div>
-          <p>id: {meta.id}</p>
-          <p>race: {meta.race}</p>
-          <p>armed: {meta.armed ? "yes" : "no"}</p>
-          <p>name: {data.name}</p>
-          <p>age: {data.age}</p>
+        <div className="App-main-content">
+          <p className="App-main-name">{data.name}</p>
+          <p>{meta.armed ? "armed" : "unarmed"}, {meta.race}, {data.age}</p>
+          <img className="App-main-photo" src={data.photo}/>
+          <p className="App-main-story">{data.summary}</p>
+          <iframe
+            className="App-main-youtube"
+            width="560"
+            height="315"
+            src={data.youtube}
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          />
         </div>
       </main>
     } else {

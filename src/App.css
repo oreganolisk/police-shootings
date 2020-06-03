@@ -35,8 +35,25 @@
   height: 1.5vh;
 }
 
-.App-link {
-  color: #61dafb;
+.App-main-content {
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.App-main-name {
+  font-size: 2vh;
+}
+
+.App-main-photo {
+  max-height: 33vh;
+}
+
+.App-main-story {
+}
+
+.App-main-youtube {
+  width: 80vw;
+  height: 30vw;
 }
 
 @keyframes App-logo-spin {

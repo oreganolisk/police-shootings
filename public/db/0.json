@@ -1,4 +1,8 @@
 {
-    "name": "Educational Example",
-    "age": 22
+    "name": "Eric Garner",
+    "age": 27,
+    "photo": "https://i.insider.com/54806a086bb3f763254d6d6a?width=1100&format=jpeg&auto=webp",
+    "summary": "On July 17, 2014, Eric Garner died in the New York City borough of Staten Island after Daniel Pantaleo, a New York City Police Department (NYPD) officer, put him in a chokehold while arresting him. Video footage of the incident generated widespread national attention and raised questions about the appropriate use of force by law enforcement.",
+    "newslink": "https://en.wikipedia.org/wiki/Death_of_Eric_Garner",
+    "youtube": "https://www.youtube.com/embed/_s8JklrBSlk"
 }

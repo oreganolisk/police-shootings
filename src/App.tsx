@@ -24,29 +24,47 @@ interface IncidentMetadata {
   armed: Armed
 }
 
+const db: IncidentMetadata[] = (require('./db') as number[][])
+  .map(el => ({ id: el[0], armed: el[1], race: el[2]}));
+
 interface IncidentData {
+  id: number,
   name: string;
   age: number;
   race: string;
   armed: string;
-  photo: string;
-  summary: string;
-  newslink: string;
-  youtube: string;
+  date: string,
+  manner_of_death: string,
+  gender: string,
+  city: string,
+  state: string,
+  signs_of_mental_illness: string,
+  threat_level: string,
+  flee: string,
+  body_camera: string
+
+  // Props that aren't in the data yet
+  photo?: string;
+  summary?: string;
+  newslink?: string;
+  youtube?: string;
 }
 
-const db: IncidentMetadata[] = (require('./db') as number[][])
-  .map(el => ({ id: el[0], race: el[1], armed: el[2]}));
+function withDefaults(data: IncidentData): IncidentData {
+  data.photo = data.photo || "https://i.insider.com/54806a086bb3f763254d6d6a?width=1100&format=jpeg&auto=webp";
+  data.summary = data.summary ||
+    "On July 17, 2014, Eric Garner died in the New York City borough of Staten Island after Daniel Pantaleo, \
+    a New York City Police Department (NYPD) officer, put him in a chokehold while arresting him. Video footage \
+    of the incident generated widespread national attention and raised questions about the appropriate use of \
+    force by law enforcement.";
+  data.newslink = data.newslink || "https://en.wikipedia.org/wiki/Death_of_Eric_Garner";
+  data.youtube = data.youtube || "https://www.youtube.com/embed/_s8JklrBSlk";
+  return data;
+}
 
 async function loadIncidentData(id: number): Promise<IncidentData> {
-  try {
     const data = await axios.get(`db/${id}.json`);
-    return data.data as IncidentData;
-  } catch {
-    const data = await axios.get(`db/0.json`);
-    data.data.name += " (default data, fetch failed)";
-    return data.data as IncidentData
-  }
+    return withDefaults(data.data as IncidentData);
 }
 
 interface AppProps {

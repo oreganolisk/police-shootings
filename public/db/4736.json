@@ -1,0 +1,16 @@
+{
+  "id": 4736,
+  "name": "Lori Markham",
+  "date": "2019-05-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "F",
+  "race": "W",
+  "city": "Carlsbad",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

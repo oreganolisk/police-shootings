@@ -1,0 +1,16 @@
+{
+  "id": 5380,
+  "name": "Jack Bolinger",
+  "date": "2020-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Wausau",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1744,
+  "name": "Donnell Thompson",
+  "date": "2016-07-28",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Compton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

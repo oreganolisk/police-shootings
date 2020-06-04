@@ -1,0 +1,16 @@
+{
+  "id": 2454,
+  "name": "Fred Barragan",
+  "date": "2017-03-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

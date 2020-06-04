@@ -1,0 +1,16 @@
+{
+  "id": 2140,
+  "name": "Martin Gomez",
+  "date": "2016-12-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "H",
+  "city": "Pharr",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

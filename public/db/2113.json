@@ -1,0 +1,16 @@
+{
+  "id": 2113,
+  "name": "Waltki Williams",
+  "date": "2016-12-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Sumter",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

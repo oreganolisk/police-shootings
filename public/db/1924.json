@@ -1,0 +1,16 @@
+{
+  "id": 1924,
+  "name": "Donte T. Jones",
+  "date": "2016-10-02",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Markham",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

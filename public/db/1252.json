@@ -1,0 +1,16 @@
+{
+  "id": 1252,
+  "name": "Eric Harris",
+  "date": "2016-02-08",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "New Orleans",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 893,
+  "name": "James  Dunaway",
+  "date": "2015-10-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Hurst",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3773,
+  "name": "Terrence White",
+  "date": "2018-06-14",
+  "manner_of_death": "shot",
+  "armed": "gun and car",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

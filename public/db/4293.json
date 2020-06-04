@@ -1,0 +1,16 @@
+{
+  "id": 4293,
+  "name": "Marcus Neal",
+  "date": "2018-12-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "B",
+  "city": "Buffalo",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

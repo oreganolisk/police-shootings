@@ -1,0 +1,16 @@
+{
+  "id": 2589,
+  "name": "Keith Andrew Chesser",
+  "date": "2017-05-15",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Wewoka",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

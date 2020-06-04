@@ -1,0 +1,16 @@
+{
+  "id": 3633,
+  "name": "Terrence Carlton",
+  "date": "2018-04-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Memphis",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

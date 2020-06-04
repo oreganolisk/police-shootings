@@ -1,0 +1,16 @@
+{
+  "id": 850,
+  "name": "Steven McKenny",
+  "date": "2015-09-21",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 21,
+  "gender": "M",
+  "race": "W",
+  "city": "Paris",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

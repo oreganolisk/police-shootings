@@ -1,0 +1,16 @@
+{
+  "id": 3950,
+  "name": "Gregory Campfield",
+  "date": "2018-08-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Landover",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

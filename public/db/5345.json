@@ -1,0 +1,16 @@
+{
+  "id": 5345,
+  "name": "Dedrick Thomas",
+  "date": "2019-12-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "B",
+  "city": "Forrest City",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3726,
+  "name": "Jerick Rasheem Gray",
+  "date": "2018-05-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 42,
+  "gender": "M",
+  "race": "B",
+  "city": "Thomasville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

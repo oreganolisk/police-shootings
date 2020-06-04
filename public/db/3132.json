@@ -1,0 +1,16 @@
+{
+  "id": 3132,
+  "name": "Eddy Longoria",
+  "date": "2017-11-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "St. Tammany Parish",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4986,
+  "name": "Raymond Lewis Williams",
+  "date": "2019-08-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "B",
+  "city": "Helena",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

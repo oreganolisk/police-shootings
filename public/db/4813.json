@@ -1,0 +1,16 @@
+{
+  "id": 4813,
+  "name": "Michael Norquest",
+  "date": "2019-06-26",
+  "manner_of_death": "shot",
+  "armed": "sword",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Timberville",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

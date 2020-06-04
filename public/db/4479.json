@@ -1,0 +1,16 @@
+{
+  "id": 4479,
+  "name": "Greg Alyn Carlson",
+  "date": "2019-02-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Apex",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

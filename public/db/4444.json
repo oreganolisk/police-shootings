@@ -1,0 +1,16 @@
+{
+  "id": 4444,
+  "name": "Ted Schmitz",
+  "date": "2019-02-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Waukesha",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

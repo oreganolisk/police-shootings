@@ -1,0 +1,16 @@
+{
+  "id": 67,
+  "name": "Scott Hall",
+  "date": "2015-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Mabank",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

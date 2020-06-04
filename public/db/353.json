@@ -1,0 +1,16 @@
+{
+  "id": 353,
+  "name": "David Garcia",
+  "date": "2015-01-26",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Wasco",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

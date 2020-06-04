@@ -1,0 +1,16 @@
+{
+  "id": 679,
+  "name": "Khari Westly",
+  "date": "2015-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Shreveport",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1051,
+  "name": "Syed Farook",
+  "date": "2015-12-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "O",
+  "city": "San Bernardino",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

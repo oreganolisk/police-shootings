@@ -1,0 +1,16 @@
+{
+  "id": 1331,
+  "name": "Travis Boyd Bradley",
+  "date": "2016-03-02",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Bel Air",
+  "state": "MD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

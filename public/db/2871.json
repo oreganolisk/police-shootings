@@ -1,0 +1,16 @@
+{
+  "id": 2871,
+  "name": "Larry Busby",
+  "date": "2015-10-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Old Town",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

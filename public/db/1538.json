@@ -1,0 +1,16 @@
+{
+  "id": 1538,
+  "name": "Jeffrey Sims",
+  "date": "2016-05-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Osteen",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

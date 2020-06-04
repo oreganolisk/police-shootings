@@ -1,0 +1,16 @@
+{
+  "id": 156,
+  "name": "Lawrence Caldwell",
+  "date": "2015-02-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Marana",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

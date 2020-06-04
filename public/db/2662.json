@@ -1,0 +1,16 @@
+{
+  "id": 2662,
+  "name": "Barry Jones",
+  "date": "2017-06-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Hampton",
+  "state": "NH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

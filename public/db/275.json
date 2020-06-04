@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "name": "James Brent Damon",
+  "date": "2015-03-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Dinosaur",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

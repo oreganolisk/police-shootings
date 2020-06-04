@@ -1,0 +1,16 @@
+{
+  "id": 3509,
+  "name": "Manuel Borrego",
+  "date": "2018-03-18",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "South El Monte",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

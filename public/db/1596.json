@@ -1,0 +1,16 @@
+{
+  "id": 1596,
+  "name": "Andrew Henson",
+  "date": "2016-06-07",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Wagoner",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

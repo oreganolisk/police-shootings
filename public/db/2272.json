@@ -1,0 +1,16 @@
+{
+  "id": 2272,
+  "name": "Eduardo Hernandez",
+  "date": "2017-01-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "H",
+  "city": "Alhambra",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

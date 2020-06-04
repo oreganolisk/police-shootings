@@ -1,0 +1,16 @@
+{
+  "id": 4562,
+  "name": "Brandon Stacey",
+  "date": "2019-03-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

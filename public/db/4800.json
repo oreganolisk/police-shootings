@@ -1,0 +1,16 @@
+{
+  "id": 4800,
+  "name": "Juan Carlos Chapa",
+  "date": "2019-06-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Mission",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

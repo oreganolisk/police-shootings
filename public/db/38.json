@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "name": "Jimmy Foreman",
+  "date": "2015-01-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 71,
+  "gender": "M",
+  "race": "W",
+  "city": "England",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

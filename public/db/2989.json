@@ -1,0 +1,16 @@
+{
+  "id": 2989,
+  "name": "Anthony Wallace",
+  "date": "2017-09-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Spring Hill",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

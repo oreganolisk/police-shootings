@@ -1,0 +1,16 @@
+{
+  "id": 2015,
+  "name": "Abraham Ortiz",
+  "date": "2016-11-04",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Palm Springs",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4886,
+  "name": "James Manzo",
+  "date": "2019-07-23",
+  "manner_of_death": "shot",
+  "armed": "scissors",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Asbury Park",
+  "state": "NJ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

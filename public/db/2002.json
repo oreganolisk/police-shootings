@@ -1,0 +1,16 @@
+{
+  "id": 2002,
+  "name": "Jun Wang",
+  "date": "2016-10-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 45,
+  "gender": "M",
+  "race": "A",
+  "city": "North Royalton",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

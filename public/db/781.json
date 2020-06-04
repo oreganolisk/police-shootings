@@ -1,0 +1,16 @@
+{
+  "id": 781,
+  "name": "Bertrand Davis",
+  "date": "2015-08-27",
+  "manner_of_death": "shot and Tasered",
+  "armed": "box cutter",
+  "age": 42,
+  "gender": "M",
+  "race": "B",
+  "city": "Dallas",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

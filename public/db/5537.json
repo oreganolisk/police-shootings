@@ -1,0 +1,16 @@
+{
+  "id": 5537,
+  "name": "Timothy Leroy Harrington",
+  "date": "2020-02-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Polkton",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

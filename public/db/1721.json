@@ -1,0 +1,16 @@
+{
+  "id": 1721,
+  "name": "Jerry Brimer",
+  "date": "2016-07-18",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

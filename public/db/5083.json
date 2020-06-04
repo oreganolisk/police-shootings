@@ -1,0 +1,16 @@
+{
+  "id": 5083,
+  "name": "Leo Craig",
+  "date": "2019-10-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "True"
+}

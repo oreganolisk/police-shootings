@@ -1,0 +1,16 @@
+{
+  "id": 3489,
+  "name": "Jaden Marsh",
+  "date": "2018-03-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 16,
+  "gender": "M",
+  "race": "W",
+  "city": "Midland",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

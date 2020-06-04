@@ -1,0 +1,16 @@
+{
+  "id": 3784,
+  "name": "TK TK",
+  "date": "2018-06-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "",
+  "city": "Van Nuys",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

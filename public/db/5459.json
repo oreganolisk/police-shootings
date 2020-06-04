@@ -1,0 +1,16 @@
+{
+  "id": 5459,
+  "name": "Johnny M. Vigil",
+  "date": "2019-07-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "",
+  "city": "Tularosa",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

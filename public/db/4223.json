@@ -1,0 +1,16 @@
+{
+  "id": 4223,
+  "name": "Sierra McCauley",
+  "date": "2018-11-26",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "F",
+  "race": "",
+  "city": "South Knoxville",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

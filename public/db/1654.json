@@ -1,0 +1,16 @@
+{
+  "id": 1654,
+  "name": "Waldemar Bogusiewicz",
+  "date": "2016-06-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Pinellas Park",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

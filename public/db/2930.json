@@ -1,0 +1,16 @@
+{
+  "id": 2930,
+  "name": "Jashod Arthur Carter",
+  "date": "2017-07-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Norco",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4286,
+  "name": "James N. Robertson",
+  "date": "2018-12-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "West Wendover",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

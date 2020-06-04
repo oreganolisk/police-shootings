@@ -1,0 +1,16 @@
+{
+  "id": 272,
+  "name": "Aurelio Duarte",
+  "date": "2015-03-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

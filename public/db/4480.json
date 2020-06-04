@@ -1,0 +1,16 @@
+{
+  "id": 4480,
+  "name": "Tommy Kirby",
+  "date": "2019-02-24",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 41,
+  "gender": "M",
+  "race": "",
+  "city": "Flint",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

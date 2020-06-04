@@ -1,0 +1,16 @@
+{
+  "id": 505,
+  "name": "Joseph Ladd",
+  "date": "2015-06-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Greece",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

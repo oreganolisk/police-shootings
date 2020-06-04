@@ -1,0 +1,16 @@
+{
+  "id": 1867,
+  "name": "Robert Lee Brown",
+  "date": "2016-09-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 55,
+  "gender": "M",
+  "race": "B",
+  "city": "Albany",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

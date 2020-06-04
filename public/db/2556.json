@@ -1,0 +1,16 @@
+{
+  "id": 2556,
+  "name": "Nicholas Flusche",
+  "date": "2017-05-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "San Francisco",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

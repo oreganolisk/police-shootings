@@ -1,0 +1,16 @@
+{
+  "id": 5837,
+  "name": "Gary P. Dorton",
+  "date": "2020-05-25",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 43,
+  "gender": "M",
+  "race": "",
+  "city": "Jonesborough",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

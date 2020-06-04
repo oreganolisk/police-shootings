@@ -1,0 +1,16 @@
+{
+  "id": 2965,
+  "name": "Magdiel Sanchez",
+  "date": "2017-09-20",
+  "manner_of_death": "shot",
+  "armed": "pipe",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

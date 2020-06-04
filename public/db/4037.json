@@ -1,0 +1,16 @@
+{
+  "id": 4037,
+  "name": "Bruce Smith",
+  "date": "2018-09-16",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Manitowoc",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

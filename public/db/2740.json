@@ -1,0 +1,16 @@
+{
+  "id": 2740,
+  "name": "Cody Ray McCray",
+  "date": "2017-07-04",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Centerville",
+  "state": "UT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

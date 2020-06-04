@@ -1,0 +1,16 @@
+{
+  "id": 2691,
+  "name": "Armando Garcia-Muro",
+  "date": "2017-06-22",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 17,
+  "gender": "M",
+  "race": "H",
+  "city": "Palmdale",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

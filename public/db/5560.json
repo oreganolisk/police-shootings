@@ -1,0 +1,16 @@
+{
+  "id": 5560,
+  "name": "Jeremy Dewey",
+  "date": "2020-02-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "N",
+  "city": "Pinetop",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

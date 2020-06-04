@@ -1,0 +1,16 @@
+{
+  "id": 5566,
+  "name": "Ronnell Mouzon",
+  "date": "2020-02-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Fort Myers",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

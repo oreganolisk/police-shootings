@@ -1,0 +1,16 @@
+{
+  "id": 1849,
+  "name": "Joseph Moreno",
+  "date": "2016-09-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Alamogordo",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

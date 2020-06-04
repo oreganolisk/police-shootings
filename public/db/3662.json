@@ -1,0 +1,16 @@
+{
+  "id": 3662,
+  "name": "Timothy Raye Mayfield",
+  "date": "2018-05-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 67,
+  "gender": "M",
+  "race": "B",
+  "city": "Dallas",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

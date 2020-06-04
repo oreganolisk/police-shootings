@@ -1,0 +1,16 @@
+{
+  "id": 523,
+  "name": "James Johnson",
+  "date": "2015-06-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Beech Grove",
+  "state": "IN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

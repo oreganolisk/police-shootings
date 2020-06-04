@@ -1,0 +1,16 @@
+{
+  "id": 3599,
+  "name": "Daniel Joseph Carver",
+  "date": "2018-04-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Reseda",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

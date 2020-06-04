@@ -1,0 +1,16 @@
+{
+  "id": 1218,
+  "name": "Christopher Michael Dew",
+  "date": "2016-01-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Irving",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

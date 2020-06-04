@@ -1,0 +1,16 @@
+{
+  "id": 3370,
+  "name": "Albert E. Morton",
+  "date": "2018-02-01",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Harrisburg",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

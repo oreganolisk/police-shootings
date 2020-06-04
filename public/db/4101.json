@@ -1,0 +1,16 @@
+{
+  "id": 4101,
+  "name": "Eric Jamar Lupain Stromer",
+  "date": "2018-10-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Jeffersonville",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

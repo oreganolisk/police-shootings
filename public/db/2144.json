@@ -1,0 +1,16 @@
+{
+  "id": 2144,
+  "name": "David Coborubio",
+  "date": "2016-08-25",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Compton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

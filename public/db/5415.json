@@ -1,0 +1,16 @@
+{
+  "id": 5415,
+  "name": "Kevin Leroy Beasley",
+  "date": "2019-04-26",
+  "manner_of_death": "shot",
+  "armed": "rock",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

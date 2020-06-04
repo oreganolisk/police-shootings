@@ -1,0 +1,16 @@
+{
+  "id": 5319,
+  "name": "Heriberto Rodriguez",
+  "date": "2019-12-28",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 27,
+  "gender": "M",
+  "race": "H",
+  "city": "Bakersfield",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

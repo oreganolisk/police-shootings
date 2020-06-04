@@ -1,0 +1,16 @@
+{
+  "id": 5206,
+  "name": "Paul Cheek",
+  "date": "2019-11-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Dahlonega",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

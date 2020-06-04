@@ -1,0 +1,16 @@
+{
+  "id": 1406,
+  "name": "Andrew Mike",
+  "date": "2016-03-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Redlands",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

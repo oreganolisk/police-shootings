@@ -1,0 +1,16 @@
+{
+  "id": 569,
+  "name": "Damien A. Harrell",
+  "date": "2015-06-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "York County",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

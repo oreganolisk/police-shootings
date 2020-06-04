@@ -1,0 +1,16 @@
+{
+  "id": 4989,
+  "name": "Wallace Wilder",
+  "date": "2019-08-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 62,
+  "gender": "M",
+  "race": "B",
+  "city": "Gordo",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4486,
+  "name": "Sterling Durant Humbert",
+  "date": "2019-02-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Carrollton",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2641,
+  "name": "David W. Hamilton",
+  "date": "2017-06-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "",
+  "city": "Vancouver",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

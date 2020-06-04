@@ -1,0 +1,16 @@
+{
+  "id": 5294,
+  "name": "Gary Wayne Madewell",
+  "date": "2019-12-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Smith County",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 700,
+  "name": "Shawn Ruble",
+  "date": "2015-08-03",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Muncie",
+  "state": "IN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

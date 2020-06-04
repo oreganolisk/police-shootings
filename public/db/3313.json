@@ -1,0 +1,16 @@
+{
+  "id": 3313,
+  "name": "Terry Amons",
+  "date": "2018-01-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "B",
+  "city": "Pittsburg",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

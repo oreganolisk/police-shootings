@@ -1,0 +1,16 @@
+{
+  "id": 178,
+  "name": "Glenn Lewis",
+  "date": "2015-02-25",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

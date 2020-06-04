@@ -1,0 +1,16 @@
+{
+  "id": 2675,
+  "name": "William Webster",
+  "date": "2017-06-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "W",
+  "city": "Waukesha",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

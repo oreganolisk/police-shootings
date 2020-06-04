@@ -1,0 +1,16 @@
+{
+  "id": 154,
+  "name": "Daniel Mejia",
+  "date": "2015-02-13",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "San Manuel",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

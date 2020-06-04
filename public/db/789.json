@@ -1,0 +1,16 @@
+{
+  "id": 789,
+  "name": "Roger Albrecht",
+  "date": "2015-08-29",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": "",
+  "gender": "M",
+  "race": "W",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

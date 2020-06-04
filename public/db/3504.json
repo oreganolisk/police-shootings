@@ -1,0 +1,16 @@
+{
+  "id": 3504,
+  "name": "Osbaldo Jimenez Ramirez",
+  "date": "2018-03-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "H",
+  "city": "Valley View",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

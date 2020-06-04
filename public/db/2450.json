@@ -1,0 +1,16 @@
+{
+  "id": 2450,
+  "name": "Don Johnson",
+  "date": "2017-03-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Crowley",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1391,
+  "name": "Clarence Briggs",
+  "date": "2016-03-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Fort Littleton",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

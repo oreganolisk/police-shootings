@@ -1,0 +1,16 @@
+{
+  "id": 2468,
+  "name": "Troy Boyle",
+  "date": "2017-03-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Stockton",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

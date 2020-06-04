@@ -1,0 +1,16 @@
+{
+  "id": 2891,
+  "name": "Robert Earl Adams",
+  "date": "2017-08-22",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Orcutt",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

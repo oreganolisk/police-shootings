@@ -1,0 +1,16 @@
+{
+  "id": 3001,
+  "name": "Marquinton T. Brooks",
+  "date": "2017-10-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "West Ouachita",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

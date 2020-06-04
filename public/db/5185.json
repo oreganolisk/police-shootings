@@ -1,0 +1,16 @@
+{
+  "id": 5185,
+  "name": "Ray Correll",
+  "date": "2019-11-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Lincolnton",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

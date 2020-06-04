@@ -1,0 +1,16 @@
+{
+  "id": 3350,
+  "name": "Shane McVey",
+  "date": "2018-01-23",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Idaho Falls",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5250,
+  "name": "Cameron Lamb",
+  "date": "2019-12-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "Kansas City",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

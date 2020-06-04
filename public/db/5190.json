@@ -1,0 +1,16 @@
+{
+  "id": 5190,
+  "name": "Treon McCoy",
+  "date": "2019-11-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Charlotte",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

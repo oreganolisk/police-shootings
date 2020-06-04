@@ -1,0 +1,16 @@
+{
+  "id": 4466,
+  "name": "Delmar Espejo",
+  "date": "2019-02-18",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 20,
+  "gender": "M",
+  "race": "A",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

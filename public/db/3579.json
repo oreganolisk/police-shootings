@@ -1,0 +1,16 @@
+{
+  "id": 3579,
+  "name": "Jeffrey Louis Parker",
+  "date": "2018-04-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntsville",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

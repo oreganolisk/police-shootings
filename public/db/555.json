@@ -1,0 +1,16 @@
+{
+  "id": 555,
+  "name": "Adrian Simental",
+  "date": "2015-06-21",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Azusa",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

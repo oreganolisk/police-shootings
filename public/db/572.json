@@ -1,0 +1,16 @@
+{
+  "id": 572,
+  "name": "Joshua Dyer",
+  "date": "2015-06-23",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Indianapolis",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

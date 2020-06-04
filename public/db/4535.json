@@ -1,0 +1,16 @@
+{
+  "id": 4535,
+  "name": "Jared D. Kelly",
+  "date": "2019-03-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "",
+  "city": "Springfield",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

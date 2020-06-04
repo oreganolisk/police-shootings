@@ -1,0 +1,16 @@
+{
+  "id": 828,
+  "name": "Joseph Thompson Johnson-Shanks",
+  "date": "2015-09-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Princeton",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

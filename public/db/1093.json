@@ -1,0 +1,16 @@
+{
+  "id": 1093,
+  "name": "Hector Alvarez",
+  "date": "2015-12-14",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Gilroy",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "True"
+}

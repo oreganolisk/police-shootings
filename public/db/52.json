@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "name": "Talbot Schroeder",
+  "date": "2015-01-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 75,
+  "gender": "M",
+  "race": "W",
+  "city": "Old Bridge",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1184,
+  "name": "Timothy Caruthers",
+  "date": "2016-01-18",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Medford",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

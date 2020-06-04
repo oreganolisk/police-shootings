@@ -1,0 +1,16 @@
+{
+  "id": 5790,
+  "name": "Dreasjon Reed",
+  "date": "2020-05-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Indianapolis",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

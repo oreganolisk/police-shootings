@@ -1,0 +1,16 @@
+{
+  "id": 4665,
+  "name": "Phillip Thomas Marsh",
+  "date": "2019-04-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "DeLand",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

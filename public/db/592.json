@@ -1,0 +1,16 @@
+{
+  "id": 592,
+  "name": "John Deming",
+  "date": "2015-07-05",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "W",
+  "city": "Pleasanton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

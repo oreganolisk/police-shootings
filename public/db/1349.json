@@ -1,0 +1,16 @@
+{
+  "id": 1349,
+  "name": "Wesley Sheppard",
+  "date": "2016-03-10",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 37,
+  "gender": "M",
+  "race": "W",
+  "city": "Biloxi",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

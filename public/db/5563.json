@@ -1,0 +1,16 @@
+{
+  "id": 5563,
+  "name": "Dominique Antwon Anderson",
+  "date": "2020-02-04",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "Home Garden",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

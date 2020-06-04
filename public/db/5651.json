@@ -1,0 +1,16 @@
+{
+  "id": 5651,
+  "name": "Harold Spencer",
+  "date": "2020-03-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 61,
+  "gender": "M",
+  "race": "B",
+  "city": "Iota",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

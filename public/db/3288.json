@@ -1,0 +1,16 @@
+{
+  "id": 3288,
+  "name": "Archie Lawhon III",
+  "date": "2018-01-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Romance",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

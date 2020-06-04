@@ -1,0 +1,16 @@
+{
+  "id": 5201,
+  "name": "Cody McClintick",
+  "date": "2019-11-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Kansas City",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

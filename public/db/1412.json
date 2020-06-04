@@ -1,0 +1,16 @@
+{
+  "id": 1412,
+  "name": "Jose Perez",
+  "date": "2016-03-26",
+  "manner_of_death": "shot",
+  "armed": "meat cleaver",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Lowell",
+  "state": "MA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

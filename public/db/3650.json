@@ -1,0 +1,16 @@
+{
+  "id": 3650,
+  "name": "Brandon Busher",
+  "date": "2018-04-29",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Shreveport",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

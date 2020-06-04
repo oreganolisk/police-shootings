@@ -1,0 +1,16 @@
+{
+  "id": 3520,
+  "name": "Steven Nguyen",
+  "date": "2018-03-19",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 27,
+  "gender": "M",
+  "race": "A",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

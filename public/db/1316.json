@@ -1,0 +1,16 @@
+{
+  "id": 1316,
+  "name": "Francisco Garcia",
+  "date": "2016-02-24",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Cerritos",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3768,
+  "name": "Chavius Hollis",
+  "date": "2018-06-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "Monroe",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

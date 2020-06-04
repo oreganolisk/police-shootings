@@ -1,0 +1,16 @@
+{
+  "id": 698,
+  "name": "Joshua Malave",
+  "date": "2015-08-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Campbelltown",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

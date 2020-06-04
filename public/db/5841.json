@@ -1,0 +1,16 @@
+{
+  "id": 5841,
+  "name": "Dion Johnson",
+  "date": "2020-05-25",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 28,
+  "gender": "M",
+  "race": "",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

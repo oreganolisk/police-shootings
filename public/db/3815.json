@@ -1,0 +1,16 @@
+{
+  "id": 3815,
+  "name": "Jason Washington",
+  "date": "2018-06-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Portland",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

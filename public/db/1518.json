@@ -1,0 +1,16 @@
+{
+  "id": 1518,
+  "name": "Deresha Armstrong",
+  "date": "2016-05-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "F",
+  "race": "B",
+  "city": "Orlando",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 449,
+  "name": "Bruce Zalonka",
+  "date": "2015-05-12",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "O",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

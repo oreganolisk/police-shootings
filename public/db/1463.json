@@ -1,0 +1,16 @@
+{
+  "id": 1463,
+  "name": "Jeff Robertson",
+  "date": "2016-04-14",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "McPherson",
+  "state": "KS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

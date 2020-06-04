@@ -1,0 +1,16 @@
+{
+  "id": 4220,
+  "name": "Bert E. Mercado",
+  "date": "2018-11-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "A",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

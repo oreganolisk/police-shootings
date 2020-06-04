@@ -1,0 +1,16 @@
+{
+  "id": 602,
+  "name": "Joseph Julian",
+  "date": "2015-07-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Miami Beach",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5733,
+  "name": "Joshua Dariandre Ruffin",
+  "date": "2020-04-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbia",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

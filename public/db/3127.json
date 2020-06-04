@@ -1,0 +1,16 @@
+{
+  "id": 3127,
+  "name": "Kiser L. Sturgell",
+  "date": "2017-11-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Flatwoods",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

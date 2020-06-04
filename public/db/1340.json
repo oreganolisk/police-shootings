@@ -1,0 +1,16 @@
+{
+  "id": 1340,
+  "name": "Osvaldo Torres",
+  "date": "2016-03-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "H",
+  "city": "South Gate",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

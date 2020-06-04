@@ -1,0 +1,16 @@
+{
+  "id": 5795,
+  "name": "David Urrea",
+  "date": "2020-05-10",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Joshua Tree",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

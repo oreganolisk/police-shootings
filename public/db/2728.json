@@ -1,0 +1,16 @@
+{
+  "id": 2728,
+  "name": "Tyson Williams",
+  "date": "2017-07-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Norfolk",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

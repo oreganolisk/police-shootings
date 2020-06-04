@@ -1,0 +1,16 @@
+{
+  "id": 5090,
+  "name": "Atatiana Jefferson",
+  "date": "2019-10-12",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 28,
+  "gender": "F",
+  "race": "B",
+  "city": "Fort Worth",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

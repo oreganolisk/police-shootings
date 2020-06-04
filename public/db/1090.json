@@ -1,0 +1,16 @@
+{
+  "id": 1090,
+  "name": "Michael  Thomason",
+  "date": "2015-12-14",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Humboldt",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

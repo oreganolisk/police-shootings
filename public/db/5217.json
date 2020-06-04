@@ -1,0 +1,16 @@
+{
+  "id": 5217,
+  "name": "McLemore Ronald",
+  "date": "2019-10-19",
+  "manner_of_death": "shot",
+  "armed": "baseball bat and knife",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Leesburg",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

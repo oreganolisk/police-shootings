@@ -1,0 +1,16 @@
+{
+  "id": 2870,
+  "name": "Martin Arturo Rivera",
+  "date": "2015-11-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "",
+  "city": "Fontana",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

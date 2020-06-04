@@ -1,0 +1,16 @@
+{
+  "id": 2654,
+  "name": "Isaiah Obet",
+  "date": "2017-06-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 25,
+  "gender": "M",
+  "race": "O",
+  "city": "Auburn",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

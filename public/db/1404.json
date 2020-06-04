@@ -1,0 +1,16 @@
+{
+  "id": 1404,
+  "name": "Robert L. Dussourd",
+  "date": "2016-03-24",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Braintree",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

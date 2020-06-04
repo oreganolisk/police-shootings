@@ -1,0 +1,16 @@
+{
+  "id": 5061,
+  "name": "David Page",
+  "date": "2019-09-29",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 20,
+  "gender": "M",
+  "race": "W",
+  "city": "Monument",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 288,
+  "name": "Donald Hicks",
+  "date": "2015-04-02",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 63,
+  "gender": "M",
+  "race": "W",
+  "city": "Metropolis",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

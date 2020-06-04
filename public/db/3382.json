@@ -1,0 +1,16 @@
+{
+  "id": 3382,
+  "name": "Anthony Jacob Weber",
+  "date": "2018-02-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 16,
+  "gender": "M",
+  "race": "B",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

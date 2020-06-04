@@ -1,0 +1,16 @@
+{
+  "id": 3758,
+  "name": "Roger Dale Sims",
+  "date": "2018-06-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "LaGrange",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

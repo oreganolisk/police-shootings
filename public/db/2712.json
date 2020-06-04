@@ -1,0 +1,16 @@
+{
+  "id": 2712,
+  "name": "David Eric Ufferman",
+  "date": "2017-03-26",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Delray Beach",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

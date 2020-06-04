@@ -1,0 +1,16 @@
+{
+  "id": 1982,
+  "name": "Javier Munoz",
+  "date": "2016-10-19",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 28,
+  "gender": "M",
+  "race": "H",
+  "city": "Henderson",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

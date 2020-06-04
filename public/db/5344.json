@@ -1,0 +1,16 @@
+{
+  "id": 5344,
+  "name": "Derrick A. Elseth",
+  "date": "2020-01-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Richmond County",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

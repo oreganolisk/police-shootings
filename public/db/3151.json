@@ -1,0 +1,16 @@
+{
+  "id": 3151,
+  "name": "Brian Calvert",
+  "date": "2017-11-18",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Warren County",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

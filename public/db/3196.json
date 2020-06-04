@@ -1,0 +1,16 @@
+{
+  "id": 3196,
+  "name": "Ira Crawford",
+  "date": "2017-12-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "",
+  "city": "Mobile",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

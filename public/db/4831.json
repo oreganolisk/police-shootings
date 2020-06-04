@@ -1,0 +1,16 @@
+{
+  "id": 4831,
+  "name": "Jason Nash",
+  "date": "2019-06-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Bristol",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

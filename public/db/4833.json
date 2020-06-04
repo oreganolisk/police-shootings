@@ -1,0 +1,16 @@
+{
+  "id": 4833,
+  "name": "Ysidro Osornio-Velasquez",
+  "date": "2019-06-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Menifee",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

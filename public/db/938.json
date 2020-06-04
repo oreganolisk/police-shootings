@@ -1,0 +1,16 @@
+{
+  "id": 938,
+  "name": "Darien Greenwood",
+  "date": "2015-10-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Mandeville",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

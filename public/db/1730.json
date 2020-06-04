@@ -1,0 +1,16 @@
+{
+  "id": 1730,
+  "name": "Alvin R. Sylversmythe",
+  "date": "2016-07-24",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "N",
+  "city": "Gallup",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

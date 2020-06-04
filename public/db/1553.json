@@ -1,0 +1,16 @@
+{
+  "id": 1553,
+  "name": "Travis Moore",
+  "date": "2016-05-21",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Oregon City",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

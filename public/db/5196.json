@@ -1,0 +1,16 @@
+{
+  "id": 5196,
+  "name": "Robert Sikon",
+  "date": "2019-11-16",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Alliance",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

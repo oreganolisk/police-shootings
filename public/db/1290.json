@@ -1,0 +1,16 @@
+{
+  "id": 1290,
+  "name": "Sherrisa Homer",
+  "date": "2016-02-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "F",
+  "race": "N",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

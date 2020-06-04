@@ -1,0 +1,16 @@
+{
+  "id": 2995,
+  "name": "Marquis \"Bubba\" Jones",
+  "date": "2017-10-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "West Burlington",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "True"
+}

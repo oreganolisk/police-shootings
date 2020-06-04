@@ -1,0 +1,16 @@
+{
+  "id": 4000,
+  "name": "Randall McKenzie",
+  "date": "2018-08-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 72,
+  "gender": "M",
+  "race": "W",
+  "city": "Washington Court House",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3041,
+  "name": "Luis David Flores",
+  "date": "2017-10-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Picture Rocks",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

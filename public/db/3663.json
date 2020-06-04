@@ -1,0 +1,16 @@
+{
+  "id": 3663,
+  "name": "Damion Collier",
+  "date": "2018-05-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbus",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3977,
+  "name": "Spencer Mendez",
+  "date": "2018-08-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 15,
+  "gender": "M",
+  "race": "H",
+  "city": "Ceres",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "True"
+}

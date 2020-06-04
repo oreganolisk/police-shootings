@@ -1,0 +1,16 @@
+{
+  "id": 1380,
+  "name": "Boyd Keith Ballard",
+  "date": "2016-03-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Hopewell",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2538,
+  "name": "Jordan Edwards",
+  "date": "2017-04-29",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 15,
+  "gender": "M",
+  "race": "B",
+  "city": "Balch Springs",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

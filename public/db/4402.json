@@ -1,0 +1,16 @@
+{
+  "id": 4402,
+  "name": "D'ettrick Griffin",
+  "date": "2019-01-15",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Atlanta",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

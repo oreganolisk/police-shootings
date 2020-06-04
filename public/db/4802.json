@@ -1,0 +1,16 @@
+{
+  "id": 4802,
+  "name": "Brian Isaack Clyde",
+  "date": "2019-06-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Dallas",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5368,
+  "name": "Brad Stirewalt",
+  "date": "2020-01-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Carthage",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2638,
+  "name": "Adrian Maurice Hardeman",
+  "date": "2017-06-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "B",
+  "city": "Gonzales County",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

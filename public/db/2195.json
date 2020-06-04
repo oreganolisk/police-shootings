@@ -1,0 +1,16 @@
+{
+  "id": 2195,
+  "name": "Randy Wayne Cole",
+  "date": "2017-01-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Monteagle",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

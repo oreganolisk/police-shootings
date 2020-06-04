@@ -1,0 +1,16 @@
+{
+  "id": 188,
+  "name": "Thomas Allen",
+  "date": "2015-02-28",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "St Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

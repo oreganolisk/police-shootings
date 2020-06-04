@@ -1,0 +1,16 @@
+{
+  "id": 3826,
+  "name": "Raad Fakhri Salman",
+  "date": "2018-07-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 62,
+  "gender": "M",
+  "race": "A",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2981,
+  "name": "Bryan Wright",
+  "date": "2017-09-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Hattiesburg",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3323,
+  "name": "Kerry Lee Nield",
+  "date": "2018-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "F",
+  "race": "W",
+  "city": "Gooding",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

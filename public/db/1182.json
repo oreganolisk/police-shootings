@@ -1,0 +1,16 @@
+{
+  "id": 1182,
+  "name": "Eric Provost",
+  "date": "2016-01-18",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Orlando",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

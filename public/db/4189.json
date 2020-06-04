@@ -1,0 +1,16 @@
+{
+  "id": 4189,
+  "name": "Jack Fields, Jr.",
+  "date": "2018-11-15",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Augusta",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

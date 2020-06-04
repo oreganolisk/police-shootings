@@ -1,0 +1,16 @@
+{
+  "id": 1505,
+  "name": "Mark Daniel Bess",
+  "date": "2016-04-30",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Spanish Fork",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3910,
+  "name": "Jonathan Joey Mendoza",
+  "date": "2018-08-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Hereford",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

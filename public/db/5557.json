@@ -1,0 +1,16 @@
+{
+  "id": 5557,
+  "name": "John Daniel Dixon",
+  "date": "2020-02-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 75,
+  "gender": "M",
+  "race": "W",
+  "city": "DeKalb County",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

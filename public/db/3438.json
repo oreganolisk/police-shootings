@@ -1,0 +1,16 @@
+{
+  "id": 3438,
+  "name": "Joshua Kinnard",
+  "date": "2018-02-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "W",
+  "city": "Gilbert",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4272,
+  "name": "Jarvis Randall",
+  "date": "2018-12-01",
+  "manner_of_death": "shot",
+  "armed": "straight edge razor",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Tamarac",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

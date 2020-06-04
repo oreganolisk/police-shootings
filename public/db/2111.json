@@ -1,0 +1,16 @@
+{
+  "id": 2111,
+  "name": "Daniel Riedmann",
+  "date": "2016-12-07",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Sioux City",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3692,
+  "name": "TK TK",
+  "date": "2018-05-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "York",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

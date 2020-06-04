@@ -1,0 +1,16 @@
+{
+  "id": 1132,
+  "name": "Sean Mould",
+  "date": "2015-12-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Tempe",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

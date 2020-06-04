@@ -1,0 +1,16 @@
+{
+  "id": 1183,
+  "name": "Brandon Bearden",
+  "date": "2016-01-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Sevierville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

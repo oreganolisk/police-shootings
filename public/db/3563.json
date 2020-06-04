@@ -1,0 +1,16 @@
+{
+  "id": 3563,
+  "name": "Joseph Walden Johnson",
+  "date": "2018-04-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Goodbee",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

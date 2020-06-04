@@ -1,0 +1,16 @@
+{
+  "id": 5403,
+  "name": "Gerardo Antonio Conchas-Bustas",
+  "date": "2020-01-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 20,
+  "gender": "M",
+  "race": "O",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

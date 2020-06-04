@@ -1,0 +1,16 @@
+{
+  "id": 737,
+  "name": "Charles Bertram",
+  "date": "2015-08-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

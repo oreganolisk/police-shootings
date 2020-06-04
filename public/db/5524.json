@@ -1,0 +1,16 @@
+{
+  "id": 5524,
+  "name": "Michael Collins",
+  "date": "2020-02-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Sapulpa",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

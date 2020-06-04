@@ -1,0 +1,16 @@
+{
+  "id": 905,
+  "name": "Travis Quay",
+  "date": "2015-10-10",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Cato Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

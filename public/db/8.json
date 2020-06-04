@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "name": "Matthew Hoffman",
+  "date": "2015-01-04",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "San Francisco",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

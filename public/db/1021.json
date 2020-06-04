@@ -1,0 +1,16 @@
+{
+  "id": 1021,
+  "name": "Steve Dormil",
+  "date": "2015-11-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Fort Pierce",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

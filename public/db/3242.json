@@ -1,0 +1,16 @@
+{
+  "id": 3242,
+  "name": "Robert Miller",
+  "date": "2017-12-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "",
+  "city": "Tulare",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 605,
+  "name": "Johnny Ray Anderson",
+  "date": "2015-07-05",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Hawaiian Gardens",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

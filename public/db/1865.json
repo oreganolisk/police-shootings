@@ -1,0 +1,16 @@
+{
+  "id": 1865,
+  "name": "Larry Grant Whitehead",
+  "date": "2016-09-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 70,
+  "gender": "M",
+  "race": "W",
+  "city": "Gray",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

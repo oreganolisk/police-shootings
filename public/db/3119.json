@@ -1,0 +1,16 @@
+{
+  "id": 3119,
+  "name": "Joseph Santos",
+  "date": "2017-11-09",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Providence",
+  "state": "RI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

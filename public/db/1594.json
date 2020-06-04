@@ -1,0 +1,16 @@
+{
+  "id": 1594,
+  "name": "Demarco Rhymes",
+  "date": "2016-06-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Eufaula",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "True"
+}

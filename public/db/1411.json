@@ -1,0 +1,16 @@
+{
+  "id": 1411,
+  "name": "Loreal Tsingine",
+  "date": "2016-03-27",
+  "manner_of_death": "shot",
+  "armed": "scissors",
+  "age": 27,
+  "gender": "F",
+  "race": "N",
+  "city": "Winslow",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

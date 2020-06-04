@@ -1,0 +1,16 @@
+{
+  "id": 995,
+  "name": "Eddie Gabriel Sanchez",
+  "date": "2015-11-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Chico",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4747,
+  "name": "David Hoal",
+  "date": "2019-06-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Collierville",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

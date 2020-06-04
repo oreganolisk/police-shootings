@@ -1,0 +1,16 @@
+{
+  "id": 4100,
+  "name": "Kay Kenniker",
+  "date": "2018-10-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 84,
+  "gender": "M",
+  "race": "W",
+  "city": "Chandler",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

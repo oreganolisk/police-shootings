@@ -1,0 +1,16 @@
+{
+  "id": 2647,
+  "name": "Oscar Junior",
+  "date": "2017-06-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "H",
+  "city": "Bakersfield",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

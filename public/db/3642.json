@@ -1,0 +1,16 @@
+{
+  "id": 3642,
+  "name": "Demonjhea Jordan",
+  "date": "2018-04-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "True"
+}

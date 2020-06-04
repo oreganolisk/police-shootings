@@ -1,0 +1,16 @@
+{
+  "id": 5671,
+  "name": "Steven Taylor",
+  "date": "2020-04-18",
+  "manner_of_death": "shot",
+  "armed": "baseball bat",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "San Leandro",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

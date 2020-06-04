@@ -1,0 +1,16 @@
+{
+  "id": 4873,
+  "name": "Samuel Fullerton",
+  "date": "2019-07-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "",
+  "city": "Stone County",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

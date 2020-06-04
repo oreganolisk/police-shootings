@@ -1,0 +1,16 @@
+{
+  "id": 177,
+  "name": "Joseph Biegert",
+  "date": "2015-02-24",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Green Bay",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

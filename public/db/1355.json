@@ -1,0 +1,16 @@
+{
+  "id": 1355,
+  "name": "Manford \"Butch\" Moore Jr.",
+  "date": "2016-03-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Rosalia",
+  "state": "KS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

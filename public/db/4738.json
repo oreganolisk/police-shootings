@@ -1,0 +1,16 @@
+{
+  "id": 4738,
+  "name": "Robert Sabater",
+  "date": "2019-05-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Wichita",
+  "state": "KS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

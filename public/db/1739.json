@@ -1,0 +1,16 @@
+{
+  "id": 1739,
+  "name": "Dylan Liberti",
+  "date": "2016-07-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

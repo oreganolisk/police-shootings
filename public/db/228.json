@@ -1,0 +1,16 @@
+{
+  "id": 228,
+  "name": "Shane Watkins",
+  "date": "2015-03-19",
+  "manner_of_death": "shot",
+  "armed": "box cutter",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Lawrence County",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3011,
+  "name": "Chad Cochell",
+  "date": "2017-10-04",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Spokane",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

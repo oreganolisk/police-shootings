@@ -1,0 +1,16 @@
+{
+  "id": 4713,
+  "name": "Sharell Brown",
+  "date": "2019-05-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

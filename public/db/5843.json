@@ -1,0 +1,16 @@
+{
+  "id": 5843,
+  "name": "Tony McDade",
+  "date": "2020-05-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "B",
+  "city": "Tallahassee",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

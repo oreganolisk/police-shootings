@@ -1,0 +1,16 @@
+{
+  "id": 1770,
+  "name": "James Quealy",
+  "date": "2016-08-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Beaver Dam",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

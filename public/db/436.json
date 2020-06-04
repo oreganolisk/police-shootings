@@ -1,0 +1,16 @@
+{
+  "id": 436,
+  "name": "Nephi Arriguin",
+  "date": "2015-05-07",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Cerritos",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

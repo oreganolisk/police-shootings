@@ -1,0 +1,16 @@
+{
+  "id": 3128,
+  "name": "Ashley Jenkins",
+  "date": "2017-11-09",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 23,
+  "gender": "F",
+  "race": "W",
+  "city": "Flatwoods",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

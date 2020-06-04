@@ -1,0 +1,16 @@
+{
+  "id": 5846,
+  "name": "Modesto Reyes",
+  "date": "2020-05-27",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Jefferson Parish",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "True"
+}

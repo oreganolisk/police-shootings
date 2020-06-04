@@ -1,0 +1,16 @@
+{
+  "id": 450,
+  "name": "Alec Ouzounian",
+  "date": "2015-05-12",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Rancho Santa Margarita",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

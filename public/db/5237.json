@@ -1,0 +1,16 @@
+{
+  "id": 5237,
+  "name": "TK TK",
+  "date": "2019-11-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "",
+  "city": "Lewes",
+  "state": "DE",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

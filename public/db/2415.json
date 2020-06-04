@@ -1,0 +1,16 @@
+{
+  "id": 2415,
+  "name": "Damon Seitz",
+  "date": "2017-03-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Escondido",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

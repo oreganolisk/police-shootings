@@ -1,0 +1,16 @@
+{
+  "id": 5004,
+  "name": "Attillio Gilmartin",
+  "date": "2019-09-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Bluff City",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

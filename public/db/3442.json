@@ -1,0 +1,16 @@
+{
+  "id": 3442,
+  "name": "Haydon Taylor",
+  "date": "2018-02-25",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

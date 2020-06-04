@@ -1,0 +1,16 @@
+{
+  "id": 2868,
+  "name": "Jeffrey Womack",
+  "date": "2015-10-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

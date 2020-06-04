@@ -1,0 +1,16 @@
+{
+  "id": 4074,
+  "name": "LaJuana Philips",
+  "date": "2018-10-02",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 36,
+  "gender": "F",
+  "race": "B",
+  "city": "Victorville",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

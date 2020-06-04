@@ -1,0 +1,16 @@
+{
+  "id": 2804,
+  "name": "Andrew Collins",
+  "date": "2017-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

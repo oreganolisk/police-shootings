@@ -1,0 +1,16 @@
+{
+  "id": 5673,
+  "name": "Austin Dean Heights",
+  "date": "2020-04-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Mankato",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

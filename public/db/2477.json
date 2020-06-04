@@ -1,0 +1,16 @@
+{
+  "id": 2477,
+  "name": "Nengmy Vang",
+  "date": "2017-03-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "A",
+  "city": "Weston",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

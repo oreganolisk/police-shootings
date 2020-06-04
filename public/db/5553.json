@@ -1,0 +1,16 @@
+{
+  "id": 5553,
+  "name": "Rodrigo Ivan Aguirre",
+  "date": "2020-02-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Deming",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

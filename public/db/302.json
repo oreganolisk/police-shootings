@@ -1,0 +1,16 @@
+{
+  "id": 302,
+  "name": "Ethan Noll",
+  "date": "2015-04-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Edgewood",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

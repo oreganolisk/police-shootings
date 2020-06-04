@@ -1,0 +1,16 @@
+{
+  "id": 3224,
+  "name": "TK TK",
+  "date": "2017-12-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "",
+  "city": "The Colony",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

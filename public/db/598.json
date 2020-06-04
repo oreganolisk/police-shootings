@@ -1,0 +1,16 @@
+{
+  "id": 598,
+  "name": "Arturo Lopez",
+  "date": "2015-07-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "H",
+  "city": "Lancaster",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

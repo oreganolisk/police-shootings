@@ -1,0 +1,16 @@
+{
+  "id": 5570,
+  "name": "Adam Ray Hernandez",
+  "date": "2020-01-22",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Moore",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

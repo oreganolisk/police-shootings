@@ -1,0 +1,16 @@
+{
+  "id": 2419,
+  "name": "Christopher Apostolos",
+  "date": "2017-03-14",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Toms River",
+  "state": "NJ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

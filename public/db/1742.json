@@ -1,0 +1,16 @@
+{
+  "id": 1742,
+  "name": "Paul O'Neal",
+  "date": "2016-07-28",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

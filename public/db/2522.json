@@ -1,0 +1,16 @@
+{
+  "id": 2522,
+  "name": "William D. Spates",
+  "date": "2017-04-22",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Portage",
+  "state": "IN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

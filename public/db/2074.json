@@ -1,0 +1,16 @@
+{
+  "id": 2074,
+  "name": "Don Fitzgerald White",
+  "date": "2016-11-24",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 45,
+  "gender": "M",
+  "race": "",
+  "city": "Jackson",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

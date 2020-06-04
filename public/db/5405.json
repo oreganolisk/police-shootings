@@ -1,0 +1,16 @@
+{
+  "id": 5405,
+  "name": "Mariano Ocon",
+  "date": "2020-01-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

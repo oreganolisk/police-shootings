@@ -1,0 +1,16 @@
+{
+  "id": 3112,
+  "name": "TK TK",
+  "date": "2017-11-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Barstow",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

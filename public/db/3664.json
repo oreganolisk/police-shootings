@@ -1,0 +1,16 @@
+{
+  "id": 3664,
+  "name": "Anthony Trujillo",
+  "date": "2018-05-03",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Orosi",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

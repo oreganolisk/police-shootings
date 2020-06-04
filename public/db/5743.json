@@ -1,0 +1,16 @@
+{
+  "id": 5743,
+  "name": "Justin Silvernale",
+  "date": "2020-04-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Daly City",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

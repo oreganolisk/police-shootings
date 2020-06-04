@@ -1,0 +1,16 @@
+{
+  "id": 934,
+  "name": "Dion Lamont Ramirez",
+  "date": "2015-10-19",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 53,
+  "gender": "M",
+  "race": "B",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1189,
+  "name": "Vasilios Alexander Katsouras",
+  "date": "2016-01-18",
+  "manner_of_death": "shot",
+  "armed": "garden tool",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Union City",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

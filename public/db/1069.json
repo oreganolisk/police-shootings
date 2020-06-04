@@ -1,0 +1,16 @@
+{
+  "id": 1069,
+  "name": "Christopher Higdon",
+  "date": "2015-12-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 66,
+  "gender": "M",
+  "race": "W",
+  "city": "Leitchfield",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

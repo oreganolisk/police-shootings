@@ -1,0 +1,16 @@
+{
+  "id": 4540,
+  "name": "Jeremy Ponce",
+  "date": "2019-03-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "H",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

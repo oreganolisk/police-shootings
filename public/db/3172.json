@@ -1,0 +1,16 @@
+{
+  "id": 3172,
+  "name": "Rufus Cedric Baker",
+  "date": "2017-11-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Hendersonville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

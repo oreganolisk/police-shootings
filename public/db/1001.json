@@ -1,0 +1,16 @@
+{
+  "id": 1001,
+  "name": "Miguel Cano",
+  "date": "2015-11-09",
+  "manner_of_death": "shot and Tasered",
+  "armed": "bean-bag gun",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

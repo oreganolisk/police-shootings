@@ -1,0 +1,16 @@
+{
+  "id": 4251,
+  "name": "Corky Lee Oliver",
+  "date": "2018-03-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

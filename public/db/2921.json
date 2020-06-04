@@ -1,0 +1,16 @@
+{
+  "id": 2921,
+  "name": "William Porubsky",
+  "date": "2017-09-03",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Akron",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

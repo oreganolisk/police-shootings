@@ -1,0 +1,16 @@
+{
+  "id": 5682,
+  "name": "Shawn Lee",
+  "date": "2020-04-11",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 48,
+  "gender": "M",
+  "race": "",
+  "city": "Ritzville",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

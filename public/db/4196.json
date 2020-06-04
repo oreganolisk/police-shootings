@@ -1,0 +1,16 @@
+{
+  "id": 4196,
+  "name": "Rene Prieto",
+  "date": "2018-11-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Pratt",
+  "state": "KS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

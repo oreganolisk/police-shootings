@@ -1,0 +1,16 @@
+{
+  "id": 3354,
+  "name": "Anthony S. McDaniel",
+  "date": "2018-01-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "London",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

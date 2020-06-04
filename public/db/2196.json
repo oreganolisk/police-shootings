@@ -1,0 +1,16 @@
+{
+  "id": 2196,
+  "name": "Daniel Scott Giberson",
+  "date": "2017-01-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Princeton",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

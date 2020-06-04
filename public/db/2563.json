@@ -1,0 +1,16 @@
+{
+  "id": 2563,
+  "name": "Jayson Negron",
+  "date": "2017-05-09",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 16,
+  "gender": "M",
+  "race": "H",
+  "city": "Bridgeport",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

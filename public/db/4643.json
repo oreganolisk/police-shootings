@@ -1,0 +1,16 @@
+{
+  "id": 4643,
+  "name": "Juan Torres",
+  "date": "2019-04-12",
+  "manner_of_death": "shot",
+  "armed": "wrench",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Buckeye",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

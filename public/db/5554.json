@@ -1,0 +1,16 @@
+{
+  "id": 5554,
+  "name": "John James Monahan",
+  "date": "2020-02-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "",
+  "city": "Lake Lanier",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

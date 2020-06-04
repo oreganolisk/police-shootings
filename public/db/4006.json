@@ -1,0 +1,16 @@
+{
+  "id": 4006,
+  "name": "Vanessa Marquez",
+  "date": "2018-08-30",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 49,
+  "gender": "F",
+  "race": "H",
+  "city": "Pasadena",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

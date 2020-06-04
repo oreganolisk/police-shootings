@@ -1,0 +1,16 @@
+{
+  "id": 5123,
+  "name": "Shannon Gail Rupert",
+  "date": "2019-10-25",
+  "manner_of_death": "shot",
+  "armed": "scissors",
+  "age": 45,
+  "gender": "F",
+  "race": "W",
+  "city": "Bossier City",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 892,
+  "name": "Matthew Dobbins",
+  "date": "2015-10-02",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Amarillo",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

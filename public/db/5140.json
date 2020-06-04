@@ -1,0 +1,16 @@
+{
+  "id": 5140,
+  "name": "Vincent Michael Smith",
+  "date": "2019-10-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntington",
+  "state": "IN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

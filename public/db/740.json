@@ -1,0 +1,16 @@
+{
+  "id": 740,
+  "name": "Asshams Pharoah Manley",
+  "date": "2015-08-14",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "District Heights",
+  "state": "MD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

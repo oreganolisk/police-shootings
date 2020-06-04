@@ -1,0 +1,16 @@
+{
+  "id": 1533,
+  "name": "Thongsoune Vilaysane",
+  "date": "2016-05-11",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 33,
+  "gender": "M",
+  "race": "A",
+  "city": "San Diego",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

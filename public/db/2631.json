@@ -1,0 +1,16 @@
+{
+  "id": 2631,
+  "name": "Roman Jade Carrillo",
+  "date": "2017-05-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

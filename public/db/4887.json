@@ -1,0 +1,16 @@
+{
+  "id": 4887,
+  "name": "Omari Thompson",
+  "date": "2019-07-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Ross Township",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

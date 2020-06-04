@@ -1,0 +1,16 @@
+{
+  "id": 1202,
+  "name": "Michael Clyde Lynch",
+  "date": "2016-01-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "W",
+  "city": "Kerrville",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

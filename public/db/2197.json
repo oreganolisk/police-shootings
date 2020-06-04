@@ -1,0 +1,16 @@
+{
+  "id": 2197,
+  "name": "Sean Ryan Hake",
+  "date": "2017-01-06",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Sharon",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5089,
+  "name": "Levy Isacc Madueno Santibanez",
+  "date": "2019-10-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "H",
+  "city": "Glendale",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

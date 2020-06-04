@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "name": "Dewayne Deshawn Ward",
+  "date": "2015-02-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Antioch",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

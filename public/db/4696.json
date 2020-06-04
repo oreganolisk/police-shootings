@@ -1,0 +1,16 @@
+{
+  "id": 4696,
+  "name": "David Wayne West",
+  "date": "2019-05-02",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Glenwood",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

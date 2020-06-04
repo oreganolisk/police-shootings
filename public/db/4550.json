@@ -1,0 +1,16 @@
+{
+  "id": 4550,
+  "name": "Maurice Arrisgado",
+  "date": "2019-03-01",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 47,
+  "gender": "M",
+  "race": "A",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

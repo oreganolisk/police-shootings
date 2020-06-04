@@ -1,0 +1,16 @@
+{
+  "id": 3971,
+  "name": "Tracy A. Richards",
+  "date": "2018-07-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Eustis",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

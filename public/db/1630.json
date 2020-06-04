@@ -1,0 +1,16 @@
+{
+  "id": 1630,
+  "name": "John Anderson",
+  "date": "2016-06-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Montpelier",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

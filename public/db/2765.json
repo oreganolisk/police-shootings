@@ -1,0 +1,16 @@
+{
+  "id": 2765,
+  "name": "Kareem Ali Nadir Jones",
+  "date": "2017-07-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbus",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

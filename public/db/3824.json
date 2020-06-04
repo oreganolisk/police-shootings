@@ -1,0 +1,16 @@
+{
+  "id": 3824,
+  "name": "Frank Dripps",
+  "date": "2018-07-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "South Elgin",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

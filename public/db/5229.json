@@ -1,0 +1,16 @@
+{
+  "id": 5229,
+  "name": "Jimmie Phillips",
+  "date": "2019-12-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 68,
+  "gender": "M",
+  "race": "B",
+  "city": "Morrow",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

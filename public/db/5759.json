@@ -1,0 +1,16 @@
+{
+  "id": 5759,
+  "name": "Elmer L. Mack",
+  "date": "2020-04-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Florence",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

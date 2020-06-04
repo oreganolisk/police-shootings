@@ -1,0 +1,16 @@
+{
+  "id": 504,
+  "name": "James Bushey",
+  "date": "2015-05-31",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Palestine",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

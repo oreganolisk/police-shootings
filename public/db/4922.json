@@ -1,0 +1,16 @@
+{
+  "id": 4922,
+  "name": "Margarita Victoria Brooks",
+  "date": "2019-08-01",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "F",
+  "race": "W",
+  "city": "Arlington",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

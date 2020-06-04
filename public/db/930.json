@@ -1,0 +1,16 @@
+{
+  "id": 930,
+  "name": "Dequan Williams",
+  "date": "2015-10-17",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "York",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

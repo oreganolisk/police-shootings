@@ -1,0 +1,16 @@
+{
+  "id": 3342,
+  "name": "Ricky Jerome Boyd",
+  "date": "2018-01-23",
+  "manner_of_death": "shot",
+  "armed": "BB gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Chatham County",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "True"
+}

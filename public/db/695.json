@@ -1,0 +1,16 @@
+{
+  "id": 695,
+  "name": "Virgil Reynolds",
+  "date": "2015-08-02",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 63,
+  "gender": "M",
+  "race": "W",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

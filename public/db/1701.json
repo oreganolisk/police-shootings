@@ -1,0 +1,16 @@
+{
+  "id": 1701,
+  "name": "Andre Johnson",
+  "date": "2016-07-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Broken Bow",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

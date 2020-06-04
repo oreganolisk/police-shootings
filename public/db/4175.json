@@ -1,0 +1,16 @@
+{
+  "id": 4175,
+  "name": "Timothy Leon",
+  "date": "2018-11-13",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

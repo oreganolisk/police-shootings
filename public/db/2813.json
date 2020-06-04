@@ -1,0 +1,16 @@
+{
+  "id": 2813,
+  "name": "Raymond Cruz",
+  "date": "2017-07-28",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

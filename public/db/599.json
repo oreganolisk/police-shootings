@@ -1,0 +1,16 @@
+{
+  "id": 599,
+  "name": "Oscar Camacho",
+  "date": "2015-07-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Camden",
+  "state": "NJ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

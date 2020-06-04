@@ -1,0 +1,16 @@
+{
+  "id": 2562,
+  "name": "Landon Nobles",
+  "date": "2017-05-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

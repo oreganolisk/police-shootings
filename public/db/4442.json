@@ -1,0 +1,16 @@
+{
+  "id": 4442,
+  "name": "Eric Young",
+  "date": "2019-02-11",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Montgomery",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

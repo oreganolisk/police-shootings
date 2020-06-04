@@ -1,0 +1,16 @@
+{
+  "id": 1008,
+  "name": "Matthew Coleman",
+  "date": "2015-11-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Eden",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

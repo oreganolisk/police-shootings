@@ -1,0 +1,16 @@
+{
+  "id": 1150,
+  "name": "Charles Hollstein",
+  "date": "2016-01-06",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Zion",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

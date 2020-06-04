@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "name": "Isaac Holmes",
+  "date": "2015-01-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

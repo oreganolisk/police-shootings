@@ -1,0 +1,16 @@
+{
+  "id": 2218,
+  "name": "Cameron Johnson",
+  "date": "2017-01-13",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 29,
+  "gender": "M",
+  "race": "O",
+  "city": "Kahuku",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

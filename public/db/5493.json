@@ -1,0 +1,16 @@
+{
+  "id": 5493,
+  "name": "Leonard Parker",
+  "date": "2020-02-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 53,
+  "gender": "M",
+  "race": "B",
+  "city": "Gulfport",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

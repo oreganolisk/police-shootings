@@ -1,0 +1,16 @@
+{
+  "id": 650,
+  "name": "David  Wheat Jr.",
+  "date": "2015-07-18",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Fort Collins",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5093,
+  "name": "Emilio Mojica",
+  "date": "2019-10-13",
+  "manner_of_death": "shot",
+  "armed": "baseball bat",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "Corpus Christi",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3985,
+  "name": "Jeffrey Dennis",
+  "date": "2018-08-20",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Philadelphia",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

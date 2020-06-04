@@ -1,0 +1,16 @@
+{
+  "id": 558,
+  "name": "Santos Laboy",
+  "date": "2015-06-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Boston",
+  "state": "MA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

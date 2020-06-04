@@ -1,0 +1,16 @@
+{
+  "id": 4638,
+  "name": "Tyler R. Johnson",
+  "date": "2019-04-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "",
+  "city": "Lee",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

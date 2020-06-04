@@ -1,0 +1,16 @@
+{
+  "id": 4526,
+  "name": "Luke Anthony Swann",
+  "date": "2019-03-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Des Moines",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

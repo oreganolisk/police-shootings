@@ -1,0 +1,16 @@
+{
+  "id": 3256,
+  "name": "Corey Bailey",
+  "date": "2017-12-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Elkhart",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2663,
+  "name": "Avery D. Metrejean",
+  "date": "2017-06-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Cade",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

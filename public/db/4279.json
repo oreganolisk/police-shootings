@@ -1,0 +1,16 @@
+{
+  "id": 4279,
+  "name": "Anthony M. Edwards",
+  "date": "2018-12-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Richmond",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

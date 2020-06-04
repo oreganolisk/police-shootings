@@ -1,0 +1,16 @@
+{
+  "id": 3533,
+  "name": "Scott Mielentz",
+  "date": "2018-03-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Princeton",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

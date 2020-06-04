@@ -1,0 +1,16 @@
+{
+  "id": 759,
+  "name": "Troy Francis",
+  "date": "2015-07-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Fremont",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

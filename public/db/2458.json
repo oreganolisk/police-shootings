@@ -1,0 +1,16 @@
+{
+  "id": 2458,
+  "name": "Matthew Gambaro",
+  "date": "2017-03-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Cisco",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

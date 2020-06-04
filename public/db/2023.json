@@ -1,0 +1,16 @@
+{
+  "id": 2023,
+  "name": "Patrick Wise",
+  "date": "2016-11-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Gladewater",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "True"
+}

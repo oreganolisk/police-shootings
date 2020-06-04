@@ -1,0 +1,16 @@
+{
+  "id": 4044,
+  "name": "Paul Askins",
+  "date": "2018-08-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Sedalia",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5440,
+  "name": "Joshua Greenleaf",
+  "date": "2020-01-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

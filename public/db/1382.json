@@ -1,0 +1,16 @@
+{
+  "id": 1382,
+  "name": "India Beaty",
+  "date": "2016-03-19",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 25,
+  "gender": "F",
+  "race": "B",
+  "city": "Norfolk",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

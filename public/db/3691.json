@@ -1,0 +1,16 @@
+{
+  "id": 3691,
+  "name": "James Collins",
+  "date": "2018-05-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "",
+  "city": "Dearborn Heights",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

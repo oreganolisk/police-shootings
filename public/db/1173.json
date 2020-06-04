@@ -1,0 +1,16 @@
+{
+  "id": 1173,
+  "name": "Ashton Lane Morris",
+  "date": "2016-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

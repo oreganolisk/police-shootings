@@ -1,0 +1,16 @@
+{
+  "id": 4105,
+  "name": "Keyshon Parham",
+  "date": "2018-10-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Memphis",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

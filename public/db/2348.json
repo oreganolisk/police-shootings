@@ -1,0 +1,16 @@
+{
+  "id": 2348,
+  "name": "Peter Torres",
+  "date": "2017-02-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 23,
+  "gender": "M",
+  "race": "H",
+  "city": "Moultrie",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

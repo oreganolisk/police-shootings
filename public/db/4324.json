@@ -1,0 +1,16 @@
+{
+  "id": 4324,
+  "name": "Jennifer Vasquez",
+  "date": "2018-12-25",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 24,
+  "gender": "F",
+  "race": "H",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

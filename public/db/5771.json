@@ -1,0 +1,16 @@
+{
+  "id": 5771,
+  "name": "Michael Faries",
+  "date": "2020-05-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 69,
+  "gender": "M",
+  "race": "W",
+  "city": "Oakland City",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

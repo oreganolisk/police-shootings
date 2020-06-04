@@ -1,0 +1,16 @@
+{
+  "id": 3588,
+  "name": "Jonathan Erick Alexander",
+  "date": "2018-04-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "",
+  "city": "Marysville",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

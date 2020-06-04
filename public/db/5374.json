@@ -1,0 +1,16 @@
+{
+  "id": 5374,
+  "name": "Michael Vincent Davis",
+  "date": "2019-12-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Cross Lanes",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 736,
+  "name": "William Smith",
+  "date": "2015-08-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Hobbs",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

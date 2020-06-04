@@ -1,0 +1,16 @@
+{
+  "id": 1097,
+  "name": "Bryant Neil Duncan",
+  "date": "2015-12-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": "",
+  "gender": "M",
+  "race": "W",
+  "city": "Camarillo",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

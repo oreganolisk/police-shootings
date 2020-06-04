@@ -1,0 +1,16 @@
+{
+  "id": 1367,
+  "name": "Cristian Rene Medina",
+  "date": "2016-03-16",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 23,
+  "gender": "M",
+  "race": "H",
+  "city": "Florence",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

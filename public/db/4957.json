@@ -1,0 +1,16 @@
+{
+  "id": 4957,
+  "name": "Michael Lopez",
+  "date": "2019-08-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 69,
+  "gender": "M",
+  "race": "",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

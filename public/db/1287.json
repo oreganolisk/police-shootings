@@ -1,0 +1,16 @@
+{
+  "id": 1287,
+  "name": "Ronnie Padron",
+  "date": "2016-02-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Reno",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

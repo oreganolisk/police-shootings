@@ -1,0 +1,16 @@
+{
+  "id": 1020,
+  "name": "Randy Allen Smith",
+  "date": "2015-11-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "Manatee",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

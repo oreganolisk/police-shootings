@@ -1,0 +1,16 @@
+{
+  "id": 4209,
+  "name": "Allen Scott Culpepper",
+  "date": "2018-11-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "W",
+  "city": "Clinton",
+  "state": "UT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

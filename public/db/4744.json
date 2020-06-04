@@ -1,0 +1,16 @@
+{
+  "id": 4744,
+  "name": "Carlvon Mayo",
+  "date": "2019-05-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2170,
+  "name": "Judy Boardman",
+  "date": "2016-12-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 71,
+  "gender": "F",
+  "race": "W",
+  "city": "Pearland",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

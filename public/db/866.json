@@ -1,0 +1,16 @@
+{
+  "id": 866,
+  "name": "William Lemmon",
+  "date": "2015-09-25",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 21,
+  "gender": "M",
+  "race": "W",
+  "city": "Akron",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Other",
+  "body_camera": "False"
+}

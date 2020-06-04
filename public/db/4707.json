@@ -1,0 +1,16 @@
+{
+  "id": 4707,
+  "name": "George Herrera",
+  "date": "2019-05-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 61,
+  "gender": "M",
+  "race": "H",
+  "city": "Angel Fire",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

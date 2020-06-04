@@ -1,0 +1,16 @@
+{
+  "id": 1540,
+  "name": "Ryan Johnson",
+  "date": "2016-05-14",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Stockbridge",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

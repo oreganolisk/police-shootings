@@ -1,0 +1,16 @@
+{
+  "id": 5013,
+  "name": "Brian Quinones",
+  "date": "2019-09-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Richfield",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

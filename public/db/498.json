@@ -1,0 +1,16 @@
+{
+  "id": 498,
+  "name": "Nehemiah Fischer",
+  "date": "2015-05-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Okmulgee County",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

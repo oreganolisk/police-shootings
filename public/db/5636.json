@@ -1,0 +1,16 @@
+{
+  "id": 5636,
+  "name": "Darwin Foy",
+  "date": "2020-03-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Webster City",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

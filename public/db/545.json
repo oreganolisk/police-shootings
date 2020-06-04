@@ -1,0 +1,16 @@
+{
+  "id": 545,
+  "name": "Raymond Peralta-Lantigua",
+  "date": "2015-06-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "Hackensack",
+  "state": "NJ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

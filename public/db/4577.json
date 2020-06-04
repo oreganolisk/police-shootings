@@ -1,0 +1,16 @@
+{
+  "id": 4577,
+  "name": "Timothy John Beckwith",
+  "date": "2019-03-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Palmdale",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1187,
+  "name": "Samuel Grady",
+  "date": "2016-01-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Statesville",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

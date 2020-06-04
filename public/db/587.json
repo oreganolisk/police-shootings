@@ -1,0 +1,16 @@
+{
+  "id": 587,
+  "name": "Kevin Lamont Judson",
+  "date": "2015-07-01",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "McMinnville",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

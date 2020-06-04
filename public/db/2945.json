@@ -1,0 +1,16 @@
+{
+  "id": 2945,
+  "name": "Thomas Addison",
+  "date": "2017-09-11",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 25,
+  "gender": "M",
+  "race": "N",
+  "city": "Great Falls",
+  "state": "MT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3955,
+  "name": "Anthony Daniel Vargas",
+  "date": "2018-08-12",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 21,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4338,
+  "name": "Shane Lyons",
+  "date": "2018-12-28",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Port Arthur",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

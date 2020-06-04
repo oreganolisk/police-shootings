@@ -1,0 +1,16 @@
+{
+  "id": 1306,
+  "name": "Travis Stevenson",
+  "date": "2016-02-23",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 48,
+  "gender": "M",
+  "race": "B",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

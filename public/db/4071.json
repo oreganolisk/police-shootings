@@ -1,0 +1,16 @@
+{
+  "id": 4071,
+  "name": "Toby Bailey",
+  "date": "2018-10-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "B",
+  "city": "Bartlett",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

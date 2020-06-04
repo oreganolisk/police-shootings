@@ -1,0 +1,16 @@
+{
+  "id": 1236,
+  "name": "Kayden Clarke",
+  "date": "2016-02-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

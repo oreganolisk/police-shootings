@@ -1,0 +1,16 @@
+{
+  "id": 2392,
+  "name": "Epthen Lamont Johnson",
+  "date": "2017-03-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Lufkin",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

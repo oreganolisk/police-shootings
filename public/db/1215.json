@@ -1,0 +1,16 @@
+{
+  "id": 1215,
+  "name": "Christopher Kalonji",
+  "date": "2016-01-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Clackamas County",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

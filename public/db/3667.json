@@ -1,0 +1,16 @@
+{
+  "id": 3667,
+  "name": "Dwight Dearth",
+  "date": "2018-05-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 73,
+  "gender": "M",
+  "race": "W",
+  "city": "Fairview",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

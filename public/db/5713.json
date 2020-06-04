@@ -1,0 +1,16 @@
+{
+  "id": 5713,
+  "name": "Jose Soto",
+  "date": "2020-04-02",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 27,
+  "gender": "M",
+  "race": "H",
+  "city": "Manchester",
+  "state": "CT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

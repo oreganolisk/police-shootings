@@ -1,0 +1,16 @@
+{
+  "id": 297,
+  "name": "Walter Scott",
+  "date": "2015-04-04",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 50,
+  "gender": "M",
+  "race": "B",
+  "city": "North Charleston",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

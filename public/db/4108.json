@@ -1,0 +1,16 @@
+{
+  "id": 4108,
+  "name": "Hustes Davila",
+  "date": "2018-10-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "M",
+  "race": "H",
+  "city": "Hilltop",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4768,
+  "name": "JaQuavion Slaton",
+  "date": "2019-06-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Fort Worth",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

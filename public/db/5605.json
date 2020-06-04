@@ -1,0 +1,16 @@
+{
+  "id": 5605,
+  "name": "Christopher Palmer",
+  "date": "2020-03-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 37,
+  "gender": "M",
+  "race": "W",
+  "city": "Manila",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

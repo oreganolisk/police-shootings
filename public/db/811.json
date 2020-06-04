@@ -1,0 +1,16 @@
+{
+  "id": 811,
+  "name": "William Verrett",
+  "date": "2015-09-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Hobbs",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4893,
+  "name": "John David Brown",
+  "date": "2019-07-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Ranburne",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

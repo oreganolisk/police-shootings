@@ -1,0 +1,16 @@
+{
+  "id": 857,
+  "name": "Robert Berger",
+  "date": "2015-09-23",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 48,
+  "gender": "M",
+  "race": "O",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

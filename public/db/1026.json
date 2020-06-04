@@ -1,0 +1,16 @@
+{
+  "id": 1026,
+  "name": "Chris Nichols",
+  "date": "2015-11-21",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Colbert",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3823,
+  "name": "Joshua B. Reed",
+  "date": "2018-07-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Panora",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

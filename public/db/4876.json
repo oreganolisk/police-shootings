@@ -1,0 +1,16 @@
+{
+  "id": 4876,
+  "name": "Michael Anthony Brand",
+  "date": "2019-07-15",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

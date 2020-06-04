@@ -1,0 +1,16 @@
+{
+  "id": 643,
+  "name": "Eugene Kailing",
+  "date": "2015-07-15",
+  "manner_of_death": "shot and Tasered",
+  "armed": "metal pipe",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Marion",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1703,
+  "name": "Joseph Mann",
+  "date": "2016-07-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 50,
+  "gender": "M",
+  "race": "B",
+  "city": "Sacramento",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

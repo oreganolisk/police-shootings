@@ -1,0 +1,16 @@
+{
+  "id": 1903,
+  "name": "Michael Goodale",
+  "date": "2016-09-20",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Mashantucket",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5809,
+  "name": "William Shimp",
+  "date": "2020-05-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Kansas City",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

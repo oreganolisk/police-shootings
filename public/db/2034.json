@@ -1,0 +1,16 @@
+{
+  "id": 2034,
+  "name": "Daniel Erickson",
+  "date": "2016-11-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Show Low",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

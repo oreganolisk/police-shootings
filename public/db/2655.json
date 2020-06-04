@@ -1,0 +1,16 @@
+{
+  "id": 2655,
+  "name": "Robin Blaylock",
+  "date": "2017-06-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "North English",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

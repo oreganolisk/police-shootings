@@ -1,0 +1,16 @@
+{
+  "id": 3321,
+  "name": "Brian Gregory",
+  "date": "2018-01-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "Memphis",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

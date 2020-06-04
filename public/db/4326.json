@@ -1,0 +1,16 @@
+{
+  "id": 4326,
+  "name": "Jason Delgado Perez",
+  "date": "2018-12-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5684,
+  "name": "Michael Wallace",
+  "date": "2020-03-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Schenectady",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

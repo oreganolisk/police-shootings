@@ -1,0 +1,16 @@
+{
+  "id": 271,
+  "name": "Adam Reinhart",
+  "date": "2015-03-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

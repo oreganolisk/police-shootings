@@ -1,0 +1,16 @@
+{
+  "id": 299,
+  "name": "Christopher Prevatt",
+  "date": "2015-04-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Winchester",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

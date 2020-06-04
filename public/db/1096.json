@@ -1,0 +1,16 @@
+{
+  "id": 1096,
+  "name": "Ronnie Dubose Carter",
+  "date": "2015-12-15",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 51,
+  "gender": "M",
+  "race": "B",
+  "city": "Dallas",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4314,
+  "name": "Keith A. Hawley",
+  "date": "2018-12-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Union City",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

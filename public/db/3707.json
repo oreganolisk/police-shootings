@@ -1,0 +1,16 @@
+{
+  "id": 3707,
+  "name": "Ray Wyatt",
+  "date": "2018-05-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Joshua Tree",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

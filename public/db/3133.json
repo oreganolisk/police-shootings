@@ -1,0 +1,16 @@
+{
+  "id": 3133,
+  "name": "Matthew Joseph Scudero",
+  "date": "2017-11-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

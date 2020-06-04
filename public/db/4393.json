@@ -1,0 +1,16 @@
+{
+  "id": 4393,
+  "name": "Terry Lee Cockrell",
+  "date": "2019-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "Sperry",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

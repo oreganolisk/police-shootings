@@ -1,0 +1,16 @@
+{
+  "id": 2649,
+  "name": "Stephen Rich",
+  "date": "2017-06-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Loveland",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

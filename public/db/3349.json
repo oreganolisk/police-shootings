@@ -1,0 +1,16 @@
+{
+  "id": 3349,
+  "name": "Ulises Valladares",
+  "date": "2018-01-25",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 47,
+  "gender": "M",
+  "race": "H",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

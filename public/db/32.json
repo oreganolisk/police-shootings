@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "name": "James Dudley Barker",
+  "date": "2015-01-08",
+  "manner_of_death": "shot",
+  "armed": "shovel",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1243,
+  "name": "Thomas Hirko",
+  "date": "2016-02-04",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Perry Township",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

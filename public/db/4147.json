@@ -1,0 +1,16 @@
+{
+  "id": 4147,
+  "name": "Robert Charles Foster",
+  "date": "2018-11-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 65,
+  "gender": "M",
+  "race": "",
+  "city": "Bandon",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

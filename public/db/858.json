@@ -1,0 +1,16 @@
+{
+  "id": 858,
+  "name": "Joseph Khammash",
+  "date": "2015-09-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "McKinney",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

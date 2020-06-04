@@ -1,0 +1,16 @@
+{
+  "id": 5072,
+  "name": "Jack Thomas Naylor",
+  "date": "2019-10-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "",
+  "city": "Drennen",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

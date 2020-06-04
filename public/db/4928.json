@@ -1,0 +1,16 @@
+{
+  "id": 4928,
+  "name": "Detravian Allison",
+  "date": "2019-08-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Longview",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

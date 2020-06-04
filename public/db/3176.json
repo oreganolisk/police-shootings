@@ -1,0 +1,16 @@
+{
+  "id": 3176,
+  "name": "Keita O'Neil",
+  "date": "2017-12-01",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 42,
+  "gender": "M",
+  "race": "B",
+  "city": "San Francisco",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

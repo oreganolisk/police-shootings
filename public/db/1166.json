@@ -1,0 +1,16 @@
+{
+  "id": 1166,
+  "name": "Herman Bean",
+  "date": "2016-01-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 49,
+  "gender": "M",
+  "race": "N",
+  "city": "Spenard",
+  "state": "AK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1431,
+  "name": "Darrin Andrew Martin",
+  "date": "2016-04-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2885,
+  "name": "Dennia Flowers",
+  "date": "2017-08-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 66,
+  "gender": "M",
+  "race": "W",
+  "city": "Colorado City",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

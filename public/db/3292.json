@@ -1,0 +1,16 @@
+{
+  "id": 3292,
+  "name": "Ronald Elliot",
+  "date": "2018-01-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Ozark",
+  "state": "AR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4464,
+  "name": "Johnny Mathis",
+  "date": "2019-02-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Fresno",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2825,
+  "name": "Kerry Bradley",
+  "date": "2017-08-01",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 37,
+  "gender": "M",
+  "race": "B",
+  "city": "Waco",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

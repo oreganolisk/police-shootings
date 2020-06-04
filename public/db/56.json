@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "name": "Donte Sowell",
+  "date": "2015-01-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Indianapolis",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

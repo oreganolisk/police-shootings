@@ -1,0 +1,16 @@
+{
+  "id": 5763,
+  "name": "TK TK",
+  "date": "2020-04-22",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

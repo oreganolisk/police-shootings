@@ -1,0 +1,16 @@
+{
+  "id": 4546,
+  "name": "Dylan Aikey",
+  "date": "2019-03-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Anchorage",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4229,
+  "name": "Robbie Ramirez",
+  "date": "2018-11-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Laramie",
+  "state": "WY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Foot",
+  "body_camera": "False"
+}

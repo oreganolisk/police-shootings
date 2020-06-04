@@ -1,0 +1,16 @@
+{
+  "id": 3145,
+  "name": "Martin Jim",
+  "date": "2017-11-17",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

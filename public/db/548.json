@@ -1,0 +1,16 @@
+{
+  "id": 548,
+  "name": "Deng Manyoun",
+  "date": "2015-06-13",
+  "manner_of_death": "shot",
+  "armed": "flagpole",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

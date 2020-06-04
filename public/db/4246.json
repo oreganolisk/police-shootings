@@ -1,0 +1,16 @@
+{
+  "id": 4246,
+  "name": "Mark Renee Flores",
+  "date": "2018-01-29",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "H",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

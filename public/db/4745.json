@@ -1,0 +1,16 @@
+{
+  "id": 4745,
+  "name": "Nakia Smith",
+  "date": "2019-05-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Joliet",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

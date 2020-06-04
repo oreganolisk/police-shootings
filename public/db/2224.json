@@ -1,0 +1,16 @@
+{
+  "id": 2224,
+  "name": "Jamison Christopher Anderson",
+  "date": "2017-01-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "N",
+  "city": "Vineland",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

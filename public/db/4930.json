@@ -1,0 +1,16 @@
+{
+  "id": 4930,
+  "name": "Toussaint Diamon Sims",
+  "date": "2019-08-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Moss Point",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

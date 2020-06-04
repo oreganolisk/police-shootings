@@ -1,0 +1,16 @@
+{
+  "id": 821,
+  "name": "Martin Francis Hammen",
+  "date": "2015-09-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Wellman",
+  "state": "IA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

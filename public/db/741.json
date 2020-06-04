@@ -1,0 +1,16 @@
+{
+  "id": 741,
+  "name": "John Unsworth",
+  "date": "2015-08-15",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Hanover",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3398,
+  "name": "Troy Jacques",
+  "date": "2018-02-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Aurora",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

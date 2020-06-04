@@ -1,0 +1,16 @@
+{
+  "id": 5659,
+  "name": "Pablo Elias",
+  "date": "2020-03-10",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Bell Gardens",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

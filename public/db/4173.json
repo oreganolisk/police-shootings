@@ -1,0 +1,16 @@
+{
+  "id": 4173,
+  "name": "James Hanchett",
+  "date": "2018-11-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Shakopee",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

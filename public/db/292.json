@@ -1,0 +1,16 @@
+{
+  "id": 292,
+  "name": "Roberto Leon",
+  "date": "2015-03-17",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "Sacramento",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

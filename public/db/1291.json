@@ -1,0 +1,16 @@
+{
+  "id": 1291,
+  "name": "Danny Rendon",
+  "date": "2016-02-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Anaheim",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2795,
+  "name": "Walter Lynde",
+  "date": "2017-07-23",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Spencer",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

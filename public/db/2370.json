@@ -1,0 +1,16 @@
+{
+  "id": 2370,
+  "name": "David Lee Montano",
+  "date": "2017-02-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Newton",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4179,
+  "name": "Andrew Kana",
+  "date": "2018-11-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "A",
+  "city": "Catoosa",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

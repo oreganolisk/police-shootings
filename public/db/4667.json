@@ -1,0 +1,16 @@
+{
+  "id": 4667,
+  "name": "Emory Moore",
+  "date": "2019-04-24",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Owingsville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

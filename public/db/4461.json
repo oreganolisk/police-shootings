@@ -1,0 +1,16 @@
+{
+  "id": 4461,
+  "name": "Phayvanh Inthavong",
+  "date": "2019-02-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "A",
+  "city": "Redding",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1499,
+  "name": "Lee Easter",
+  "date": "2016-04-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Boise",
+  "state": "ID",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

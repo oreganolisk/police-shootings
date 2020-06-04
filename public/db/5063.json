@@ -1,0 +1,16 @@
+{
+  "id": 5063,
+  "name": "Jamaal Ramone Taylor",
+  "date": "2019-09-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "",
+  "city": "Baltimore",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

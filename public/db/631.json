@@ -1,0 +1,16 @@
+{
+  "id": 631,
+  "name": "Salvado Ellswood",
+  "date": "2015-07-12",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Plantation",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4099,
+  "name": "Ashley Elisna Grammer",
+  "date": "2018-10-12",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 26,
+  "gender": "F",
+  "race": "O",
+  "city": "Puna",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

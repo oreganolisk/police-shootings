@@ -1,0 +1,16 @@
+{
+  "id": 2636,
+  "name": "Bruce Dawley",
+  "date": "2017-06-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 66,
+  "gender": "M",
+  "race": "W",
+  "city": "Campo",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

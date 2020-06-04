@@ -1,0 +1,16 @@
+{
+  "id": 3275,
+  "name": "Mark Steven Parkinson",
+  "date": "2018-01-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 65,
+  "gender": "M",
+  "race": "W",
+  "city": "Rossville",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

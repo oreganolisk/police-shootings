@@ -1,0 +1,16 @@
+{
+  "id": 5313,
+  "name": "Kelly Michael Stephens",
+  "date": "2019-12-29",
+  "manner_of_death": "shot",
+  "armed": "chain",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Juneau",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

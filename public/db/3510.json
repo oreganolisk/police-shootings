@@ -1,0 +1,16 @@
+{
+  "id": 3510,
+  "name": "William Langfitt",
+  "date": "2018-03-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Elk Plain",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

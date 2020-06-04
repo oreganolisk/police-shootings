@@ -1,0 +1,16 @@
+{
+  "id": 1007,
+  "name": "Ernesto Gamino",
+  "date": "2015-11-13",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 25,
+  "gender": "M",
+  "race": "H",
+  "city": "Jurupa Valley",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

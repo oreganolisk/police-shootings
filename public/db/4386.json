@@ -1,0 +1,16 @@
+{
+  "id": 4386,
+  "name": "Antonio Arce",
+  "date": "2019-01-15",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 14,
+  "gender": "M",
+  "race": "H",
+  "city": "Tempe",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

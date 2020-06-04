@@ -1,0 +1,16 @@
+{
+  "id": 5515,
+  "name": "Miguel Mercado Segura",
+  "date": "2020-01-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Fountain Valley",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

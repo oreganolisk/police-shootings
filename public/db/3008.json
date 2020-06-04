@@ -1,0 +1,16 @@
+{
+  "id": 3008,
+  "name": "Cariann Hithon",
+  "date": "2017-10-08",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 22,
+  "gender": "F",
+  "race": "B",
+  "city": "Miami",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

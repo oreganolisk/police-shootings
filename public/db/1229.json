@@ -1,0 +1,16 @@
+{
+  "id": 1229,
+  "name": "Jeffry Graves",
+  "date": "2016-01-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 62,
+  "gender": "M",
+  "race": "",
+  "city": "Newark",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1711,
+  "name": "Larry Darnell Gordon",
+  "date": "2016-07-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "St. Joseph",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

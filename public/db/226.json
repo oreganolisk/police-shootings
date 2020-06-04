@@ -1,0 +1,16 @@
+{
+  "id": 226,
+  "name": "Garland Lee Wingo",
+  "date": "2015-03-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "W",
+  "city": "Tallahassee",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

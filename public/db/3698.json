@@ -1,0 +1,16 @@
+{
+  "id": 3698,
+  "name": "David M. Romansky",
+  "date": "2018-05-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Lake Mary",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

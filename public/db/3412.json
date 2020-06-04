@@ -1,0 +1,16 @@
+{
+  "id": 3412,
+  "name": "Lawrence Shaw",
+  "date": "2018-02-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 45,
+  "gender": "M",
+  "race": "B",
+  "city": "Denton",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

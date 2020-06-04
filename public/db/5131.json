@@ -1,0 +1,16 @@
+{
+  "id": 5131,
+  "name": "Nan Zhao",
+  "date": "2019-10-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "A",
+  "city": "Athens",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2494,
+  "name": "TK TK",
+  "date": "2017-04-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

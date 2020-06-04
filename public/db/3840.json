@@ -1,0 +1,16 @@
+{
+  "id": 3840,
+  "name": "James Sorrentino",
+  "date": "2018-06-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "",
+  "city": "Prompton",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

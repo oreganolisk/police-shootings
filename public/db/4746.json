@@ -1,0 +1,16 @@
+{
+  "id": 4746,
+  "name": "Curtis Stagger",
+  "date": "2019-05-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

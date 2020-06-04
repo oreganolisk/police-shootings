@@ -1,0 +1,16 @@
+{
+  "id": 3289,
+  "name": "Gary Johns",
+  "date": "2018-01-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 65,
+  "gender": "M",
+  "race": "W",
+  "city": "Edgewater",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

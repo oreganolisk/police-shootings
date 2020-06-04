@@ -1,0 +1,16 @@
+{
+  "id": 604,
+  "name": "Brian Johnson",
+  "date": "2015-07-02",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 59,
+  "gender": "M",
+  "race": "",
+  "city": "Meadow Bridge",
+  "state": "WV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

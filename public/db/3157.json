@@ -1,0 +1,16 @@
+{
+  "id": 3157,
+  "name": "William Freddy Carter Jr.",
+  "date": "2017-11-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntsville",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

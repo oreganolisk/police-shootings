@@ -1,0 +1,16 @@
+{
+  "id": 3191,
+  "name": "Juliun Pitcher",
+  "date": "2017-12-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 16,
+  "gender": "M",
+  "race": "W",
+  "city": "Dover",
+  "state": "DE",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

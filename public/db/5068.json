@@ -1,0 +1,16 @@
+{
+  "id": 5068,
+  "name": "Haywood Cannon",
+  "date": "2019-09-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 67,
+  "gender": "M",
+  "race": "W",
+  "city": "Richlands",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

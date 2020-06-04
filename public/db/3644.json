@@ -1,0 +1,16 @@
+{
+  "id": 3644,
+  "name": "Charles Boeh",
+  "date": "2018-04-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2476,
+  "name": "Phosowath Sengphong",
+  "date": "2017-04-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "A",
+  "city": "New Iberia",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

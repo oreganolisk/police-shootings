@@ -1,0 +1,16 @@
+{
+  "id": 4913,
+  "name": "Deshon Downing",
+  "date": "2019-08-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "B",
+  "city": "Indianapolis",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

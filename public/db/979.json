@@ -1,0 +1,16 @@
+{
+  "id": 979,
+  "name": "Faisal Mohammad",
+  "date": "2015-11-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 18,
+  "gender": "M",
+  "race": "O",
+  "city": "Merced",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

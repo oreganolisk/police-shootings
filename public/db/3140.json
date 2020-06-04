@@ -1,0 +1,16 @@
+{
+  "id": 3140,
+  "name": "Keian Jones",
+  "date": "2017-11-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 51,
+  "gender": "M",
+  "race": "",
+  "city": "Stockton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

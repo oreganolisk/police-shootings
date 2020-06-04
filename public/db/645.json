@@ -1,0 +1,16 @@
+{
+  "id": 645,
+  "name": "Jason Davis",
+  "date": "2015-07-13",
+  "manner_of_death": "shot and Tasered",
+  "armed": "box cutter",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

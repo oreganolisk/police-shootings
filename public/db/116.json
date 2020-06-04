@@ -1,0 +1,16 @@
+{
+  "id": 116,
+  "name": "Jeremy Lett",
+  "date": "2015-02-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Tallahassee",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

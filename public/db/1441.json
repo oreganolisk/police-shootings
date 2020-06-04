@@ -1,0 +1,16 @@
+{
+  "id": 1441,
+  "name": "Laronda Sweatt",
+  "date": "2016-04-06",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 40,
+  "gender": "F",
+  "race": "B",
+  "city": "Gallatin",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

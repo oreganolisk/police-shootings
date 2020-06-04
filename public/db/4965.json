@@ -1,0 +1,16 @@
+{
+  "id": 4965,
+  "name": "Eric Portillo",
+  "date": "2019-06-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

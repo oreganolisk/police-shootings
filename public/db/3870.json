@@ -1,0 +1,16 @@
+{
+  "id": 3870,
+  "name": "Luis Cruz",
+  "date": "2018-07-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Peoria",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

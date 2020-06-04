@@ -1,0 +1,16 @@
+{
+  "id": 3994,
+  "name": "Taylor K.E. Tincher",
+  "date": "2018-08-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Montgomery County",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

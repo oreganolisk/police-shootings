@@ -1,0 +1,16 @@
+{
+  "id": 1260,
+  "name": "Anthony Bertoni",
+  "date": "2016-02-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "O",
+  "city": "Henderson County",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

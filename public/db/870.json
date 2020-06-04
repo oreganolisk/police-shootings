@@ -1,0 +1,16 @@
+{
+  "id": 870,
+  "name": "Alejandro Lerma",
+  "date": "2015-09-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "H",
+  "city": "Lovington",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

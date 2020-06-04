@@ -1,0 +1,16 @@
+{
+  "id": 1627,
+  "name": "Michael Rasmussen",
+  "date": "2016-06-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Pembine",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

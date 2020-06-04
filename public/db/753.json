@@ -1,0 +1,16 @@
+{
+  "id": 753,
+  "name": "Jason Hale",
+  "date": "2015-08-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Hunters",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4727,
+  "name": "Esteban Martinez",
+  "date": "2019-05-19",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 59,
+  "gender": "M",
+  "race": "H",
+  "city": "Huron",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

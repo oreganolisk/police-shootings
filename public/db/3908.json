@@ -1,0 +1,16 @@
+{
+  "id": 3908,
+  "name": "James Edward Blackmon",
+  "date": "2018-07-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Mississippi County",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

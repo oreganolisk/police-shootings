@@ -1,0 +1,16 @@
+{
+  "id": 2395,
+  "name": "John Hall",
+  "date": "2017-03-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Rib Mountain",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

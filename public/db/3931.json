@@ -1,0 +1,16 @@
+{
+  "id": 3931,
+  "name": "Joseph Robbins",
+  "date": "2018-08-08",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Carthage",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

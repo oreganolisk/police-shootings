@@ -1,0 +1,16 @@
+{
+  "id": 1570,
+  "name": "TK Tk",
+  "date": "2016-05-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

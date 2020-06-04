@@ -1,0 +1,16 @@
+{
+  "id": 1733,
+  "name": "Scot Minard",
+  "date": "2016-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Pine River",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

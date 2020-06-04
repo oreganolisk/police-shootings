@@ -1,0 +1,16 @@
+{
+  "id": 2259,
+  "name": "Ramon Milanez",
+  "date": "2017-01-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Kuna",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

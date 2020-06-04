@@ -1,0 +1,16 @@
+{
+  "id": 163,
+  "name": "Janisha Fonville",
+  "date": "2015-02-18",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 20,
+  "gender": "F",
+  "race": "B",
+  "city": "Charlotte",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

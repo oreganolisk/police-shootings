@@ -1,0 +1,16 @@
+{
+  "id": 955,
+  "name": "Marquesha McMillan",
+  "date": "2015-10-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "F",
+  "race": "B",
+  "city": "Washington",
+  "state": "DC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

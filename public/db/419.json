@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "name": "Luis Chavez-Diaz",
+  "date": "2015-04-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "H",
+  "city": "Elk Grove",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

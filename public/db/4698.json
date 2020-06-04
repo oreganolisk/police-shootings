@@ -1,0 +1,16 @@
+{
+  "id": 4698,
+  "name": "Cesar Tomix Sarmiento-Molina",
+  "date": "2019-05-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Milwaukee",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

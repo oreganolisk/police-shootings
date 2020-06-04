@@ -1,0 +1,16 @@
+{
+  "id": 653,
+  "name": "Samuel DuBose",
+  "date": "2015-07-19",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 43,
+  "gender": "M",
+  "race": "B",
+  "city": "Mt. Auburn",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

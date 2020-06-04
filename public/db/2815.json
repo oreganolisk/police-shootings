@@ -1,0 +1,16 @@
+{
+  "id": 2815,
+  "name": "Dwayne Jeune",
+  "date": "2017-07-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Brooklyn",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

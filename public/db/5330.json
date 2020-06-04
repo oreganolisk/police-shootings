@@ -1,0 +1,16 @@
+{
+  "id": 5330,
+  "name": "Deangelo Rashad Martin",
+  "date": "2019-12-25",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Atlanta",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

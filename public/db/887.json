@@ -1,0 +1,16 @@
+{
+  "id": 887,
+  "name": "Eric Edgell",
+  "date": "2015-10-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Muscle Shoals",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

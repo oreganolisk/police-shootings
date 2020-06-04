@@ -1,0 +1,16 @@
+{
+  "id": 2376,
+  "name": "Steven Valenzuela",
+  "date": "2017-02-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Reno",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4065,
+  "name": "Paul Braswell",
+  "date": "2018-09-26",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Newark",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

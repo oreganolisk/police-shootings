@@ -1,0 +1,16 @@
+{
+  "id": 469,
+  "name": "David Alejandro Gandara",
+  "date": "2015-05-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4409,
+  "name": "Katlyn Alix",
+  "date": "2019-01-24",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 24,
+  "gender": "F",
+  "race": "W",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

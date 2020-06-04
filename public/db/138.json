@@ -1,0 +1,16 @@
+{
+  "id": 138,
+  "name": "Antonio Zambrano-Montes",
+  "date": "2015-02-10",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Pasco",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2769,
+  "name": "Antonio Garcia Jr.",
+  "date": "2017-07-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "B",
+  "city": "Leavenworth",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

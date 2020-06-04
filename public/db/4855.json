@@ -1,0 +1,16 @@
+{
+  "id": 4855,
+  "name": "Jonathan Pingel",
+  "date": "2019-07-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "West Des Moines",
+  "state": "IA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

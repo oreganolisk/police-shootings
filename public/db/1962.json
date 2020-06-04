@@ -1,0 +1,16 @@
+{
+  "id": 1962,
+  "name": "Rex Vance Wilson",
+  "date": "2016-10-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

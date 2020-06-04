@@ -1,0 +1,16 @@
+{
+  "id": 1508,
+  "name": "Marion Habana",
+  "date": "2016-04-30",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "A",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

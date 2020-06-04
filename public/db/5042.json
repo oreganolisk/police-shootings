@@ -1,0 +1,16 @@
+{
+  "id": 5042,
+  "name": "Melvin Watkins",
+  "date": "2019-09-14",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 54,
+  "gender": "M",
+  "race": "B",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

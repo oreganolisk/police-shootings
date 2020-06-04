@@ -1,0 +1,16 @@
+{
+  "id": 4749,
+  "name": "Kyle Needham",
+  "date": "2019-05-31",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Gorham",
+  "state": "ME",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

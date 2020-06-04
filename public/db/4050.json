@@ -1,0 +1,16 @@
+{
+  "id": 4050,
+  "name": "Freddie Joe Whitmore",
+  "date": "2018-09-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

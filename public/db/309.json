@@ -1,0 +1,16 @@
+{
+  "id": 309,
+  "name": "James Ellis",
+  "date": "2015-03-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Clarendon",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

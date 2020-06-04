@@ -1,0 +1,16 @@
+{
+  "id": 5807,
+  "name": "Qavon Webb",
+  "date": "2020-05-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Webster Groves",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5470,
+  "name": "TK TK",
+  "date": "2019-08-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "North Aurora",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5095,
+  "name": "Fernando Mora",
+  "date": "2019-10-12",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 57,
+  "gender": "M",
+  "race": "H",
+  "city": "North Port",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2283,
+  "name": "Nana Adomako",
+  "date": "2017-02-05",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 45,
+  "gender": "M",
+  "race": "B",
+  "city": "Fremont",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

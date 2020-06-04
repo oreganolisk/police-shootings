@@ -1,0 +1,16 @@
+{
+  "id": 2959,
+  "name": "Jesse VanSipe",
+  "date": "2017-09-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Piedmont",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2742,
+  "name": "Alexander Bonds",
+  "date": "2017-07-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

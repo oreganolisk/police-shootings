@@ -1,0 +1,16 @@
+{
+  "id": 5769,
+  "name": "Michael Ferguson",
+  "date": "2020-05-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

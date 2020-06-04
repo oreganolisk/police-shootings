@@ -1,0 +1,16 @@
+{
+  "id": 5532,
+  "name": "Thomas Murray",
+  "date": "2020-02-16",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Newbury",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

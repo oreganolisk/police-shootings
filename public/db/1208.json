@@ -1,0 +1,16 @@
+{
+  "id": 1208,
+  "name": "Thongsavanh Vandarack",
+  "date": "2016-01-27",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 40,
+  "gender": "M",
+  "race": "A",
+  "city": "Lenoir City",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

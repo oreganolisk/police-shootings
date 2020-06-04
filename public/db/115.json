@@ -1,0 +1,16 @@
+{
+  "id": 115,
+  "name": "Francis Murphy Rose III",
+  "date": "2015-02-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Apple Valley",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

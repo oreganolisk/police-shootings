@@ -1,0 +1,16 @@
+{
+  "id": 543,
+  "name": "Fritz Severe",
+  "date": "2015-06-11",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 46,
+  "gender": "M",
+  "race": "B",
+  "city": "Miami",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1400,
+  "name": "Daven Scott Hannu",
+  "date": "2016-03-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Thornton",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

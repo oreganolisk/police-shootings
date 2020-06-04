@@ -1,0 +1,16 @@
+{
+  "id": 749,
+  "name": "Richard Jacquez",
+  "date": "2015-08-17",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

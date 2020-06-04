@@ -1,0 +1,16 @@
+{
+  "id": 3821,
+  "name": "Ryan Force",
+  "date": "2018-07-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "",
+  "city": "Spalding County",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

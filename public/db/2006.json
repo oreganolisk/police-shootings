@@ -1,0 +1,16 @@
+{
+  "id": 2006,
+  "name": "Michelle Lee Shirley",
+  "date": "2016-10-31",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 39,
+  "gender": "F",
+  "race": "B",
+  "city": "Torrance",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

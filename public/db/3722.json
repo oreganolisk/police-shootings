@@ -1,0 +1,16 @@
+{
+  "id": 3722,
+  "name": "Rabi Brown",
+  "date": "2018-05-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "N",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

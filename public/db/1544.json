@@ -1,0 +1,16 @@
+{
+  "id": 1544,
+  "name": "Luke Sanders",
+  "date": "2016-05-17",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Siskiyou County",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

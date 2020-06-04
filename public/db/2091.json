@@ -1,0 +1,16 @@
+{
+  "id": 2091,
+  "name": "Bruce Randall \"Zeus\" Johnson",
+  "date": "2016-12-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "B",
+  "city": "Tacoma",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

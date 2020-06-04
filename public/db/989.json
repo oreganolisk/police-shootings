@@ -1,0 +1,16 @@
+{
+  "id": 989,
+  "name": "Delvin Simmons",
+  "date": "2015-11-09",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Spartanburg",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

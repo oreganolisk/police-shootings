@@ -1,0 +1,16 @@
+{
+  "id": 3735,
+  "name": "TK TK",
+  "date": "2018-05-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "Everton",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4474,
+  "name": "Kyron Marcell Sands",
+  "date": "2019-02-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Norwich",
+  "state": "CT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2895,
+  "name": "Colton Puckett",
+  "date": "2017-08-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Waterford Township",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

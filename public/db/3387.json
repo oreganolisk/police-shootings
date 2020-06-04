@@ -1,0 +1,16 @@
+{
+  "id": 3387,
+  "name": "Alex Duran",
+  "date": "2018-02-06",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

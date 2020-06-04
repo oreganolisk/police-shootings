@@ -1,0 +1,16 @@
+{
+  "id": 732,
+  "name": "Redel Jones",
+  "date": "2015-08-12",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 30,
+  "gender": "F",
+  "race": "B",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

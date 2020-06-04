@@ -1,0 +1,16 @@
+{
+  "id": 3487,
+  "name": "Decynthia Clements",
+  "date": "2018-03-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "F",
+  "race": "B",
+  "city": "Elgin",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2056,
+  "name": "Samson Fleurant",
+  "date": "2016-11-18",
+  "manner_of_death": "shot and Tasered",
+  "armed": "machete",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Port St. Lucie",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

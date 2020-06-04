@@ -1,0 +1,16 @@
+{
+  "id": 816,
+  "name": "Vincent J. Perdue",
+  "date": "2015-09-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "N",
+  "city": "Fairbanks",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

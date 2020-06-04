@@ -1,0 +1,16 @@
+{
+  "id": 738,
+  "name": "Garland Tyree",
+  "date": "2015-08-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "B",
+  "city": "Staten Island",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4219,
+  "name": "Benjamin Kennedy",
+  "date": "2018-11-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "True"
+}

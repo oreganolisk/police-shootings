@@ -1,0 +1,16 @@
+{
+  "id": 799,
+  "name": "Arthur Bates",
+  "date": "2015-09-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Prescott",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

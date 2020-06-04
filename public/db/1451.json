@@ -1,0 +1,16 @@
+{
+  "id": 1451,
+  "name": "William Clark",
+  "date": "2016-04-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Rotterdam",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5546,
+  "name": "Brian Francis Filion",
+  "date": "2020-02-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2690,
+  "name": "Daniel Francisco Valenzuela",
+  "date": "2017-06-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Millerton",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2007,
+  "name": "Jose Armando Cueva",
+  "date": "2016-10-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 55,
+  "gender": "M",
+  "race": "H",
+  "city": "Chatsworth",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

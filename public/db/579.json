@@ -1,0 +1,16 @@
+{
+  "id": 579,
+  "name": "Richard Matt",
+  "date": "2015-06-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Malone",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

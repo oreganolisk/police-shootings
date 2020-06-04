@@ -1,0 +1,16 @@
+{
+  "id": 1598,
+  "name": "Larry Dustin Stepp",
+  "date": "2016-06-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Muncie",
+  "state": "IN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

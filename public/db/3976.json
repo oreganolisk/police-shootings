@@ -1,0 +1,16 @@
+{
+  "id": 3976,
+  "name": "William T. McCollum",
+  "date": "2018-07-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "W",
+  "city": "Casper",
+  "state": "WY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

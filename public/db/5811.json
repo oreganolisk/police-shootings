@@ -1,0 +1,16 @@
+{
+  "id": 5811,
+  "name": "Alfredo Delarosa",
+  "date": "2020-05-05",
+  "manner_of_death": "shot and Tasered",
+  "armed": "Taser",
+  "age": 20,
+  "gender": "M",
+  "race": "H",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

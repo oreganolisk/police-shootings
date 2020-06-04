@@ -1,0 +1,16 @@
+{
+  "id": 4508,
+  "name": "Lawrence Thompson III",
+  "date": "2019-01-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

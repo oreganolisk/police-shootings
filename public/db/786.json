@@ -1,0 +1,16 @@
+{
+  "id": 786,
+  "name": "William Evans",
+  "date": "2015-08-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Spanish Fork",
+  "state": "UT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

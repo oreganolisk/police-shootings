@@ -1,0 +1,16 @@
+{
+  "id": 627,
+  "name": "Neil White",
+  "date": "2015-07-09",
+  "manner_of_death": "shot and Tasered",
+  "armed": "Taser",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

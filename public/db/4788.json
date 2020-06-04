@@ -1,0 +1,16 @@
+{
+  "id": 4788,
+  "name": "Mark Anthony Galvan",
+  "date": "2019-06-17",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 20,
+  "gender": "M",
+  "race": "H",
+  "city": "Brownsville",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

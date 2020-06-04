@@ -1,0 +1,16 @@
+{
+  "id": 3962,
+  "name": "Gavalynn Mahuka",
+  "date": "2018-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "A",
+  "city": "Nanakuli",
+  "state": "HI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

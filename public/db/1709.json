@@ -1,0 +1,16 @@
+{
+  "id": 1709,
+  "name": "Richard G. Dinneny",
+  "date": "2016-07-13",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Middletown",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2901,
+  "name": "Michael Malik Kawon Lee",
+  "date": "2017-08-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Pine Bluff",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

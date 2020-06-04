@@ -1,0 +1,16 @@
+{
+  "id": 974,
+  "name": "Jack Yantis",
+  "date": "2015-11-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 62,
+  "gender": "M",
+  "race": "W",
+  "city": "Council",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

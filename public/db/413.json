@@ -1,0 +1,16 @@
+{
+  "id": 413,
+  "name": "David Parker",
+  "date": "2015-04-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Mansfield",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

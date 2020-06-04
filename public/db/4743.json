@@ -1,0 +1,16 @@
+{
+  "id": 4743,
+  "name": "Luke H. Patterson",
+  "date": "2019-05-23",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Montgomery",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2784,
+  "name": "Eric Wesley Clark",
+  "date": "2017-07-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Culpeper",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5173,
+  "name": "Luis Fino Nabarrette",
+  "date": "2019-11-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Odessa",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

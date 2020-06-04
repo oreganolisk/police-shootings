@@ -1,0 +1,16 @@
+{
+  "id": 3371,
+  "name": "Daniel O. El",
+  "date": "2018-02-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Peoria",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

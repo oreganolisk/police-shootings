@@ -1,0 +1,16 @@
+{
+  "id": 4306,
+  "name": "Walter Kellogg",
+  "date": "2018-12-15",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 57,
+  "gender": "M",
+  "race": "",
+  "city": "Shirley",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

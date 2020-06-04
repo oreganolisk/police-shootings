@@ -1,0 +1,16 @@
+{
+  "id": 4601,
+  "name": "Leonardo Gallegos",
+  "date": "2019-03-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "Cochran County",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

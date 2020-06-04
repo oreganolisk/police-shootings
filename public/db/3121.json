@@ -1,0 +1,16 @@
+{
+  "id": 3121,
+  "name": "Larry Ruiz-Barreto",
+  "date": "2017-11-12",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Fall River",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

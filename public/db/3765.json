@@ -1,0 +1,16 @@
+{
+  "id": 3765,
+  "name": "Nicolas Moncada",
+  "date": "2018-06-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Whittier",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

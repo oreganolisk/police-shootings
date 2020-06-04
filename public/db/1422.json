@@ -1,0 +1,16 @@
+{
+  "id": 1422,
+  "name": "Denise Fairchild",
+  "date": "2016-03-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "F",
+  "race": "W",
+  "city": "Aitkin",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

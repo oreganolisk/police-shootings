@@ -1,0 +1,16 @@
+{
+  "id": 4699,
+  "name": "Pedro Colazo-villa",
+  "date": "2019-05-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

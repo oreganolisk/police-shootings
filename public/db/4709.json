@@ -1,0 +1,16 @@
+{
+  "id": 4709,
+  "name": "Robert Uhl Johnson",
+  "date": "2019-05-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 76,
+  "gender": "M",
+  "race": "",
+  "city": "Parkville",
+  "state": "MD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

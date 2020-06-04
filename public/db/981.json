@@ -1,0 +1,16 @@
+{
+  "id": 981,
+  "name": "Timothy Gene Smith",
+  "date": "2015-11-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Pacific Beach",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

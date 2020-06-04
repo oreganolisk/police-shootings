@@ -1,0 +1,16 @@
+{
+  "id": 3302,
+  "name": "Jose Arroyo-Rosales",
+  "date": "2018-01-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 60,
+  "gender": "M",
+  "race": "H",
+  "city": "Fort Worth",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

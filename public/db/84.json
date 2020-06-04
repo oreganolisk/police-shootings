@@ -1,0 +1,16 @@
+{
+  "id": 84,
+  "name": "Paul Campbell",
+  "date": "2015-01-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Weymouth",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

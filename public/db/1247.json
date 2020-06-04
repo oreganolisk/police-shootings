@@ -1,0 +1,16 @@
+{
+  "id": 1247,
+  "name": "David Joseph",
+  "date": "2016-02-08",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

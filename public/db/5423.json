@@ -1,0 +1,16 @@
+{
+  "id": 5423,
+  "name": "Myles Frazier",
+  "date": "2019-05-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

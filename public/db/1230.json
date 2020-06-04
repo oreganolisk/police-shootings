@@ -1,0 +1,16 @@
+{
+  "id": 1230,
+  "name": "Jeremy J. Sinclair",
+  "date": "2016-01-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Sugar Creek",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

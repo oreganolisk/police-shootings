@@ -1,0 +1,16 @@
+{
+  "id": 5241,
+  "name": "Keith Alan Bruce",
+  "date": "2019-11-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Watkins",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

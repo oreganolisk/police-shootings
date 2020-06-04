@@ -1,0 +1,16 @@
+{
+  "id": 3897,
+  "name": "Joseph Santos",
+  "date": "2018-07-28",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "South Whitehall Township",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

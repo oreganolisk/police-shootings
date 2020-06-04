@@ -1,0 +1,16 @@
+{
+  "id": 1543,
+  "name": "Garry Conrad",
+  "date": "2016-05-18",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

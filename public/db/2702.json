@@ -1,0 +1,16 @@
+{
+  "id": 2702,
+  "name": "Jimmie Bevenue",
+  "date": "2017-06-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5168,
+  "name": "Jay P. Messer",
+  "date": "2019-11-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Pettis County",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

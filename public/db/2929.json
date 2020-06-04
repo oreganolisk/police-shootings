@@ -1,0 +1,16 @@
+{
+  "id": 2929,
+  "name": "Michael Fitzgerald",
+  "date": "2017-07-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Grand Terrace",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

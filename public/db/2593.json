@@ -1,0 +1,16 @@
+{
+  "id": 2593,
+  "name": "Roger Bubar",
+  "date": "2017-05-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 65,
+  "gender": "M",
+  "race": "W",
+  "city": "Belgrade",
+  "state": "ME",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1408,
+  "name": "Mario Sandoval",
+  "date": "2016-03-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Pueblo of Laguna",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

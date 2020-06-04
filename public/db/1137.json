@@ -1,0 +1,16 @@
+{
+  "id": 1137,
+  "name": "Keith Childress",
+  "date": "2015-12-31",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

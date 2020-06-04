@@ -1,0 +1,16 @@
+{
+  "id": 367,
+  "name": "Frank Shephard",
+  "date": "2015-04-15",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

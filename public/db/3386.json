@@ -1,0 +1,16 @@
+{
+  "id": 3386,
+  "name": "James Benny Hobbs",
+  "date": "2018-02-06",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "St. Augustine",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

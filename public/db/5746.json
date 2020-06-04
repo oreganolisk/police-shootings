@@ -1,0 +1,16 @@
+{
+  "id": 5746,
+  "name": "Javier Vidal",
+  "date": "2020-04-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Lamont",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

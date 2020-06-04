@@ -1,0 +1,16 @@
+{
+  "id": 5003,
+  "name": "Ricardo Hylton",
+  "date": "2019-08-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "",
+  "city": "Wilmington",
+  "state": "DE",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

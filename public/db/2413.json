@@ -1,0 +1,16 @@
+{
+  "id": 2413,
+  "name": "Mark Robert Carlberg",
+  "date": "2017-03-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Midlothian",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

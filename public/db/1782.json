@@ -1,0 +1,16 @@
+{
+  "id": 1782,
+  "name": "Jesus Armando Carillo",
+  "date": "2016-08-12",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

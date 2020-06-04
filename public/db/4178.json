@@ -1,0 +1,16 @@
+{
+  "id": 4178,
+  "name": "Marty West",
+  "date": "2018-11-12",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 63,
+  "gender": "M",
+  "race": "W",
+  "city": "Fresno",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

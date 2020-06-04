@@ -1,0 +1,16 @@
+{
+  "id": 5495,
+  "name": "Alvin Cole",
+  "date": "2020-02-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Wauwatosa",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

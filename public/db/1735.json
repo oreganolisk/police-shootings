@@ -1,0 +1,16 @@
+{
+  "id": 1735,
+  "name": "Devon Martes",
+  "date": "2016-07-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Metairie",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

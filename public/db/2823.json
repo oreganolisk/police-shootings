@@ -1,0 +1,16 @@
+{
+  "id": 2823,
+  "name": "Robert Savelli",
+  "date": "2017-07-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

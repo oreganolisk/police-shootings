@@ -1,0 +1,16 @@
+{
+  "id": 4722,
+  "name": "Alex Steward Underdown",
+  "date": "2019-05-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

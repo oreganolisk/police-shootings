@@ -1,0 +1,16 @@
+{
+  "id": 3149,
+  "name": "Lawrence Hawkins",
+  "date": "2017-11-18",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 56,
+  "gender": "M",
+  "race": "B",
+  "city": "Prichard",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 162,
+  "name": "Pedro Juan Saldivar",
+  "date": "2015-02-17",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 50,
+  "gender": "M",
+  "race": "H",
+  "city": "Del Rio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

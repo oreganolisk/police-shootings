@@ -1,0 +1,16 @@
+{
+  "id": 2314,
+  "name": "Henry James Hunter",
+  "date": "2017-02-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "M",
+  "race": "N",
+  "city": "Anadarko",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

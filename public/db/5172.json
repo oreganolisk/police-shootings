@@ -1,0 +1,16 @@
+{
+  "id": 5172,
+  "name": "Matthew Rasmussen",
+  "date": "2019-11-04",
+  "manner_of_death": "shot",
+  "armed": "sharp object",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Glendale",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

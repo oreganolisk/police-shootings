@@ -1,0 +1,16 @@
+{
+  "id": 2783,
+  "name": "Ernesto Sedillo",
+  "date": "2017-07-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "H",
+  "city": "Las Cruces",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

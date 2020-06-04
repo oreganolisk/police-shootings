@@ -1,0 +1,16 @@
+{
+  "id": 5396,
+  "name": "Paul Jarvis",
+  "date": "2019-12-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 63,
+  "gender": "M",
+  "race": "",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

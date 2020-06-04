@@ -1,0 +1,16 @@
+{
+  "id": 959,
+  "name": "Ricky Keith Keeton",
+  "date": "2015-10-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "Smithville",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

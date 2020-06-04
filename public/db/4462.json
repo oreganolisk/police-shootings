@@ -1,0 +1,16 @@
+{
+  "id": 4462,
+  "name": "Wilfredo Hernandez",
+  "date": "2019-02-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

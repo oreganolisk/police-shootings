@@ -1,0 +1,16 @@
+{
+  "id": 5435,
+  "name": "Aaron T. Booker",
+  "date": "2020-01-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Aiken",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

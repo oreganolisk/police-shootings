@@ -1,0 +1,16 @@
+{
+  "id": 953,
+  "name": "Jon Ployhar",
+  "date": "2015-10-24",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Kenai Peninsula",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

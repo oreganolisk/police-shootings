@@ -1,0 +1,16 @@
+{
+  "id": 5556,
+  "name": "Joseph Jewell",
+  "date": "2020-02-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbus",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

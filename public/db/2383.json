@@ -1,0 +1,16 @@
+{
+  "id": 2383,
+  "name": "Lorenzo Antoine Cruz",
+  "date": "2017-02-25",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Rocklin",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

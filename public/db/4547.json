@@ -1,0 +1,16 @@
+{
+  "id": 4547,
+  "name": "Shamikle Jackson",
+  "date": "2019-03-04",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Aurora",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

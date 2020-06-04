@@ -1,0 +1,16 @@
+{
+  "id": 4146,
+  "name": "Gonzalo Rico-Jimenez",
+  "date": "2018-10-31",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "North Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5325,
+  "name": "Juan Rosa",
+  "date": "2019-12-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Auburndale",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

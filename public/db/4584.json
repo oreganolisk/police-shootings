@@ -1,0 +1,16 @@
+{
+  "id": 4584,
+  "name": "Stevie Garcia",
+  "date": "2019-03-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

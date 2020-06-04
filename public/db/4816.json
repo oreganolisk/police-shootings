@@ -1,0 +1,16 @@
+{
+  "id": 4816,
+  "name": "Elijah Collins III",
+  "date": "2019-06-26",
+  "manner_of_death": "shot",
+  "armed": "sharp object",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Sugarcreek",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

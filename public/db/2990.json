@@ -1,0 +1,16 @@
+{
+  "id": 2990,
+  "name": "Guy Lynn Scott",
+  "date": "2017-09-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Griffin",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4342,
+  "name": "Matthew Burroughs",
+  "date": "2019-01-02",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Niles",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

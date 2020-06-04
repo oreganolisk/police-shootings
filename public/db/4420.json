@@ -1,0 +1,16 @@
+{
+  "id": 4420,
+  "name": "Rhogena Nicholas",
+  "date": "2019-01-28",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 58,
+  "gender": "F",
+  "race": "W",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

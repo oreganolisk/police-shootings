@@ -1,0 +1,16 @@
+{
+  "id": 2407,
+  "name": "Frank W. Wratny",
+  "date": "2017-03-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 91,
+  "gender": "M",
+  "race": "W",
+  "city": "Union Township",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

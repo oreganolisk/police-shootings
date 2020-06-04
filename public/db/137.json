@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "name": "Desmond Luster",
+  "date": "2015-02-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "B",
+  "city": "Dallas",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

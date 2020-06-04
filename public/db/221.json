@@ -1,0 +1,16 @@
+{
+  "id": 221,
+  "name": "Alice Brown",
+  "date": "2015-03-17",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 24,
+  "gender": "F",
+  "race": "W",
+  "city": "San Francisco",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

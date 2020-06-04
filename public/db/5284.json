@@ -1,0 +1,16 @@
+{
+  "id": 5284,
+  "name": "Bradley Cutchens",
+  "date": "2019-12-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Ozark",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

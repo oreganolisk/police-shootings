@@ -1,0 +1,16 @@
+{
+  "id": 3501,
+  "name": "Bryan Liles",
+  "date": "2018-03-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Sandy",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

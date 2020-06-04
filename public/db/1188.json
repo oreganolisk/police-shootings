@@ -1,0 +1,16 @@
+{
+  "id": 1188,
+  "name": "Daniel Shaver",
+  "date": "2016-01-17",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4187,
+  "name": "Agustin Gonsalez",
+  "date": "2018-11-15",
+  "manner_of_death": "shot",
+  "armed": "straight edge razor",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Hayward",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

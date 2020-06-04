@@ -1,0 +1,16 @@
+{
+  "id": 1705,
+  "name": "Pablo Medina",
+  "date": "2016-07-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "H",
+  "city": "Romulus",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

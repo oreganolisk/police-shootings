@@ -1,0 +1,16 @@
+{
+  "id": 4185,
+  "name": "Rio Antwuan Thomas",
+  "date": "2018-11-17",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Fort Pierce",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

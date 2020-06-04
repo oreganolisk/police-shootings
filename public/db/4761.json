@@ -1,0 +1,16 @@
+{
+  "id": 4761,
+  "name": "Travis James Eckstein",
+  "date": "2019-06-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "San Ysidro",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

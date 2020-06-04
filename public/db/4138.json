@@ -1,0 +1,16 @@
+{
+  "id": 4138,
+  "name": "Derrick Alexander Sellman",
+  "date": "2018-10-29",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Parkville",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3262,
+  "name": "Nathaniel Fritz Macalevy",
+  "date": "2017-12-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "",
+  "city": "Boring",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

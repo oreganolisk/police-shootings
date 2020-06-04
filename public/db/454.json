@@ -1,0 +1,16 @@
+{
+  "id": 454,
+  "name": "Sam Holmes",
+  "date": "2015-05-08",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Fridley",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

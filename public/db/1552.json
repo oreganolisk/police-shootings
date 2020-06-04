@@ -1,0 +1,16 @@
+{
+  "id": 1552,
+  "name": "Norman Campbell",
+  "date": "2016-05-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 63,
+  "gender": "M",
+  "race": "W",
+  "city": "Chesterfield County",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

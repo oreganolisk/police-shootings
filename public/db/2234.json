@@ -1,0 +1,16 @@
+{
+  "id": 2234,
+  "name": "Christopher Thompkins",
+  "date": "2017-01-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "B",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5356,
+  "name": "Dallas Pearce",
+  "date": "2020-01-06",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 33,
+  "gender": "M",
+  "race": "A",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

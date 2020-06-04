@@ -1,0 +1,16 @@
+{
+  "id": 522,
+  "name": "Damien Ramirez",
+  "date": "2015-06-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "H",
+  "city": "Strasburg",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

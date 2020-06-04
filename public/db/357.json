@@ -1,0 +1,16 @@
+{
+  "id": 357,
+  "name": "Richard Dale Weaver",
+  "date": "2015-04-12",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 83,
+  "gender": "M",
+  "race": "W",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

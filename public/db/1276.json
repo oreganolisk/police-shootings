@@ -1,0 +1,16 @@
+{
+  "id": 1276,
+  "name": "Sahlah Ridgeway",
+  "date": "2016-02-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "F",
+  "race": "B",
+  "city": "Syracuse",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2005,
+  "name": "Michael Dale Vance Jr.",
+  "date": "2016-10-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "",
+  "city": "Leedey",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

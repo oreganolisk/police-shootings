@@ -1,0 +1,16 @@
+{
+  "id": 1298,
+  "name": "Charles Lee Lambert",
+  "date": "2016-02-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Iuka",
+  "state": "MS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1232,
+  "name": "Edgar Rene Alvarado",
+  "date": "2016-02-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "H",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

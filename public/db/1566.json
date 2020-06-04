@@ -1,0 +1,16 @@
+{
+  "id": 1566,
+  "name": "Doll Pierre-Louis",
+  "date": "2016-05-25",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Miami Gardens",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

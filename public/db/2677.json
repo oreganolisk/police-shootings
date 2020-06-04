@@ -1,0 +1,16 @@
+{
+  "id": 2677,
+  "name": "Jamie Dougan",
+  "date": "2017-06-16",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 24,
+  "gender": "F",
+  "race": "W",
+  "city": "Water Valley",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

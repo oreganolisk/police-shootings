@@ -1,0 +1,16 @@
+{
+  "id": 1994,
+  "name": "Malcolm Loren Hickson",
+  "date": "2016-10-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Carrollton",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

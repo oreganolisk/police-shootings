@@ -1,0 +1,16 @@
+{
+  "id": 940,
+  "name": "Miguel Angel Marin Galena",
+  "date": "2015-10-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Calexico",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

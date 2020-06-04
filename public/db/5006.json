@@ -1,0 +1,16 @@
+{
+  "id": 5006,
+  "name": "Seth Aaron Ator",
+  "date": "2019-08-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Odessa",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

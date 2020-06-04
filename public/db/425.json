@@ -1,0 +1,16 @@
+{
+  "id": 425,
+  "name": "Kenneth Mathena",
+  "date": "2015-05-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Smyrna",
+  "state": "DE",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

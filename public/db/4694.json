@@ -1,0 +1,16 @@
+{
+  "id": 4694,
+  "name": "Lawrence Bottoms",
+  "date": "2019-04-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Hancock County",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

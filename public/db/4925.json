@@ -1,0 +1,16 @@
+{
+  "id": 4925,
+  "name": "David Willoughby",
+  "date": "2019-08-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Jackson County",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

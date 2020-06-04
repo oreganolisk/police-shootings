@@ -1,0 +1,16 @@
+{
+  "id": 4097,
+  "name": "Travis N. Craven",
+  "date": "2018-10-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Larimer County",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

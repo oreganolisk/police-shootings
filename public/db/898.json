@@ -1,0 +1,16 @@
+{
+  "id": 898,
+  "name": "Gary Carmona Boitano",
+  "date": "2015-10-09",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbia",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

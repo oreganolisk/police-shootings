@@ -1,0 +1,16 @@
+{
+  "id": 5428,
+  "name": "Toby Diller",
+  "date": "2020-01-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Oak Park",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1786,
+  "name": "Jovany Martinez",
+  "date": "2016-08-15",
+  "manner_of_death": "shot",
+  "armed": "metal pole",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Falls Church",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

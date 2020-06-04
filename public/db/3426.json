@@ -1,0 +1,16 @@
+{
+  "id": 3426,
+  "name": "Ernest Manuel Montelongo",
+  "date": "2018-02-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Guadalupe County",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4052,
+  "name": "Phillip Serrano",
+  "date": "2018-09-24",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 44,
+  "gender": "M",
+  "race": "",
+  "city": "Stead",
+  "state": "NV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

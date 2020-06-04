@@ -1,0 +1,16 @@
+{
+  "id": 1126,
+  "name": "Terrozza Tyree Griffin",
+  "date": "2015-12-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Lansing",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

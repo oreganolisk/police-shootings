@@ -1,0 +1,16 @@
+{
+  "id": 2187,
+  "name": "Mark Guirguis",
+  "date": "2017-01-01",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Allen",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

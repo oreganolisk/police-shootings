@@ -1,0 +1,16 @@
+{
+  "id": 3458,
+  "name": "Christopher Race",
+  "date": "2018-03-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

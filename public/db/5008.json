@@ -1,0 +1,16 @@
+{
+  "id": 5008,
+  "name": "Cortez Shepherd",
+  "date": "2019-09-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

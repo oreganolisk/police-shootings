@@ -1,0 +1,16 @@
+{
+  "id": 4890,
+  "name": "Joshua Vigil",
+  "date": "2019-07-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

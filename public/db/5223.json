@@ -1,0 +1,16 @@
+{
+  "id": 5223,
+  "name": "Nathaniel Pinnock",
+  "date": "2019-11-25",
+  "manner_of_death": "shot",
+  "armed": "vehicle and machete",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5336,
+  "name": "Brandon D. Roberts",
+  "date": "2020-01-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Milford",
+  "state": "DE",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

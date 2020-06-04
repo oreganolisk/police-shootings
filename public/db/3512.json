@@ -1,0 +1,16 @@
+{
+  "id": 3512,
+  "name": "Bobby Lovin",
+  "date": "2018-03-16",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 62,
+  "gender": "M",
+  "race": "W",
+  "city": "Burnsville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3559,
+  "name": "James Decoursey",
+  "date": "2018-03-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Clarksville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

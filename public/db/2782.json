@@ -1,0 +1,16 @@
+{
+  "id": 2782,
+  "name": "India N. Nelson",
+  "date": "2017-07-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "F",
+  "race": "B",
+  "city": "Norfolk",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

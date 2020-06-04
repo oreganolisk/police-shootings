@@ -1,0 +1,16 @@
+{
+  "id": 4613,
+  "name": "Barry A. Rucker",
+  "date": "2019-04-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Brownstown",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

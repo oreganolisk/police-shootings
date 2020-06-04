@@ -1,0 +1,16 @@
+{
+  "id": 4181,
+  "name": "Danny Ayala",
+  "date": "2018-11-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": "",
+  "gender": "M",
+  "race": "H",
+  "city": "Alpine",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

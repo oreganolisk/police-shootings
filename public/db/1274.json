@@ -1,0 +1,16 @@
+{
+  "id": 1274,
+  "name": "Brandon Lee Witt",
+  "date": "2016-02-15",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Yorba Linda",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

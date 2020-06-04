@@ -1,0 +1,16 @@
+{
+  "id": 3808,
+  "name": "Anthony Sanchez",
+  "date": "2018-06-29",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Aurora",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3022,
+  "name": "Joshua Lanflisi",
+  "date": "2017-10-01",
+  "manner_of_death": "shot",
+  "armed": "gun and sword",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

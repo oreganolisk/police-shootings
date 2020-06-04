@@ -1,0 +1,16 @@
+{
+  "id": 2147,
+  "name": "Colton Calaway",
+  "date": "2016-12-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Burns Flat",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

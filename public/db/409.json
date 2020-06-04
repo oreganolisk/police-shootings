@@ -1,0 +1,16 @@
+{
+  "id": 409,
+  "name": "Hector Morejon",
+  "date": "2015-04-23",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Long Beach",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

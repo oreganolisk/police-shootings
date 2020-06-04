@@ -1,0 +1,16 @@
+{
+  "id": 2621,
+  "name": "James Daniel Hill",
+  "date": "2017-05-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "W",
+  "city": "Centennial",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1146,
+  "name": "James K. Maher",
+  "date": "2016-01-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Johnson City",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

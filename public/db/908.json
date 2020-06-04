@@ -1,0 +1,16 @@
+{
+  "id": 908,
+  "name": "Jason Day",
+  "date": "2015-10-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "B",
+  "city": "Lawton",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

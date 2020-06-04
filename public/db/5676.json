@@ -1,0 +1,16 @@
+{
+  "id": 5676,
+  "name": "TK TK",
+  "date": "2020-04-13",
+  "manner_of_death": "shot",
+  "armed": "screwdriver",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "Jackson",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

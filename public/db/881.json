@@ -1,0 +1,16 @@
+{
+  "id": 881,
+  "name": "Tyler Gerken",
+  "date": "2015-08-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "W",
+  "city": "Beverly",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

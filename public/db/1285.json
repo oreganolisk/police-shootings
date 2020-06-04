@@ -1,0 +1,16 @@
+{
+  "id": 1285,
+  "name": "Jose Quintanilla",
+  "date": "2016-02-18",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Santa Ana",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

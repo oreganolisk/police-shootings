@@ -1,0 +1,16 @@
+{
+  "id": 5350,
+  "name": "Troy Sullenger",
+  "date": "2020-01-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Murrieta",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

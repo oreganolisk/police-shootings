@@ -1,0 +1,16 @@
+{
+  "id": 4861,
+  "name": "Darrell Allen",
+  "date": "2019-07-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Adelanto",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

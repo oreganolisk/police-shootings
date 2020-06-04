@@ -1,0 +1,16 @@
+{
+  "id": 1019,
+  "name": "Marcus Meridy",
+  "date": "2015-11-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "B",
+  "city": "Benton Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

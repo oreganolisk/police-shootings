@@ -1,0 +1,16 @@
+{
+  "id": 2586,
+  "name": "Isabelle Duval",
+  "date": "2017-05-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "F",
+  "race": "W",
+  "city": "Washington",
+  "state": "DC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

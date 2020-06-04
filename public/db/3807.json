@@ -1,0 +1,16 @@
+{
+  "id": 3807,
+  "name": "Joey Bronson",
+  "date": "2018-06-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Aurora",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

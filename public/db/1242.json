@@ -1,0 +1,16 @@
+{
+  "id": 1242,
+  "name": "Ronald Barawis",
+  "date": "2016-02-05",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 38,
+  "gender": "M",
+  "race": "O",
+  "city": "Hilo",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

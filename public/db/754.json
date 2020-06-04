@@ -1,0 +1,16 @@
+{
+  "id": 754,
+  "name": "Wade Allen Baker",
+  "date": "2015-08-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Canton",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

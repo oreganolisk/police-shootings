@@ -1,0 +1,16 @@
+{
+  "id": 1922,
+  "name": "Daniel Perez",
+  "date": "2016-10-02",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 16,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

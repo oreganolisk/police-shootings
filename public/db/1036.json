@@ -1,0 +1,16 @@
+{
+  "id": 1036,
+  "name": "Justin D. McHenry",
+  "date": "2015-11-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Celina",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

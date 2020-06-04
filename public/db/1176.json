@@ -1,0 +1,16 @@
+{
+  "id": 1176,
+  "name": "Adam Karjalainen",
+  "date": "2016-01-16",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Beaverton",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

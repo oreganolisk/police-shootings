@@ -1,0 +1,16 @@
+{
+  "id": 5129,
+  "name": "Luis Arreguin-Lara",
+  "date": "2019-10-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "H",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

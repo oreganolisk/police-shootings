@@ -1,0 +1,16 @@
+{
+  "id": 5386,
+  "name": "Edward Gendron",
+  "date": "2020-01-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "Waterbury",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

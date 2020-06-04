@@ -1,0 +1,16 @@
+{
+  "id": 2894,
+  "name": "Ciara Howard",
+  "date": "2017-08-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "F",
+  "race": "W",
+  "city": "Olathe",
+  "state": "KS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3249,
+  "name": "Dennis Plowden",
+  "date": "2017-12-27",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Philadelphia",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

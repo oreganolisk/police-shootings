@@ -1,0 +1,16 @@
+{
+  "id": 5317,
+  "name": "Richard Ruiz",
+  "date": "2019-12-23",
+  "manner_of_death": "shot",
+  "armed": "gun and vehicle",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3207,
+  "name": "Chester Randolph Ward",
+  "date": "2017-11-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 68,
+  "gender": "M",
+  "race": "B",
+  "city": "Cedar Lake",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

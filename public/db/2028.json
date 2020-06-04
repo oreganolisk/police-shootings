@@ -1,0 +1,16 @@
+{
+  "id": 2028,
+  "name": "Kenton Kobza",
+  "date": "2016-11-08",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "W",
+  "city": "Hays",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

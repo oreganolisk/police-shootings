@@ -1,0 +1,16 @@
+{
+  "id": 1888,
+  "name": "Terence Crutcher",
+  "date": "2016-09-16",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3090,
+  "name": "Wallace Jory",
+  "date": "2017-11-02",
+  "manner_of_death": "shot",
+  "armed": "pitchfork",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Sacramento",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

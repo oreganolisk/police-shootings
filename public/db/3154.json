@@ -1,0 +1,16 @@
+{
+  "id": 3154,
+  "name": "Seth William Johnson",
+  "date": "2017-11-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 15,
+  "gender": "M",
+  "race": "W",
+  "city": "Gulfport",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2100,
+  "name": "Isreal Flores",
+  "date": "2016-12-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "",
+  "city": "Metairie",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1943,
+  "name": "Deric J. Brown",
+  "date": "2016-10-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Syracuse",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

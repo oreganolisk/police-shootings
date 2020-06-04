@@ -1,0 +1,16 @@
+{
+  "id": 4770,
+  "name": "David Wayne Downs",
+  "date": "2019-06-09",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Portland",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

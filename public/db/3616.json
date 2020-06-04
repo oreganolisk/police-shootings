@@ -1,0 +1,16 @@
+{
+  "id": 3616,
+  "name": "Ruben Stewart",
+  "date": "2018-04-15",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "M",
+  "race": "N",
+  "city": "Lodge Grass",
+  "state": "MT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

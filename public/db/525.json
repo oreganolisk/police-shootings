@@ -1,0 +1,16 @@
+{
+  "id": 525,
+  "name": "Jeremy Linhart",
+  "date": "2015-06-09",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Findlay",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

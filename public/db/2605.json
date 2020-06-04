@@ -1,0 +1,16 @@
+{
+  "id": 2605,
+  "name": "Albert Gagnier",
+  "date": "2017-05-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 74,
+  "gender": "M",
+  "race": "W",
+  "city": "Knoxville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

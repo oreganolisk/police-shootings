@@ -1,0 +1,16 @@
+{
+  "id": 2726,
+  "name": "Brett Rodriguez",
+  "date": "2017-06-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Westminster",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "name": "Denzel Brown",
+  "date": "2015-03-22",
+  "manner_of_death": "shot and Tasered",
+  "armed": "undetermined",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Islip",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

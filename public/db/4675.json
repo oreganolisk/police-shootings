@@ -1,0 +1,16 @@
+{
+  "id": 4675,
+  "name": "Michael J. D'Angelo",
+  "date": "2019-03-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Westminster",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2971,
+  "name": "Alexander Ochoa",
+  "date": "2017-09-22",
+  "manner_of_death": "shot",
+  "armed": "gun and knife",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Oceanside",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

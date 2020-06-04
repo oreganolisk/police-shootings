@@ -1,0 +1,16 @@
+{
+  "id": 1101,
+  "name": "Amos Frerichs",
+  "date": "2015-12-18",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Knoxville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

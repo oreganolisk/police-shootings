@@ -1,0 +1,16 @@
+{
+  "id": 5175,
+  "name": "Nash Fiske",
+  "date": "2019-11-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Two Rivers",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

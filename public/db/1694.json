@@ -1,0 +1,16 @@
+{
+  "id": 1694,
+  "name": "Philando Castile",
+  "date": "2016-07-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Falcon Heights",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3345,
+  "name": "Christopher Eric Giles",
+  "date": "2018-01-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

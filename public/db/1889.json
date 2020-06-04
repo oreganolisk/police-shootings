@@ -1,0 +1,16 @@
+{
+  "id": 1889,
+  "name": "Jesse Beshaw",
+  "date": "2016-09-16",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 29,
+  "gender": "M",
+  "race": "N",
+  "city": "Winooski",
+  "state": "VT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

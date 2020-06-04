@@ -1,0 +1,16 @@
+{
+  "id": 3394,
+  "name": "Tierre Guthrie",
+  "date": "2018-02-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Locust Grove",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

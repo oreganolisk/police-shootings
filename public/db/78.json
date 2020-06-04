@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "name": "Daniel Brumley",
+  "date": "2015-01-17",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 27,
+  "gender": "M",
+  "race": "H",
+  "city": "Fort Worth",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "name": "Nathan Massey",
+  "date": "2015-01-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Evangeline Parish",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

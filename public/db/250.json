@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "name": "Adrian Solis",
+  "date": "2015-03-26",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Wilmington",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5202,
+  "name": "Jacob Cato",
+  "date": "2019-11-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "San Bernardino",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

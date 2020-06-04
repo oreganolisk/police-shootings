@@ -1,0 +1,16 @@
+{
+  "id": 2345,
+  "name": "Mauro Garnica",
+  "date": "2017-02-15",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 55,
+  "gender": "M",
+  "race": "H",
+  "city": "Newman",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

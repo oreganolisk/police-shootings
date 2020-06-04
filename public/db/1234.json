@@ -1,0 +1,16 @@
+{
+  "id": 1234,
+  "name": "Cristiaan Oliver Dubrino",
+  "date": "2016-02-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Ocala",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

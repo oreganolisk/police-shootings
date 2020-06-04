@@ -1,0 +1,16 @@
+{
+  "id": 1649,
+  "name": "Angelo Brown",
+  "date": "2016-06-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "B",
+  "city": "Belleville",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1016,
+  "name": "Derry Touchstone",
+  "date": "2015-11-17",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Arlington",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

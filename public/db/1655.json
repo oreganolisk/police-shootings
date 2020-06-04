@@ -1,0 +1,16 @@
+{
+  "id": 1655,
+  "name": "Terry Lynn Maurer",
+  "date": "2016-06-26",
+  "manner_of_death": "shot",
+  "armed": "baseball bat",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Columbia Township",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

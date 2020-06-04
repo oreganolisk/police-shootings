@@ -1,0 +1,16 @@
+{
+  "id": 5080,
+  "name": "Christopher Massey",
+  "date": "2019-10-05",
+  "manner_of_death": "shot",
+  "armed": "air pistol",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Carrollton",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

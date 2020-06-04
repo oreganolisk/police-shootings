@@ -1,0 +1,16 @@
+{
+  "id": 235,
+  "name": "Enoch Gaver",
+  "date": "2015-03-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "W",
+  "city": "Cottonwood",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

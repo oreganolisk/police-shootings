@@ -1,0 +1,16 @@
+{
+  "id": 1453,
+  "name": "Quron Williams",
+  "date": "2016-04-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Philadelphia",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

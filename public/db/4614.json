@@ -1,0 +1,16 @@
+{
+  "id": 4614,
+  "name": "Alfonso Cervantes",
+  "date": "2019-04-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "H",
+  "city": "San Diego",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

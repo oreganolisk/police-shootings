@@ -1,0 +1,16 @@
+{
+  "id": 5654,
+  "name": "Rosario Angel Alvarado",
+  "date": "2020-03-13",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 41,
+  "gender": "M",
+  "race": "H",
+  "city": "Chandler",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

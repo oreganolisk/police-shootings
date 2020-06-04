@@ -1,0 +1,16 @@
+{
+  "id": 351,
+  "name": "Antonio Perez",
+  "date": "2015-03-13",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

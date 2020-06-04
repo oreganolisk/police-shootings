@@ -1,0 +1,16 @@
+{
+  "id": 5728,
+  "name": "Joshua Bacco",
+  "date": "2020-04-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "El Mirage",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1157,
+  "name": "Eric C. Olsen",
+  "date": "2016-01-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Geneva",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

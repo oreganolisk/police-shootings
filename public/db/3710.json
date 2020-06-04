@@ -1,0 +1,16 @@
+{
+  "id": 3710,
+  "name": "Makell Meyerin",
+  "date": "2018-05-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "F",
+  "race": "W",
+  "city": "Gurnee",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

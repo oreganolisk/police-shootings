@@ -1,0 +1,16 @@
+{
+  "id": 3304,
+  "name": "Justin Coy Adkins",
+  "date": "2018-01-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Lexington County",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

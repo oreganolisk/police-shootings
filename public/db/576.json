@@ -1,0 +1,16 @@
+{
+  "id": 576,
+  "name": "Tyrone Harris",
+  "date": "2015-06-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

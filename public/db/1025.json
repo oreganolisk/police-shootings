@@ -1,0 +1,16 @@
+{
+  "id": 1025,
+  "name": "James Daniel Hall",
+  "date": "2015-11-22",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Fontana",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

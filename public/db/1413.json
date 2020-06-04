@@ -1,0 +1,16 @@
+{
+  "id": 1413,
+  "name": "Terrence Shane Blackburn",
+  "date": "2016-03-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Grundy",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1697,
+  "name": "Vinson Lee Ramos",
+  "date": "2016-07-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Bell",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

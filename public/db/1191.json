@@ -1,0 +1,16 @@
+{
+  "id": 1191,
+  "name": "Timothy Albert",
+  "date": "2016-01-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Port Barre",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

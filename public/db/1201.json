@@ -1,0 +1,16 @@
+{
+  "id": 1201,
+  "name": "Cedric Norris",
+  "date": "2016-01-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Eufaula",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

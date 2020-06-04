@@ -1,0 +1,16 @@
+{
+  "id": 3295,
+  "name": "Brandon O. Cude",
+  "date": "2018-01-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Crandon",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

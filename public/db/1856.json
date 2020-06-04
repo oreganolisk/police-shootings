@@ -1,0 +1,16 @@
+{
+  "id": 1856,
+  "name": "Michael Thompson",
+  "date": "2016-09-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "B",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

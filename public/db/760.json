@@ -1,0 +1,16 @@
+{
+  "id": 760,
+  "name": "Charles S. Hall",
+  "date": "2015-08-21",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "North East",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

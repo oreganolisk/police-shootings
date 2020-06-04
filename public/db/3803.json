@@ -1,0 +1,16 @@
+{
+  "id": 3803,
+  "name": "Bobby Blade",
+  "date": "2018-06-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Garland",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1330,
+  "name": "Mickey Dewayne Sweatt",
+  "date": "2016-03-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "W",
+  "city": "Gautier",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

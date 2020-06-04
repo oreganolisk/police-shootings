@@ -1,0 +1,16 @@
+{
+  "id": 48,
+  "name": "Richard McClendon",
+  "date": "2015-01-13",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Jourdanton",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2790,
+  "name": "Anthony Benavidez",
+  "date": "2017-07-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Santa Fe",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4343,
+  "name": "Abdoulaye Thiam",
+  "date": "2019-01-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Whitehaven",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

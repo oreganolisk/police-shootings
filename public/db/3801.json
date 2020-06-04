@@ -1,0 +1,16 @@
+{
+  "id": 3801,
+  "name": "Eric Sweet",
+  "date": "2018-06-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Coos Bay",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

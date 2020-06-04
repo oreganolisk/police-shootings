@@ -1,0 +1,16 @@
+{
+  "id": 5149,
+  "name": "Wilmer Spikes",
+  "date": "2019-10-30",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 67,
+  "gender": "M",
+  "race": "",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

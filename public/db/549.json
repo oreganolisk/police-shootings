@@ -1,0 +1,16 @@
+{
+  "id": 549,
+  "name": "James Boulware",
+  "date": "2015-06-13",
+  "manner_of_death": "shot",
+  "armed": "guns and explosives",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Hutchins",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1667,
+  "name": "Blake Peacock",
+  "date": "2016-06-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Cochran",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

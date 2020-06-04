@@ -1,0 +1,16 @@
+{
+  "id": 4587,
+  "name": "Danquirs Napoleon Franklin",
+  "date": "2019-03-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Charlotte",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1624,
+  "name": "Mohammad Moghaddam",
+  "date": "2016-06-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "O",
+  "city": "Amarillo",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

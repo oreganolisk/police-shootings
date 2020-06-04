@@ -1,0 +1,16 @@
+{
+  "id": 2129,
+  "name": "Steven Garrett Ward",
+  "date": "2016-12-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 20,
+  "gender": "M",
+  "race": "",
+  "city": "Avella",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

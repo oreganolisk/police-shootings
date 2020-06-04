@@ -1,0 +1,16 @@
+{
+  "id": 4733,
+  "name": "Elizabeth Harris",
+  "date": "2019-05-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "F",
+  "race": "W",
+  "city": "New Boston",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

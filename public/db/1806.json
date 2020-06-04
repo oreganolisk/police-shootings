@@ -1,0 +1,16 @@
+{
+  "id": 1806,
+  "name": "Kole B. Knight",
+  "date": "2016-08-19",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "New London",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

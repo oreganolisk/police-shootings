@@ -1,0 +1,16 @@
+{
+  "id": 4337,
+  "name": "Jesus Ramos",
+  "date": "2018-12-31",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Longmont",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

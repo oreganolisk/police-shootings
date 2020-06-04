@@ -1,0 +1,16 @@
+{
+  "id": 1372,
+  "name": "Sunny Chin",
+  "date": "2016-03-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "A",
+  "city": "Tampa",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

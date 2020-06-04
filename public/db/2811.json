@@ -1,0 +1,16 @@
+{
+  "id": 2811,
+  "name": "Matthew Folden",
+  "date": "2017-07-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Wenatchee",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

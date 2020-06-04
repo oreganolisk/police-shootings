@@ -1,0 +1,16 @@
+{
+  "id": 1563,
+  "name": "Bryson Fischer",
+  "date": "2016-05-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Boulder",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

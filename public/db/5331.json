@@ -1,0 +1,16 @@
+{
+  "id": 5331,
+  "name": "Elray Barber",
+  "date": "2019-12-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 60,
+  "gender": "M",
+  "race": "B",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

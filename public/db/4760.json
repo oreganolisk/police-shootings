@@ -1,0 +1,16 @@
+{
+  "id": 4760,
+  "name": "Adam Michael McCoy",
+  "date": "2019-05-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "",
+  "city": "Pearl River County",
+  "state": "MS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

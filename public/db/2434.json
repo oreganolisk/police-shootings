@@ -1,0 +1,16 @@
+{
+  "id": 2434,
+  "name": "Rodney James Hess",
+  "date": "2017-03-16",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Alamo",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1240,
+  "name": "Jose Mendez",
+  "date": "2016-02-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 16,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

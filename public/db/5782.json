@@ -1,0 +1,16 @@
+{
+  "id": 5782,
+  "name": "Daniel Hernandez",
+  "date": "2020-04-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1123,
+  "name": "Bettie Jones",
+  "date": "2015-12-26",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 55,
+  "gender": "F",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

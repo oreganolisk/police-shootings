@@ -1,0 +1,16 @@
+{
+  "id": 5353,
+  "name": "Xavier Jaime Rovie",
+  "date": "2020-01-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "H",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

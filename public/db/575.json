@@ -1,0 +1,16 @@
+{
+  "id": 575,
+  "name": "Randall Waddel",
+  "date": "2015-06-23",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Weatherford",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

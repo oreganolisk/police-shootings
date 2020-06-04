@@ -1,0 +1,16 @@
+{
+  "id": 257,
+  "name": "Jamalis Hall",
+  "date": "2015-03-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Fort Pierce",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

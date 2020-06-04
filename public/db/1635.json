@@ -1,0 +1,16 @@
+{
+  "id": 1635,
+  "name": "Anthony Ford",
+  "date": "2016-06-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "",
+  "city": "Fort Walton Beach",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1375,
+  "name": "Jack Goodman",
+  "date": "2016-03-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Clinton",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

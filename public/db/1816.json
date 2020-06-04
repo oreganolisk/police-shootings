@@ -1,0 +1,16 @@
+{
+  "id": 1816,
+  "name": "Donta Taylor",
+  "date": "2016-08-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Compton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

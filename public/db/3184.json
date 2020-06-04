@@ -1,0 +1,16 @@
+{
+  "id": 3184,
+  "name": "Jean Pedro Pierre",
+  "date": "2017-12-06",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 42,
+  "gender": "M",
+  "race": "B",
+  "city": "Lauderdale Lakes",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

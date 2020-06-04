@@ -1,0 +1,16 @@
+{
+  "id": 531,
+  "name": "Justin Fowler",
+  "date": "2015-03-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "N",
+  "city": "Red Valley",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

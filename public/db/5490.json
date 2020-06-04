@@ -1,0 +1,16 @@
+{
+  "id": 5490,
+  "name": "Anderson Antelope",
+  "date": "2019-09-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 58,
+  "gender": "M",
+  "race": "N",
+  "city": "Riverton",
+  "state": "WY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

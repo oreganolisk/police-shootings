@@ -1,0 +1,16 @@
+{
+  "id": 4401,
+  "name": "Danny Kelley",
+  "date": "2019-01-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Charlotte",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

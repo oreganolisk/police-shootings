@@ -1,0 +1,16 @@
+{
+  "id": 1784,
+  "name": "Perry Lee Heitman",
+  "date": "2016-08-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Lakewood",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

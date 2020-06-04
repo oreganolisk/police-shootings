@@ -1,0 +1,16 @@
+{
+  "id": 3472,
+  "name": "Steven Dalton",
+  "date": "2018-03-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Oil Springs",
+  "state": "KY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

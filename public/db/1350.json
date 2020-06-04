@@ -1,0 +1,16 @@
+{
+  "id": 1350,
+  "name": "Tyre Privott",
+  "date": "2016-03-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Norfolk",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

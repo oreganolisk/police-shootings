@@ -1,0 +1,16 @@
+{
+  "id": 2580,
+  "name": "Clarence E. Coats",
+  "date": "2017-05-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbia",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

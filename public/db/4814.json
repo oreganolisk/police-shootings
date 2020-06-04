@@ -1,0 +1,16 @@
+{
+  "id": 4814,
+  "name": "Marvin Green",
+  "date": "2019-06-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "B",
+  "city": "Springfield",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

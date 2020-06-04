@@ -1,0 +1,16 @@
+{
+  "id": 5073,
+  "name": "Roy Tucker",
+  "date": "2019-10-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 75,
+  "gender": "M",
+  "race": "W",
+  "city": "Elkton",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

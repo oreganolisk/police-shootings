@@ -1,0 +1,16 @@
+{
+  "id": 2972,
+  "name": "Matthew Wells",
+  "date": "2017-09-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Tacoma",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

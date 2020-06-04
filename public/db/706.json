@@ -1,0 +1,16 @@
+{
+  "id": 706,
+  "name": "Keshawn Dominique Hargrove",
+  "date": "2015-08-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Richmond",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

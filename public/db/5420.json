@@ -1,0 +1,16 @@
+{
+  "id": 5420,
+  "name": "Steven Case",
+  "date": "2019-05-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Auburn",
+  "state": "ME",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

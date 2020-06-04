@@ -1,0 +1,16 @@
+{
+  "id": 5135,
+  "name": "Clayton Andrews",
+  "date": "2019-10-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Creek County",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

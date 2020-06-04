@@ -1,0 +1,16 @@
+{
+  "id": 2973,
+  "name": "Austin Dunsmore",
+  "date": "2017-09-21",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 25,
+  "gender": "M",
+  "race": "O",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3755,
+  "name": "Maurice Granton",
+  "date": "2018-06-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

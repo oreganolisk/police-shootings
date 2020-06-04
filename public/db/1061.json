@@ -1,0 +1,16 @@
+{
+  "id": 1061,
+  "name": "Sheilah Huck",
+  "date": "2015-12-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 61,
+  "gender": "F",
+  "race": "W",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

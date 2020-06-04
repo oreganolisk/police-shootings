@@ -1,0 +1,16 @@
+{
+  "id": 758,
+  "name": "Timmy Walling",
+  "date": "2015-08-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "Grapeview",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3719,
+  "name": "Ronald Clinton",
+  "date": "2018-05-21",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 47,
+  "gender": "M",
+  "race": "B",
+  "city": "West Memphis",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

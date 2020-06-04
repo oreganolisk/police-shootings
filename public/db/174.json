@@ -1,0 +1,16 @@
+{
+  "id": 174,
+  "name": "Michael Wayne Smashey",
+  "date": "2015-02-23",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "W",
+  "city": "Powder Springs",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

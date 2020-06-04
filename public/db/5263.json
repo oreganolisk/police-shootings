@@ -1,0 +1,16 @@
+{
+  "id": 5263,
+  "name": "Jessica Ann Beedles",
+  "date": "2019-11-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "F",
+  "race": "W",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

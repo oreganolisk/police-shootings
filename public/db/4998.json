@@ -1,0 +1,16 @@
+{
+  "id": 4998,
+  "name": "Kobe Heisler",
+  "date": "2019-08-31",
+  "manner_of_death": "shot",
+  "armed": "hammer",
+  "age": 23,
+  "gender": "M",
+  "race": "",
+  "city": "Brooklyn Center",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4595,
+  "name": "Derek Smith",
+  "date": "2019-03-22",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Walterboro",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

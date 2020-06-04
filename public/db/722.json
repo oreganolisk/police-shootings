@@ -1,0 +1,16 @@
+{
+  "id": 722,
+  "name": "Jeffrey Clyde Wilkes",
+  "date": "2015-08-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Gastonia",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

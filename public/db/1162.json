@@ -1,0 +1,16 @@
+{
+  "id": 1162,
+  "name": "Alan Paul Bartley",
+  "date": "2016-01-11",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "San Fernando",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

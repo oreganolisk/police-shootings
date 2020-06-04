@@ -1,0 +1,16 @@
+{
+  "id": 5650,
+  "name": "Charles Parker",
+  "date": "2020-03-19",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Port Jervis",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

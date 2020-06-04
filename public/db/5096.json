@@ -1,0 +1,16 @@
+{
+  "id": 5096,
+  "name": "David Doyle",
+  "date": "2019-10-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

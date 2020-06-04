@@ -1,0 +1,16 @@
+{
+  "id": 3523,
+  "name": "Duane Preciado",
+  "date": "2018-03-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "N",
+  "city": "Owasso",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4316,
+  "name": "Richard L. Johnson",
+  "date": "2018-12-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "",
+  "city": "Kansas City",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "name": "Omarr Julian Maximillian Jackson",
+  "date": "2015-01-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "B",
+  "city": "New Orleans",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

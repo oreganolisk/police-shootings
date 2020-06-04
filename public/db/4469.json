@@ -1,0 +1,16 @@
+{
+  "id": 4469,
+  "name": "Pierre Woods",
+  "date": "2019-02-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Pelehatchie",
+  "state": "MS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

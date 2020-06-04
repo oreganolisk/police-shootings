@@ -1,0 +1,16 @@
+{
+  "id": 5545,
+  "name": "Rudy Arenas",
+  "date": "2020-02-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "Poinciana",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

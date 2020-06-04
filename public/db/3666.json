@@ -1,0 +1,16 @@
+{
+  "id": 3666,
+  "name": "Sean Louis Justin",
+  "date": "2018-05-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Sandia",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 145,
+  "name": "Jonathan Larry Harden",
+  "date": "2015-02-13",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "San Bernardino",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

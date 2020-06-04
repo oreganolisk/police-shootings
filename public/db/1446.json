@@ -1,0 +1,16 @@
+{
+  "id": 1446,
+  "name": "Melissa M. Abbott",
+  "date": "2016-04-08",
+  "manner_of_death": "shot",
+  "armed": "hatchet",
+  "age": 25,
+  "gender": "F",
+  "race": "W",
+  "city": "Lake Hallie",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

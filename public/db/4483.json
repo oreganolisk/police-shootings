@@ -1,0 +1,16 @@
+{
+  "id": 4483,
+  "name": "Miles Dylan Cooper",
+  "date": "2019-02-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Stone County",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

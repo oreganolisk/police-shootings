@@ -1,0 +1,16 @@
+{
+  "id": 210,
+  "name": "Troy Ray Boyd",
+  "date": "2015-03-15",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Ruth",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

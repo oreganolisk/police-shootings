@@ -1,0 +1,16 @@
+{
+  "id": 4452,
+  "name": "Jason Matthew Hill",
+  "date": "2019-02-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Memphis",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

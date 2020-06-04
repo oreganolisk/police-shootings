@@ -1,0 +1,16 @@
+{
+  "id": 4060,
+  "name": "Thomas Howard Luedtke",
+  "date": "2018-09-29",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Nampa",
+  "state": "ID",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

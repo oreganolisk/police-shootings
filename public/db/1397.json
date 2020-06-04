@@ -1,0 +1,16 @@
+{
+  "id": 1397,
+  "name": "Edward J. Gorinski",
+  "date": "2016-03-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "South Greensburg",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

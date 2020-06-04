@@ -1,0 +1,16 @@
+{
+  "id": 4086,
+  "name": "Terrell Blake",
+  "date": "2018-10-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Rochester",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

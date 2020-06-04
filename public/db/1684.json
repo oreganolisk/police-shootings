@@ -1,0 +1,16 @@
+{
+  "id": 1684,
+  "name": "Shannon Labit",
+  "date": "2016-07-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "New Iberia",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

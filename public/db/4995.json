@@ -1,0 +1,16 @@
+{
+  "id": 4995,
+  "name": "Robert Desjarlais",
+  "date": "2019-09-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Sand Springs",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

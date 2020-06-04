@@ -1,0 +1,16 @@
+{
+  "id": 5725,
+  "name": "Yamil Acevedo",
+  "date": "2020-04-06",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "North Miami Beach",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

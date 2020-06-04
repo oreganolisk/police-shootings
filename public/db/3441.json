@@ -1,0 +1,16 @@
+{
+  "id": 3441,
+  "name": "Darion Baker",
+  "date": "2018-02-21",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Stratford",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

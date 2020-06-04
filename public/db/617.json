@@ -1,0 +1,16 @@
+{
+  "id": 617,
+  "name": "Nicholas Booth",
+  "date": "2015-07-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Sugar Creek",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

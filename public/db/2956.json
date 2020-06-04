@@ -1,0 +1,16 @@
+{
+  "id": 2956,
+  "name": "Scout Schultz",
+  "date": "2017-09-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 21,
+  "gender": "",
+  "race": "W",
+  "city": "Atlanta",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

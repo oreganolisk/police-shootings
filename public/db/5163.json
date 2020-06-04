@@ -1,0 +1,16 @@
+{
+  "id": 5163,
+  "name": "Ricardo Myers",
+  "date": "2019-10-30",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 62,
+  "gender": "M",
+  "race": "W",
+  "city": "Lancaster",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

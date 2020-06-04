@@ -1,0 +1,16 @@
+{
+  "id": 2779,
+  "name": "Justine Damond",
+  "date": "2017-07-15",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 40,
+  "gender": "F",
+  "race": "W",
+  "city": "Minneapolis",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4168,
+  "name": "Travis Jordan",
+  "date": "2018-11-09",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Minneapolis",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3322,
+  "name": "Donte D. Shannon",
+  "date": "2018-01-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "Racine",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

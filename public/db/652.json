@@ -1,0 +1,16 @@
+{
+  "id": 652,
+  "name": "Kevin Thomas Snyder",
+  "date": "2015-07-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

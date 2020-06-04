@@ -1,0 +1,16 @@
+{
+  "id": 735,
+  "name": "Reginald Marshall",
+  "date": "2015-08-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Toledo",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

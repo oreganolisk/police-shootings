@@ -1,0 +1,16 @@
+{
+  "id": 5672,
+  "name": "Willie J. Hampton",
+  "date": "2020-04-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "",
+  "city": "Raytown",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

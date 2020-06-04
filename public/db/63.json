@@ -1,0 +1,16 @@
+{
+  "id": 63,
+  "name": "Jose Ceja",
+  "date": "2015-01-15",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Fairfield",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

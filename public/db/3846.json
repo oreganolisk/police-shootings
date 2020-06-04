@@ -1,0 +1,16 @@
+{
+  "id": 3846,
+  "name": "David L. Hicks",
+  "date": "2018-06-15",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Nokomis",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

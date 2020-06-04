@@ -1,0 +1,16 @@
+{
+  "id": 2160,
+  "name": "James Tylka",
+  "date": "2016-12-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "King City",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

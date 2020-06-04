@@ -1,0 +1,16 @@
+{
+  "id": 140,
+  "name": "Brian Fritze",
+  "date": "2015-02-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "New Castle",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4300,
+  "name": "Gabriel Romero",
+  "date": "2018-12-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

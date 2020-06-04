@@ -1,0 +1,16 @@
+{
+  "id": 2107,
+  "name": "Mark Anthony Hicks",
+  "date": "2016-12-07",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Fayetteville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3267,
+  "name": "Kenneth J. Perna-Rutsky",
+  "date": "2017-12-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Chester",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

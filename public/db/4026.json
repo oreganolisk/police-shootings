@@ -1,0 +1,16 @@
+{
+  "id": 4026,
+  "name": "Rafael Rivera",
+  "date": "2018-09-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Buffalo",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3555,
+  "name": "Marco Antonio Saavedra",
+  "date": "2018-03-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Pasadena",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "True"
+}

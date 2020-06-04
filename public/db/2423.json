@@ -1,0 +1,16 @@
+{
+  "id": 2423,
+  "name": "Alexander Meltz",
+  "date": "2017-03-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Westminster",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4882,
+  "name": "Mark Anson Schoggins",
+  "date": "2019-07-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "McAlester",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

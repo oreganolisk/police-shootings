@@ -1,0 +1,16 @@
+{
+  "id": 2032,
+  "name": "Evan Cox",
+  "date": "2016-11-08",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Ashtabula",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

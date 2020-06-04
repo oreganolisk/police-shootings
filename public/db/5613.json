@@ -1,0 +1,16 @@
+{
+  "id": 5613,
+  "name": "Ajay Kamil Ayseli",
+  "date": "2020-03-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "O",
+  "city": "Henrico",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

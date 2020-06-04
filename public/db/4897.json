@@ -1,0 +1,16 @@
+{
+  "id": 4897,
+  "name": "Todd Messner",
+  "date": "2019-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Three Springs",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

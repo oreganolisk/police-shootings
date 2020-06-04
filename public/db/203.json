@@ -1,0 +1,16 @@
+{
+  "id": 203,
+  "name": "Tony Robinson",
+  "date": "2015-03-06",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Madison",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

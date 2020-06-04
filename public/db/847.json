@@ -1,0 +1,16 @@
+{
+  "id": 847,
+  "name": "Jerrald Wright",
+  "date": "2015-09-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Shelbyville",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

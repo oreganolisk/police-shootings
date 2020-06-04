@@ -1,0 +1,16 @@
+{
+  "id": 4757,
+  "name": "Isaac Ray Ruiz",
+  "date": "2019-05-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "Amarillo",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

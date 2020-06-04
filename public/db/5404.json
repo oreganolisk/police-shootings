@@ -1,0 +1,16 @@
+{
+  "id": 5404,
+  "name": "Cody McCaulou",
+  "date": "2019-12-30",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Fulton",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

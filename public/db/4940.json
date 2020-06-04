@@ -1,0 +1,16 @@
+{
+  "id": 4940,
+  "name": "Jerry Orlando Weaver",
+  "date": "2019-08-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "",
+  "city": "Clinton",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

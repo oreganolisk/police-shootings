@@ -1,0 +1,16 @@
+{
+  "id": 5246,
+  "name": "Dai Phuoc Nguyen",
+  "date": "2019-12-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "A",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

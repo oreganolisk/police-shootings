@@ -1,0 +1,16 @@
+{
+  "id": 4102,
+  "name": "James Christopher Manus",
+  "date": "2018-10-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Hall County",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

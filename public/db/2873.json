@@ -1,0 +1,16 @@
+{
+  "id": 2873,
+  "name": "James Midkiff",
+  "date": "2017-08-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Livermore",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

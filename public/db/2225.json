@@ -1,0 +1,16 @@
+{
+  "id": 2225,
+  "name": "Marlon Joel Rodas-Sanchez",
+  "date": "2017-01-18",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 16,
+  "gender": "M",
+  "race": "H",
+  "city": "Salinas",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

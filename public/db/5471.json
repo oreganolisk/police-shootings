@@ -1,0 +1,16 @@
+{
+  "id": 5471,
+  "name": "Roberto Mata",
+  "date": "2019-08-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "",
+  "city": "Hobbs",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

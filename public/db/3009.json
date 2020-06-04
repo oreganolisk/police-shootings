@@ -1,0 +1,16 @@
+{
+  "id": 3009,
+  "name": "Brandon Lee Bohanon",
+  "date": "2017-10-05",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Hiram",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

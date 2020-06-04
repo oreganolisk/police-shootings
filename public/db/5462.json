@@ -1,0 +1,16 @@
+{
+  "id": 5462,
+  "name": "Daryl Johannesson",
+  "date": "2019-07-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Porterdale",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

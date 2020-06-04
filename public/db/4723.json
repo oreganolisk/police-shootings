@@ -1,0 +1,16 @@
+{
+  "id": 4723,
+  "name": "Michael Ann Godsey",
+  "date": "2019-05-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "F",
+  "race": "",
+  "city": "Blackwell",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

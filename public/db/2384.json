@@ -1,0 +1,16 @@
+{
+  "id": 2384,
+  "name": "William Dwayne Darby",
+  "date": "2017-02-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Lumpkin",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

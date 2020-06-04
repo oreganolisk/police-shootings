@@ -1,0 +1,16 @@
+{
+  "id": 2363,
+  "name": "Jean R. Valescot",
+  "date": "2017-02-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Big Lake",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

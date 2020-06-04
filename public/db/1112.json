@@ -1,0 +1,16 @@
+{
+  "id": 1112,
+  "name": "Robert L. Teter",
+  "date": "2015-12-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Deltona",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

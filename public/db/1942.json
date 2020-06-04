@@ -1,0 +1,16 @@
+{
+  "id": 1942,
+  "name": "Ricardo Hernandez",
+  "date": "2016-10-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 21,
+  "gender": "M",
+  "race": "H",
+  "city": "Federal Way",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

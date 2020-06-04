@@ -1,0 +1,16 @@
+{
+  "id": 4122,
+  "name": "Edward Paul Zumski",
+  "date": "2018-10-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Paris",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

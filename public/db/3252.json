@@ -1,0 +1,16 @@
+{
+  "id": 3252,
+  "name": "Christopher Baird",
+  "date": "2017-12-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "",
+  "city": "Birmingham",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

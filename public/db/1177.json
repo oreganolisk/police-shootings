@@ -1,0 +1,16 @@
+{
+  "id": 1177,
+  "name": "Kelsey Rose Hauser",
+  "date": "2016-01-16",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 25,
+  "gender": "F",
+  "race": "W",
+  "city": "El Cajon",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

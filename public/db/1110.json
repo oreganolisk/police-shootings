@@ -1,0 +1,16 @@
+{
+  "id": 1110,
+  "name": "Michael Noel",
+  "date": "2015-12-21",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": "",
+  "gender": "M",
+  "race": "B",
+  "city": "Breaux Bridge",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

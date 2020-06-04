@@ -1,0 +1,16 @@
+{
+  "id": 2469,
+  "name": "Doyle Wayne Johnson",
+  "date": "2017-03-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Byars",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

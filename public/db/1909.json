@@ -1,0 +1,16 @@
+{
+  "id": 1909,
+  "name": "Jesse Ataway",
+  "date": "2016-09-23",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Fair Oaks",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

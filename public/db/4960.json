@@ -1,0 +1,16 @@
+{
+  "id": 4960,
+  "name": "Roberto Rene Gabriel",
+  "date": "2019-08-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

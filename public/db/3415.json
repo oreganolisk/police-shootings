@@ -1,0 +1,16 @@
+{
+  "id": 3415,
+  "name": "Preston Ray Holloway",
+  "date": "2018-02-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Belton",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

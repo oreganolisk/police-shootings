@@ -1,0 +1,16 @@
+{
+  "id": 3809,
+  "name": "Joshua Cartwright",
+  "date": "2018-06-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Russellville",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

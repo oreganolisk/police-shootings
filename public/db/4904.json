@@ -1,0 +1,16 @@
+{
+  "id": 4904,
+  "name": "Logan O. Johnsrud",
+  "date": "2019-07-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Arpin",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

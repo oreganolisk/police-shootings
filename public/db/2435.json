@@ -1,0 +1,16 @@
+{
+  "id": 2435,
+  "name": "Ramon Andrade",
+  "date": "2017-03-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Paterson",
+  "state": "NJ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

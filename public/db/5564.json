@@ -1,0 +1,16 @@
+{
+  "id": 5564,
+  "name": "Thomas Barbosa",
+  "date": "2020-02-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Ono",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

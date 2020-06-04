@@ -1,0 +1,16 @@
+{
+  "id": 4857,
+  "name": "Christine Soto Venegas",
+  "date": "2019-07-03",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 38,
+  "gender": "F",
+  "race": "H",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

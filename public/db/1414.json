@@ -1,0 +1,16 @@
+{
+  "id": 1414,
+  "name": "Donald Andrew White",
+  "date": "2016-03-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Myrtle Beach",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2326,
+  "name": "Michelle Robey",
+  "date": "2017-02-10",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 55,
+  "gender": "F",
+  "race": "W",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

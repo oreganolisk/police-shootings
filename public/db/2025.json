@@ -1,0 +1,16 @@
+{
+  "id": 2025,
+  "name": "Christian Andrew Redwine",
+  "date": "2016-11-06",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 17,
+  "gender": "M",
+  "race": "W",
+  "city": "Phenix City",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

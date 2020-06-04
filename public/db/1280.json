@@ -1,0 +1,16 @@
+{
+  "id": 1280,
+  "name": "Rammy Jaradat",
+  "date": "2016-02-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Van Nuys",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 690,
+  "name": "Philip Vallejo",
+  "date": "2015-07-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Fort Worth",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

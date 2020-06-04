@@ -1,0 +1,16 @@
+{
+  "id": 3542,
+  "name": "Robert Vega",
+  "date": "2018-03-23",
+  "manner_of_death": "shot",
+  "armed": "incendiary device",
+  "age": 48,
+  "gender": "M",
+  "race": "H",
+  "city": "Douglas",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

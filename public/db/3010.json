@@ -1,0 +1,16 @@
+{
+  "id": 3010,
+  "name": "Garrett Hoose",
+  "date": "2017-10-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Perryopolis",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4004,
+  "name": "Eric Jay Hames",
+  "date": "2018-08-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Redding",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

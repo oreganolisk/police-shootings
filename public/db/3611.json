@@ -1,0 +1,16 @@
+{
+  "id": 3611,
+  "name": "Steven Brooks",
+  "date": "2018-04-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "B",
+  "city": "Washington",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

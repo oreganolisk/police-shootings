@@ -1,0 +1,16 @@
+{
+  "id": 3507,
+  "name": "James Alfonso Vaughn",
+  "date": "2018-03-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "B",
+  "city": "Clarksville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

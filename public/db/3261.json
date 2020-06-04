@@ -1,0 +1,16 @@
+{
+  "id": 3261,
+  "name": "Ernie Macias",
+  "date": "2017-12-31",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 32,
+  "gender": "M",
+  "race": "",
+  "city": "Delano",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

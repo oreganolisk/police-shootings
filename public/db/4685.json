@@ -1,0 +1,16 @@
+{
+  "id": 4685,
+  "name": "Carlos Manuel Dodero",
+  "date": "2019-04-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "H",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3192,
+  "name": "Kyle Zahacefski",
+  "date": "2017-12-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Point Loma",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

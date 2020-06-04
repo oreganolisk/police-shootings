@@ -1,0 +1,16 @@
+{
+  "id": 2103,
+  "name": "Richard R. Jones",
+  "date": "2016-12-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Hutchinson",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

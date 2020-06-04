@@ -1,0 +1,16 @@
+{
+  "id": 5262,
+  "name": "Antonio Nichols",
+  "date": "2019-12-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "B",
+  "city": "St. Helena Parish",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5722,
+  "name": "Philip Castonguay",
+  "date": "2020-04-05",
+  "manner_of_death": "shot",
+  "armed": "metal pipe",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Milford",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

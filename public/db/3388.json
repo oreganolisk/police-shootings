@@ -1,0 +1,16 @@
+{
+  "id": 3388,
+  "name": "Paul Mono",
+  "date": "2018-02-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 65,
+  "gender": "M",
+  "race": "",
+  "city": "Laguna Woods",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

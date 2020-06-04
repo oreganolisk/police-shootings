@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "name": "Marcus Golden",
+  "date": "2015-01-14",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "St. Paul",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

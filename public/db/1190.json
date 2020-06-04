@@ -1,0 +1,16 @@
+{
+  "id": 1190,
+  "name": "Jim Redmond",
+  "date": "2016-01-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Valdosta",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

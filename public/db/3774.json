@@ -1,0 +1,16 @@
+{
+  "id": 3774,
+  "name": "David Arthur",
+  "date": "2018-06-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Pike County",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

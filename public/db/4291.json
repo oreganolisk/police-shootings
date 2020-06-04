@@ -1,0 +1,16 @@
+{
+  "id": 4291,
+  "name": "Tori Kaneshiro",
+  "date": "2018-12-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "F",
+  "race": "A",
+  "city": "Pahoa",
+  "state": "HI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

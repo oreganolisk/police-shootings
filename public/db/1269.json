@@ -1,0 +1,16 @@
+{
+  "id": 1269,
+  "name": "Marc Stoddart",
+  "date": "2016-02-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Bradenton",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

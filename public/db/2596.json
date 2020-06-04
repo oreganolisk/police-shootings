@@ -1,0 +1,16 @@
+{
+  "id": 2596,
+  "name": "Ricco Devante Holden",
+  "date": "2017-05-21",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Converse",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

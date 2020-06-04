@@ -1,0 +1,16 @@
+{
+  "id": 3061,
+  "name": "Dexter David Anthony Baxter",
+  "date": "2017-10-22",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "N",
+  "city": "Crandon",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

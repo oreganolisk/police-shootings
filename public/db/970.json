@@ -1,0 +1,16 @@
+{
+  "id": 970,
+  "name": "Bennie Lee Tignor",
+  "date": "2015-10-31",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 56,
+  "gender": "M",
+  "race": "B",
+  "city": "Opelika",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3932,
+  "name": "Daniel Valdez",
+  "date": "2018-08-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 70,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "name": "John Paul Quintero",
+  "date": "2015-01-03",
+  "manner_of_death": "shot and Tasered",
+  "armed": "unarmed",
+  "age": 23,
+  "gender": "M",
+  "race": "H",
+  "city": "Wichita",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4237,
+  "name": "Roderick McDaniel",
+  "date": "2018-11-20",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Magnolia",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

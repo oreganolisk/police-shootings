@@ -1,0 +1,16 @@
+{
+  "id": 1978,
+  "name": "Anthony Garcia",
+  "date": "2016-10-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "",
+  "city": "Dallas",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

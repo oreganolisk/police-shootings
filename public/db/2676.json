@@ -1,0 +1,16 @@
+{
+  "id": 2676,
+  "name": "Sergio Valdovinos",
+  "date": "2017-06-16",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Madera",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

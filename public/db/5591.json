@@ -1,0 +1,16 @@
+{
+  "id": 5591,
+  "name": "Neal Stuart Nevada",
+  "date": "2020-02-25",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "M",
+  "race": "",
+  "city": "Pocatello",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

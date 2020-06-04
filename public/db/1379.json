@@ -1,0 +1,16 @@
+{
+  "id": 1379,
+  "name": "Jacai Colson",
+  "date": "2016-03-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Landover",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

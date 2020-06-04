@@ -1,0 +1,16 @@
+{
+  "id": 3609,
+  "name": "Benjamin Evans",
+  "date": "2018-04-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Lake Elmo",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

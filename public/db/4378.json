@@ -1,0 +1,16 @@
+{
+  "id": 4378,
+  "name": "Bill Akes",
+  "date": "2019-01-12",
+  "manner_of_death": "shot",
+  "armed": "hatchet",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

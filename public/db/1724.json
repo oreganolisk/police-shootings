@@ -1,0 +1,16 @@
+{
+  "id": 1724,
+  "name": "BJ Medeiros",
+  "date": "2016-07-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "O",
+  "city": "Hilo",
+  "state": "HI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1951,
+  "name": "Kheyanev Littledog",
+  "date": "2016-10-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "N",
+  "city": "Midland",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

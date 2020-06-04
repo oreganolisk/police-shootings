@@ -1,0 +1,16 @@
+{
+  "id": 282,
+  "name": "Bobby Gross",
+  "date": "2015-03-12",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Washington",
+  "state": "DC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

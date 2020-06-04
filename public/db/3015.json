@@ -1,0 +1,16 @@
+{
+  "id": 3015,
+  "name": "Phumee Lee",
+  "date": "2017-10-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "A",
+  "city": "St. Paul",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

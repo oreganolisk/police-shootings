@@ -1,0 +1,16 @@
+{
+  "id": 217,
+  "name": "Declan Owen",
+  "date": "2015-03-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Dublin",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

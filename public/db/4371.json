@@ -1,0 +1,16 @@
+{
+  "id": 4371,
+  "name": "Rodney Hamilton",
+  "date": "2019-01-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 62,
+  "gender": "M",
+  "race": "",
+  "city": "Gainesville",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

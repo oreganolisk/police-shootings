@@ -1,0 +1,16 @@
+{
+  "id": 3805,
+  "name": "Brian Puskas",
+  "date": "2018-06-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Delaware",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

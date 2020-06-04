@@ -1,0 +1,16 @@
+{
+  "id": 4193,
+  "name": "Keaton James Larson",
+  "date": "2018-11-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Stillwater",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

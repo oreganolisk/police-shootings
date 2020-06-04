@@ -1,0 +1,16 @@
+{
+  "id": 1444,
+  "name": "Dazion Flenaugh",
+  "date": "2016-04-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Sacramento",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 281,
+  "name": "Ryan Dean Burgess",
+  "date": "2015-03-11",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Kingman",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

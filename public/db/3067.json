@@ -1,0 +1,16 @@
+{
+  "id": 3067,
+  "name": "Brandon Uzialko",
+  "date": "2017-10-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Norwich",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

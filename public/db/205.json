@@ -1,0 +1,16 @@
+{
+  "id": 205,
+  "name": "Anthony Hill",
+  "date": "2015-03-09",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Atlanta",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

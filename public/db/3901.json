@@ -1,0 +1,16 @@
+{
+  "id": 3901,
+  "name": "Sergio Acosta",
+  "date": "2018-07-26",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Redondo Beach",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

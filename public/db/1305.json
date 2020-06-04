@@ -1,0 +1,16 @@
+{
+  "id": 1305,
+  "name": "Patricia Kruger",
+  "date": "2016-02-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "F",
+  "race": "N",
+  "city": "Houston",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

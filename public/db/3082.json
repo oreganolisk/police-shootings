@@ -1,0 +1,16 @@
+{
+  "id": 3082,
+  "name": "Luvelle Kennon",
+  "date": "2017-10-31",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Riverside",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

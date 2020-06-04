@@ -1,0 +1,16 @@
+{
+  "id": 3957,
+  "name": "Juan Garcia",
+  "date": "2018-07-22",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Riverside",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

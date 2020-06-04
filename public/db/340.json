@@ -1,0 +1,16 @@
+{
+  "id": 340,
+  "name": "Jess Leipold",
+  "date": "2015-04-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Straban Township",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

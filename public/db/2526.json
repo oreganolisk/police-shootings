@@ -1,0 +1,16 @@
+{
+  "id": 2526,
+  "name": "Wayne Noel Simard",
+  "date": "2017-04-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 70,
+  "gender": "M",
+  "race": "W",
+  "city": "Prescott",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4820,
+  "name": "Paul David Rea",
+  "date": "2019-06-27",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3178,
+  "name": "Gregory Ray Ham",
+  "date": "2017-12-03",
+  "manner_of_death": "shot",
+  "armed": "sword",
+  "age": 62,
+  "gender": "M",
+  "race": "W",
+  "city": "La Marque",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

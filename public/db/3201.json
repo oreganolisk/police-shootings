@@ -1,0 +1,16 @@
+{
+  "id": 3201,
+  "name": "Marcia Metzger Aiken",
+  "date": "2017-12-12",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 50,
+  "gender": "F",
+  "race": "",
+  "city": "Rincon",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

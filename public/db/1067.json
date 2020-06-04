@@ -1,0 +1,16 @@
+{
+  "id": 1067,
+  "name": "Miguel Espinal",
+  "date": "2015-12-08",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Yonkers",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

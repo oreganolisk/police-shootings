@@ -1,0 +1,16 @@
+{
+  "id": 4734,
+  "name": "Derrec Jamal Shaw",
+  "date": "2019-05-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

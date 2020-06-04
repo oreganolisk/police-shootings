@@ -1,0 +1,16 @@
+{
+  "id": 1771,
+  "name": "Michael McClurg",
+  "date": "2016-08-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Citrus Heights",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

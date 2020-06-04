@@ -1,0 +1,16 @@
+{
+  "id": 5332,
+  "name": "Eric M. Tellez",
+  "date": "2019-12-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Globe",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4287,
+  "name": "Jason O'Bannon",
+  "date": "2018-12-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Pahrump",
+  "state": "NV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 322,
+  "name": "Tyrell J. Larsen",
+  "date": "2015-04-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Jefferson County",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

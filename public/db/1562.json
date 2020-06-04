@@ -1,0 +1,16 @@
+{
+  "id": 1562,
+  "name": "Vernell Bing",
+  "date": "2016-05-22",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Jacksonville",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

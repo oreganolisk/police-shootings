@@ -1,0 +1,16 @@
+{
+  "id": 2190,
+  "name": "Joshua Martino",
+  "date": "2017-01-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Brooklyn",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2801,
+  "name": "Alexander J. Schoessel",
+  "date": "2017-07-25",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Richmond",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

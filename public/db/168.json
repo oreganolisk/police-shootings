@@ -1,0 +1,16 @@
+{
+  "id": 168,
+  "name": "Kent Norman",
+  "date": "2015-02-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Indianapolis",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

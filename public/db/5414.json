@@ -1,0 +1,16 @@
+{
+  "id": 5414,
+  "name": "Blayne Erwin Morris",
+  "date": "2019-04-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "",
+  "city": "Lemoore",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

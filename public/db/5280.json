@@ -1,0 +1,16 @@
+{
+  "id": 5280,
+  "name": "Cortez Bufford",
+  "date": "2019-12-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "St. Louis",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

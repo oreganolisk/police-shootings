@@ -1,0 +1,16 @@
+{
+  "id": 3173,
+  "name": "Trent Fondren",
+  "date": "2017-12-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "York",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "True"
+}

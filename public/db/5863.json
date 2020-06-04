@@ -1,0 +1,16 @@
+{
+  "id": 5863,
+  "name": "Derrick Thompson",
+  "date": "2020-05-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "",
+  "city": "Fountain",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

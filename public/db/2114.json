@@ -1,0 +1,16 @@
+{
+  "id": 2114,
+  "name": "Francisco Serna",
+  "date": "2016-12-12",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 73,
+  "gender": "M",
+  "race": "H",
+  "city": "Bakersfield",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

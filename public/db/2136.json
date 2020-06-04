@@ -1,0 +1,16 @@
+{
+  "id": 2136,
+  "name": "Ronald Roy Massengale",
+  "date": "2016-12-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 72,
+  "gender": "M",
+  "race": "W",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

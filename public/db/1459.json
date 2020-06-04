@@ -1,0 +1,16 @@
+{
+  "id": 1459,
+  "name": "Rodney Watts",
+  "date": "2016-04-13",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Stockton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

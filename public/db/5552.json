@@ -1,0 +1,16 @@
+{
+  "id": 5552,
+  "name": "Lucas Alvarado",
+  "date": "2020-02-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Milwaukee",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

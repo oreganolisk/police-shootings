@@ -1,0 +1,16 @@
+{
+  "id": 5688,
+  "name": "Matthew Moore",
+  "date": "2020-03-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "W",
+  "city": "Pahrump",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

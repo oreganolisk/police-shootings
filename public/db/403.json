@@ -1,0 +1,16 @@
+{
+  "id": 403,
+  "name": "Gary Timmie  Collins",
+  "date": "2015-04-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 63,
+  "gender": "M",
+  "race": "W",
+  "city": "Miami",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

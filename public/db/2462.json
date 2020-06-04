@@ -1,0 +1,16 @@
+{
+  "id": 2462,
+  "name": "Richard Alexander Tilley",
+  "date": "2017-03-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Montgomery Village",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

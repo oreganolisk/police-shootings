@@ -1,0 +1,16 @@
+{
+  "id": 418,
+  "name": "Fridoon Zalbeg Nehad",
+  "date": "2015-04-30",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 42,
+  "gender": "M",
+  "race": "O",
+  "city": "San Diego",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

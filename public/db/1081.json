@@ -1,0 +1,16 @@
+{
+  "id": 1081,
+  "name": "Jonathan Wardlow",
+  "date": "2015-12-12",
+  "manner_of_death": "shot",
+  "armed": "Taser",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Healdton",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

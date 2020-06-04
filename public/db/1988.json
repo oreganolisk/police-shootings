@@ -1,0 +1,16 @@
+{
+  "id": 1988,
+  "name": "Renee Davis",
+  "date": "2016-10-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "F",
+  "race": "N",
+  "city": "Muckleshoot Indian Reservation",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

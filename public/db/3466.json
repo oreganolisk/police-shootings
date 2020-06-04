@@ -1,0 +1,16 @@
+{
+  "id": 3466,
+  "name": "Joel Jacobo",
+  "date": "2018-03-01",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

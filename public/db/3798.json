@@ -1,0 +1,16 @@
+{
+  "id": 3798,
+  "name": "Luis Argueta",
+  "date": "2018-06-25",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "Galveston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

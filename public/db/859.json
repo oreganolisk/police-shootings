@@ -1,0 +1,16 @@
+{
+  "id": 859,
+  "name": "Keith Harrison McLeod",
+  "date": "2015-09-23",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Reisterstown",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

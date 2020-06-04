@@ -1,0 +1,16 @@
+{
+  "id": 2923,
+  "name": "Shane Marsh",
+  "date": "2017-09-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Toledo",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

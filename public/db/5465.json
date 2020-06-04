@@ -1,0 +1,16 @@
+{
+  "id": 5465,
+  "name": "Kelly Danielle Brumley",
+  "date": "2019-07-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "F",
+  "race": "W",
+  "city": "Lake Jackson",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4115,
+  "name": "Sean Dutcher",
+  "date": "2018-10-18",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Elkhorn",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

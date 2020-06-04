@@ -1,0 +1,16 @@
+{
+  "id": 4566,
+  "name": "Nina Adams",
+  "date": "2019-03-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "F",
+  "race": "B",
+  "city": "Greensburg",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

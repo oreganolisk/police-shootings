@@ -1,0 +1,16 @@
+{
+  "id": 2285,
+  "name": "Yia Lee",
+  "date": "2017-02-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "A",
+  "city": "Panhandle",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

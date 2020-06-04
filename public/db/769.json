@@ -1,0 +1,16 @@
+{
+  "id": 769,
+  "name": "Christopher Ray Tompkins",
+  "date": "2015-08-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Arab",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

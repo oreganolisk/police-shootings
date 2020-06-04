@@ -1,0 +1,16 @@
+{
+  "id": 3541,
+  "name": "Kevin Hall",
+  "date": "2018-03-23",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Genesee Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4125,
+  "name": "Alonzo L. Smith",
+  "date": "2018-10-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Milwaukee",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

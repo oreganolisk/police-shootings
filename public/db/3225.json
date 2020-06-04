@@ -1,0 +1,16 @@
+{
+  "id": 3225,
+  "name": "TK TK",
+  "date": "2017-12-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "Kirkland",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

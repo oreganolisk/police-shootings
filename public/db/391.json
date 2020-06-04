@@ -1,0 +1,16 @@
+{
+  "id": 391,
+  "name": "William Chapman",
+  "date": "2015-04-22",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Portsmouth",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

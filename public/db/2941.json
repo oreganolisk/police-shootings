@@ -1,0 +1,16 @@
+{
+  "id": 2941,
+  "name": "Jarvis Hayes",
+  "date": "2017-09-03",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Myrtle Beach",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

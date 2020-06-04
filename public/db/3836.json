@@ -1,0 +1,16 @@
+{
+  "id": 3836,
+  "name": "Steve Ballard",
+  "date": "2018-06-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Waterford Township",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5494,
+  "name": "Marc Dominic Neal",
+  "date": "2020-02-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "B",
+  "city": "Millcreek",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

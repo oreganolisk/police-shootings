@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "name": "John Marcell Allen",
+  "date": "2015-03-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Boulder City",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

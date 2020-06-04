@@ -1,0 +1,16 @@
+{
+  "id": 149,
+  "name": "Jason C. Hendrix",
+  "date": "2015-02-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 16,
+  "gender": "M",
+  "race": "W",
+  "city": "Essex",
+  "state": "MD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

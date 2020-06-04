@@ -1,0 +1,16 @@
+{
+  "id": 1248,
+  "name": "Vinson Ray Strickland",
+  "date": "2016-02-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Union Grove",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

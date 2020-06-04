@@ -1,0 +1,16 @@
+{
+  "id": 1359,
+  "name": "Joshua Grubb",
+  "date": "2016-03-13",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Lenoir City",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

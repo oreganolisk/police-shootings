@@ -1,0 +1,16 @@
+{
+  "id": 3065,
+  "name": "David Campos",
+  "date": "2017-10-24",
+  "manner_of_death": "shot and Tasered",
+  "armed": "screwdriver",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

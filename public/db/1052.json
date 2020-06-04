@@ -1,0 +1,16 @@
+{
+  "id": 1052,
+  "name": "Mario Woods",
+  "date": "2015-12-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "San Francisco",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

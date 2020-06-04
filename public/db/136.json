@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "name": "Kenneth Kreyssig",
+  "date": "2015-02-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Smyrna",
+  "state": "ME",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

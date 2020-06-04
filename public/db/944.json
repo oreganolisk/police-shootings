@@ -1,0 +1,16 @@
+{
+  "id": 944,
+  "name": "Timothy Arnold",
+  "date": "2015-10-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Kentwood",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

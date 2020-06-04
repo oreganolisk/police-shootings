@@ -1,0 +1,16 @@
+{
+  "id": 1769,
+  "name": "David Michael Moya",
+  "date": "2016-08-05",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 31,
+  "gender": "M",
+  "race": "",
+  "city": "Santee",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

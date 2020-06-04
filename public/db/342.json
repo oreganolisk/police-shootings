@@ -1,0 +1,16 @@
+{
+  "id": 342,
+  "name": "Ralph Willis",
+  "date": "2015-01-29",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Stillwater",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

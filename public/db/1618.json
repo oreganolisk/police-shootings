@@ -1,0 +1,16 @@
+{
+  "id": 1618,
+  "name": "Noel Rodriguez",
+  "date": "2016-06-14",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 50,
+  "gender": "M",
+  "race": "H",
+  "city": "Boise",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

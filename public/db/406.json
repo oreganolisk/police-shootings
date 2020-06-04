@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "name": "Albert Hanson",
+  "date": "2015-04-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 76,
+  "gender": "M",
+  "race": "W",
+  "city": "Kings County",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

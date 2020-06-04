@@ -1,0 +1,16 @@
+{
+  "id": 206,
+  "name": "Theodore Johnson",
+  "date": "2015-03-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "B",
+  "city": "Cleveland",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

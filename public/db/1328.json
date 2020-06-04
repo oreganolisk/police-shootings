@@ -1,0 +1,16 @@
+{
+  "id": 1328,
+  "name": "Dimitri Corcino",
+  "date": "2016-03-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Palm Bay",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

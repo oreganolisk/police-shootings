@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "name": "Sergio Alexander Navas",
+  "date": "2015-03-05",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Burbank",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

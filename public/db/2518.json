@@ -1,0 +1,16 @@
+{
+  "id": 2518,
+  "name": "Brandon Pequeno",
+  "date": "2017-04-20",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 25,
+  "gender": "M",
+  "race": "H",
+  "city": "Glendale",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

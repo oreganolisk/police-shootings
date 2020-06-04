@@ -1,0 +1,16 @@
+{
+  "id": 666,
+  "name": "Francisco Benitez-Santiago",
+  "date": "2015-07-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "H",
+  "city": "Monroe",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4360,
+  "name": "David John Engebretson",
+  "date": "2019-01-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Milwaukie",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

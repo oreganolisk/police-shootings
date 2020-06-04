@@ -1,0 +1,16 @@
+{
+  "id": 1564,
+  "name": "Leslie Goletz",
+  "date": "2016-05-24",
+  "manner_of_death": "shot",
+  "armed": "Taser",
+  "age": 57,
+  "gender": "M",
+  "race": "",
+  "city": "Harrisonville",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

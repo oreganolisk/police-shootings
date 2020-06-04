@@ -1,0 +1,16 @@
+{
+  "id": 3050,
+  "name": "Dewboy Lister",
+  "date": "2017-10-19",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 55,
+  "gender": "M",
+  "race": "B",
+  "city": "Corpus Christi",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

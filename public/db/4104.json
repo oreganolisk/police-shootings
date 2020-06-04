@@ -1,0 +1,16 @@
+{
+  "id": 4104,
+  "name": "Weston Willow Well Cole",
+  "date": "2018-10-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Longview",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

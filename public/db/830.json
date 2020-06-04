@@ -1,0 +1,16 @@
+{
+  "id": 830,
+  "name": "Tyrone Bass",
+  "date": "2015-09-15",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Chalmette",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

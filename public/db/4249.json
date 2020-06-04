@@ -1,0 +1,16 @@
+{
+  "id": 4249,
+  "name": "Ernesto Michel",
+  "date": "2018-02-28",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 47,
+  "gender": "M",
+  "race": "H",
+  "city": "Alamosa",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

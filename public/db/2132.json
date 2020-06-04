@@ -1,0 +1,16 @@
+{
+  "id": 2132,
+  "name": "Jimmy Lee Lawson",
+  "date": "2016-12-17",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Arlington",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

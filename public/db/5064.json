@@ -1,0 +1,16 @@
+{
+  "id": 5064,
+  "name": "Antonio Williams",
+  "date": "2019-09-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

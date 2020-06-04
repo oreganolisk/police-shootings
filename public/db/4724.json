@@ -1,0 +1,16 @@
+{
+  "id": 4724,
+  "name": "Carlos Javier Roman Santiago",
+  "date": "2019-05-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "H",
+  "city": "Archdale",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

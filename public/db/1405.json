@@ -1,0 +1,16 @@
+{
+  "id": 1405,
+  "name": "Dominique Silva",
+  "date": "2016-03-24",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Pawtucket",
+  "state": "RI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

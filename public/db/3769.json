@@ -1,0 +1,16 @@
+{
+  "id": 3769,
+  "name": "Stephen Cogelia",
+  "date": "2018-06-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Hardwick",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

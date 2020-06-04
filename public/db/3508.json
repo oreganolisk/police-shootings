@@ -1,0 +1,16 @@
+{
+  "id": 3508,
+  "name": "Mark Clinton Harrell",
+  "date": "2018-03-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Jonesborough",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

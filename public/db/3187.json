@@ -1,0 +1,16 @@
+{
+  "id": 3187,
+  "name": "Jesse Cole Shuping",
+  "date": "2017-12-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Peshtigo",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

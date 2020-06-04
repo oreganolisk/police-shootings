@@ -1,0 +1,16 @@
+{
+  "id": 4515,
+  "name": "Jihad Merrick",
+  "date": "2019-01-16",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 29,
+  "gender": "M",
+  "race": "",
+  "city": "Nashua",
+  "state": "IA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

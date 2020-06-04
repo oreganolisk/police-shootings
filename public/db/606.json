@@ -1,0 +1,16 @@
+{
+  "id": 606,
+  "name": "Hagen Esty-Lennon",
+  "date": "2015-07-06",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Bath",
+  "state": "NH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

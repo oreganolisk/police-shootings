@@ -1,0 +1,16 @@
+{
+  "id": 5033,
+  "name": "Robert E. Domine",
+  "date": "2019-09-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 77,
+  "gender": "M",
+  "race": "W",
+  "city": "Loyal",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

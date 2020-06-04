@@ -1,0 +1,16 @@
+{
+  "id": 3624,
+  "name": "Sanchez Lowe",
+  "date": "2018-04-17",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Austell",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

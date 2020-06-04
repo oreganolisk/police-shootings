@@ -1,0 +1,16 @@
+{
+  "id": 2009,
+  "name": "Wilton Henry",
+  "date": "2016-11-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Houma",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

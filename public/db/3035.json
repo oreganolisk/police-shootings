@@ -1,0 +1,16 @@
+{
+  "id": 3035,
+  "name": "Michael David Lopez",
+  "date": "2017-10-14",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Torrance",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

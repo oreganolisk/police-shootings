@@ -1,0 +1,16 @@
+{
+  "id": 5055,
+  "name": "TK TK",
+  "date": "2019-09-26",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "La Habra",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

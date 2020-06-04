@@ -1,0 +1,16 @@
+{
+  "id": 4708,
+  "name": "Ethan Austin Murray",
+  "date": "2019-05-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Spokane",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4718,
+  "name": "Malik Ali Gresham",
+  "date": "2019-05-13",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Gardena",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3933,
+  "name": "Pedro Lucero",
+  "date": "2018-08-07",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 42,
+  "gender": "M",
+  "race": "H",
+  "city": "Salt River Reservation",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Other",
+  "body_camera": "False"
+}

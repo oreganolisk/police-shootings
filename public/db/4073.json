@@ -1,0 +1,16 @@
+{
+  "id": 4073,
+  "name": "Brian Baker",
+  "date": "2018-10-01",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Orlando",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

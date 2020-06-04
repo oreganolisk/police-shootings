@@ -1,0 +1,16 @@
+{
+  "id": 577,
+  "name": "Alan  Bellew",
+  "date": "2015-06-28",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Portland",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

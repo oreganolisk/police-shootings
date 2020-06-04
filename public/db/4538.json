@@ -1,0 +1,16 @@
+{
+  "id": 4538,
+  "name": "Larry Todd Hoover",
+  "date": "2019-03-02",
+  "manner_of_death": "shot",
+  "armed": "sword",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Mount Holly",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4576,
+  "name": "James Young",
+  "date": "2019-03-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 77,
+  "gender": "M",
+  "race": "",
+  "city": "The Dalles",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3241,
+  "name": "Jose Garcia",
+  "date": "2017-12-26",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 31,
+  "gender": "M",
+  "race": "",
+  "city": "Yakima",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

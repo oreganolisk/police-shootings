@@ -1,0 +1,16 @@
+{
+  "id": 3885,
+  "name": "Richard R. Bahr",
+  "date": "2018-07-25",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Spokane",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

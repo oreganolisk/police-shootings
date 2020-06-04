@@ -1,0 +1,16 @@
+{
+  "id": 5800,
+  "name": "Ruben Escarrega",
+  "date": "2020-05-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Long Beach",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

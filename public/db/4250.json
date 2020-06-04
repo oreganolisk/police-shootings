@@ -1,0 +1,16 @@
+{
+  "id": 4250,
+  "name": "Dawn Elika Center",
+  "date": "2018-02-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "F",
+  "race": "W",
+  "city": "Willits",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

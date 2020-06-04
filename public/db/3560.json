@@ -1,0 +1,16 @@
+{
+  "id": 3560,
+  "name": "Edward Van McCrae",
+  "date": "2018-03-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 60,
+  "gender": "M",
+  "race": "B",
+  "city": "Winston-Salem",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

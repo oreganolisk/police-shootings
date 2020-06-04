@@ -1,0 +1,16 @@
+{
+  "id": 2173,
+  "name": "James L. Rich",
+  "date": "2016-12-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "",
+  "city": "Chestertown",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

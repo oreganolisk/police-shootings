@@ -1,0 +1,16 @@
+{
+  "id": 4375,
+  "name": "Dimas Diaz",
+  "date": "2019-01-13",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Calabasas",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

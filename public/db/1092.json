@@ -1,0 +1,16 @@
+{
+  "id": 1092,
+  "name": "Mharloun Verdejo  Saycon",
+  "date": "2015-12-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 39,
+  "gender": "M",
+  "race": "A",
+  "city": "Long Beach",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

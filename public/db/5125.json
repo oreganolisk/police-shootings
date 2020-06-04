@@ -1,0 +1,16 @@
+{
+  "id": 5125,
+  "name": "Matthew Wayne Sutton",
+  "date": "2019-10-23",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

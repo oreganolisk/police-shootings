@@ -1,0 +1,16 @@
+{
+  "id": 4838,
+  "name": "Isak Abdirahman Aden",
+  "date": "2019-07-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "O",
+  "city": "Eagan",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 837,
+  "name": "Bobby R. Anderson",
+  "date": "2015-09-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Alexandria",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4305,
+  "name": "Rodney J. Geiser",
+  "date": "2018-12-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 60,
+  "gender": "M",
+  "race": "W",
+  "city": "Apple Creek",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "True"
+}

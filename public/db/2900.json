@@ -1,0 +1,16 @@
+{
+  "id": 2900,
+  "name": "Charles David Robinson",
+  "date": "2017-08-25",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 47,
+  "gender": "M",
+  "race": "B",
+  "city": "Woodville",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2267,
+  "name": "Deaundre Phillips",
+  "date": "2017-01-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Atlanta",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

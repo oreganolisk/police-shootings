@@ -1,0 +1,16 @@
+{
+  "id": 5275,
+  "name": "Chiasher Fong Vue",
+  "date": "2019-12-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "A",
+  "city": "Minneapolis",
+  "state": "MN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 726,
+  "name": "Taylor Culbertson",
+  "date": "2015-06-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Omaha",
+  "state": "NE",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

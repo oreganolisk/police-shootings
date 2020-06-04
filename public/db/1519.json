@@ -1,0 +1,16 @@
+{
+  "id": 1519,
+  "name": "Ronald D. Williams",
+  "date": "2016-05-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "B",
+  "city": "Weirton",
+  "state": "WV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

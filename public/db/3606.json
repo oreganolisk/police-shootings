@@ -1,0 +1,16 @@
+{
+  "id": 3606,
+  "name": "Kenneth Ross",
+  "date": "2018-04-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Gardena",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

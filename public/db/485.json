@@ -1,0 +1,16 @@
+{
+  "id": 485,
+  "name": "Elvin Diaz",
+  "date": "2015-05-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Hackensack",
+  "state": "NJ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

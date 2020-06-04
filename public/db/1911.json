@@ -1,0 +1,16 @@
+{
+  "id": 1911,
+  "name": "Anthony Ray Bauer",
+  "date": "2016-09-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Garden City",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

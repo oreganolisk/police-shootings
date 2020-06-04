@@ -1,0 +1,16 @@
+{
+  "id": 1971,
+  "name": "Rolando Delgado",
+  "date": "2016-10-17",
+  "manner_of_death": "shot",
+  "armed": "sword",
+  "age": 50,
+  "gender": "M",
+  "race": "H",
+  "city": "Miami",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

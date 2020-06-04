@@ -1,0 +1,16 @@
+{
+  "id": 1754,
+  "name": "Richard Lance London",
+  "date": "2016-08-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Lake City",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3414,
+  "name": "Travis D. Tucker",
+  "date": "2018-02-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Kokomo",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

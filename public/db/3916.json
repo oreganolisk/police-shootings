@@ -1,0 +1,16 @@
+{
+  "id": 3916,
+  "name": "James Bishop",
+  "date": "2018-08-05",
+  "manner_of_death": "shot",
+  "armed": "baseball bat",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Las Cruces",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

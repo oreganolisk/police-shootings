@@ -1,0 +1,16 @@
+{
+  "id": 2257,
+  "name": "Jonathan David Sper",
+  "date": "2017-01-24",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Algoma Township",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

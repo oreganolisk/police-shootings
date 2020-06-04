@@ -1,0 +1,16 @@
+{
+  "id": 2439,
+  "name": "Nancy Jane Lewellyn",
+  "date": "2017-03-17",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 59,
+  "gender": "F",
+  "race": "W",
+  "city": "Lakeland",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

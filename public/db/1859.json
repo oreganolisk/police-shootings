@@ -1,0 +1,16 @@
+{
+  "id": 1859,
+  "name": "Simon Gomez",
+  "date": "2016-09-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Grand Junction",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

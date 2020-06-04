@@ -1,0 +1,16 @@
+{
+  "id": 5497,
+  "name": "Vincent Conti",
+  "date": "2020-02-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Spring Hill",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

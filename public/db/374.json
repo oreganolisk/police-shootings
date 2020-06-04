@@ -1,0 +1,16 @@
+{
+  "id": 374,
+  "name": "Ernesto Flores",
+  "date": "2015-04-15",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 52,
+  "gender": "M",
+  "race": "H",
+  "city": "Montclair",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

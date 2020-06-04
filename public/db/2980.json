@@ -1,0 +1,16 @@
+{
+  "id": 2980,
+  "name": "Scott Farnsworth",
+  "date": "2017-09-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5789,
+  "name": "Adrian Medearis",
+  "date": "2020-05-08",
+  "manner_of_death": "shot",
+  "armed": "Taser",
+  "age": 48,
+  "gender": "M",
+  "race": "B",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

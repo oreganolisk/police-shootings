@@ -1,0 +1,16 @@
+{
+  "id": 124,
+  "name": "Salvador Muna",
+  "date": "2015-02-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "H",
+  "city": "Tempe",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

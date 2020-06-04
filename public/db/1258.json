@@ -1,0 +1,16 @@
+{
+  "id": 1258,
+  "name": "Alijah Jackson",
+  "date": "2016-02-11",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Maiden",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

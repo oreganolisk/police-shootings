@@ -1,0 +1,16 @@
+{
+  "id": 1111,
+  "name": "Derek DeGroat",
+  "date": "2015-12-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "W",
+  "city": "Canaan Township",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

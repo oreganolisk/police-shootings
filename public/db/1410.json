@@ -1,0 +1,16 @@
+{
+  "id": 1410,
+  "name": "Jeffrey Lanahan",
+  "date": "2016-03-27",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Lee's Summit",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

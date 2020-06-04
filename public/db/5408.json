@@ -1,0 +1,16 @@
+{
+  "id": 5408,
+  "name": "Rory Behling",
+  "date": "2020-01-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Fox Crossing",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2886,
+  "name": "Tyler Whitmire",
+  "date": "2017-08-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Franklin",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1631,
+  "name": "Rashaun Lloyd",
+  "date": "2016-06-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

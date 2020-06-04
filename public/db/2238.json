@@ -1,0 +1,16 @@
+{
+  "id": 2238,
+  "name": "Jorge Victor",
+  "date": "2017-01-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "H",
+  "city": "Carson",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

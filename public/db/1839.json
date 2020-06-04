@@ -1,0 +1,16 @@
+{
+  "id": 1839,
+  "name": "Ed Holup",
+  "date": "2016-09-01",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 60,
+  "gender": "M",
+  "race": "W",
+  "city": "Sylvania Township",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

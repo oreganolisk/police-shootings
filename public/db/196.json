@@ -1,0 +1,16 @@
+{
+  "id": 196,
+  "name": "Shaquille Barrow",
+  "date": "2015-03-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Joilet",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3873,
+  "name": "Logan Simpson",
+  "date": "2018-07-22",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 16,
+  "gender": "M",
+  "race": "W",
+  "city": "Bixby",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

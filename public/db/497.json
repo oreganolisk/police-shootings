@@ -1,0 +1,16 @@
+{
+  "id": 497,
+  "name": "Kevin Allen",
+  "date": "2015-05-29",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "M",
+  "race": "B",
+  "city": "Lyndhurst",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

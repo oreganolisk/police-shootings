@@ -1,0 +1,16 @@
+{
+  "id": 752,
+  "name": "Deviere Ernel Ransom",
+  "date": "2015-08-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Bloomfield Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

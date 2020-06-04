@@ -1,0 +1,16 @@
+{
+  "id": 4653,
+  "name": "Anthony Jose Vega Cruz",
+  "date": "2019-04-20",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "Wethersfield",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

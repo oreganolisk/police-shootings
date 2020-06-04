@@ -1,0 +1,16 @@
+{
+  "id": 3907,
+  "name": "David Edward Hall",
+  "date": "2018-08-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Oxon Hill",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

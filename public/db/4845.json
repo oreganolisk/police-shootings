@@ -1,0 +1,16 @@
+{
+  "id": 4845,
+  "name": "Jose Martinez",
+  "date": "2019-07-05",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "West Jordan",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Foot",
+  "body_camera": "False"
+}

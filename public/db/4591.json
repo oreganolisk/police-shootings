@@ -1,0 +1,16 @@
+{
+  "id": 4591,
+  "name": "Hannah Westall",
+  "date": "2019-03-20",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 26,
+  "gender": "F",
+  "race": "W",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

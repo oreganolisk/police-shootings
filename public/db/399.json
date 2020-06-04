@@ -1,0 +1,16 @@
+{
+  "id": 399,
+  "name": "Santos Cortez Hernandez",
+  "date": "2015-04-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "H",
+  "city": "Mission",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

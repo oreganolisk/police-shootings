@@ -1,0 +1,16 @@
+{
+  "id": 770,
+  "name": "Marvin Maestas",
+  "date": "2015-08-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Santa Fe",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

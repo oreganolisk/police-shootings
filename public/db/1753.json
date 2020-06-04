@@ -1,0 +1,16 @@
+{
+  "id": 1753,
+  "name": "Kenneth Eugene Bonanno",
+  "date": "2016-08-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 67,
+  "gender": "M",
+  "race": "W",
+  "city": "Stafford",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3307,
+  "name": "Joseph Hilton",
+  "date": "2018-01-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntersville",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

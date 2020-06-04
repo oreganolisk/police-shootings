@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "name": "Tiano Meton",
+  "date": "2015-01-22",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Sierra Blanca",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4275,
+  "name": "Dimaggio McNelly",
+  "date": "2018-12-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "B",
+  "city": "Henry County",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

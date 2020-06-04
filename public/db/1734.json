@@ -1,0 +1,16 @@
+{
+  "id": 1734,
+  "name": "Juan Reynaldo Duran",
+  "date": "2016-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "H",
+  "city": "Artesia",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

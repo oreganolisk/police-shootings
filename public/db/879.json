@@ -1,0 +1,16 @@
+{
+  "id": 879,
+  "name": "William Chau",
+  "date": "2015-09-09",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 59,
+  "gender": "M",
+  "race": "A",
+  "city": "El Monte",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 57,
+  "name": "Kavonda Earl Payton",
+  "date": "2015-01-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Aurora",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

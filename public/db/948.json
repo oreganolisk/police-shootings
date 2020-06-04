@@ -1,0 +1,16 @@
+{
+  "id": 948,
+  "name": "Rolly Thomas",
+  "date": "2015-10-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "Cape Coral",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

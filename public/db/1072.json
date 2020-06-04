@@ -1,0 +1,16 @@
+{
+  "id": 1072,
+  "name": "Charles Edward Rosemond",
+  "date": "2015-12-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "B",
+  "city": "Taylors",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

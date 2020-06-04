@@ -1,0 +1,16 @@
+{
+  "id": 4009,
+  "name": "Aaron Demonta Fleming",
+  "date": "2018-09-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Covington",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3631,
+  "name": "Charles Whitley",
+  "date": "2018-04-17",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Cumberland County",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

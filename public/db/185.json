@@ -1,0 +1,16 @@
+{
+  "id": 185,
+  "name": "Ernesto Javiar Canepa Diaz",
+  "date": "2015-02-27",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 27,
+  "gender": "M",
+  "race": "H",
+  "city": "Santa Ana",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

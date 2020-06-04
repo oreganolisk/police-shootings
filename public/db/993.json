@@ -1,0 +1,16 @@
+{
+  "id": 993,
+  "name": "Dale Maverick Hudson",
+  "date": "2015-11-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Braxton County",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

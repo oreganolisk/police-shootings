@@ -1,0 +1,16 @@
+{
+  "id": 1927,
+  "name": "George Richards-Meyers",
+  "date": "2016-09-30",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Newark",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

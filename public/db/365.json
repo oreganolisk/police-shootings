@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "name": "Tevin Barkley",
+  "date": "2015-04-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Miami",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Foot",
+  "body_camera": "False"
+}

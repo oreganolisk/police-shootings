@@ -1,0 +1,16 @@
+{
+  "id": 4494,
+  "name": "Bryan A. Ryder",
+  "date": "2019-02-25",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Springfield",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

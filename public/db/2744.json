@@ -1,0 +1,16 @@
+{
+  "id": 2744,
+  "name": "Jesus Cervantes",
+  "date": "2017-07-06",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Plant City",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

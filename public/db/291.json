@@ -1,0 +1,16 @@
+{
+  "id": 291,
+  "name": "Eric Harris",
+  "date": "2015-04-02",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 44,
+  "gender": "M",
+  "race": "B",
+  "city": "Tulsa",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5109,
+  "name": "Allan Feliz",
+  "date": "2019-10-17",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

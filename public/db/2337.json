@@ -1,0 +1,16 @@
+{
+  "id": 2337,
+  "name": "Raynard Burton",
+  "date": "2017-02-13",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "B",
+  "city": "Detroit",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

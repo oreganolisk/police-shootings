@@ -1,0 +1,16 @@
+{
+  "id": 1560,
+  "name": "Verl Bedonie",
+  "date": "2016-05-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "N",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

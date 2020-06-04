@@ -1,0 +1,16 @@
+{
+  "id": 1551,
+  "name": "Kentrill William Carraway",
+  "date": "2016-05-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Miami",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

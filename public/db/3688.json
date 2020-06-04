@@ -1,0 +1,16 @@
+{
+  "id": 3688,
+  "name": "William N. Derick",
+  "date": "2018-05-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Wales",
+  "state": "ME",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

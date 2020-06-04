@@ -1,0 +1,16 @@
+{
+  "id": 1003,
+  "name": "Richard Perkins",
+  "date": "2015-11-15",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Oakland",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

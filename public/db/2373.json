@@ -1,0 +1,16 @@
+{
+  "id": 2373,
+  "name": "Kenneth Robertson",
+  "date": "2017-02-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Fairfax",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

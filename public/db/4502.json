@@ -1,0 +1,16 @@
+{
+  "id": 4502,
+  "name": "Mikyas Mehary Tegegne",
+  "date": "2019-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Silver Spring",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

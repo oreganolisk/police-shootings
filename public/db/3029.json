@@ -1,0 +1,16 @@
+{
+  "id": 3029,
+  "name": "John Robert Payne",
+  "date": "2017-10-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Homewood",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

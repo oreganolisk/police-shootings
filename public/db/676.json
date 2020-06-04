@@ -1,0 +1,16 @@
+{
+  "id": 676,
+  "name": "Christopher Olmstead",
+  "date": "2015-07-25",
+  "manner_of_death": "shot",
+  "armed": "blunt object",
+  "age": 60,
+  "gender": "M",
+  "race": "W",
+  "city": "New Orleans",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

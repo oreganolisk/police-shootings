@@ -1,0 +1,16 @@
+{
+  "id": 2346,
+  "name": "Kadeem Torres",
+  "date": "2017-02-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Brooklyn",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

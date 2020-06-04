@@ -1,0 +1,16 @@
+{
+  "id": 2710,
+  "name": "Jonathon  Daniel Simmons",
+  "date": "2017-02-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Douglas City",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

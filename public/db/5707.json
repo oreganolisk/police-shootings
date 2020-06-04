@@ -1,0 +1,16 @@
+{
+  "id": 5707,
+  "name": "David A. Xanatos",
+  "date": "2020-04-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "",
+  "city": "Lincoln CIty",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

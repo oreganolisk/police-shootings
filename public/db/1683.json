@@ -1,0 +1,16 @@
+{
+  "id": 1683,
+  "name": "Sidney Washington",
+  "date": "2016-07-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Washington",
+  "state": "DC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

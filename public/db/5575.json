@@ -1,0 +1,16 @@
+{
+  "id": 5575,
+  "name": "Brandon Lewis",
+  "date": "2020-02-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Harrison County",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4721,
+  "name": "Ronny Rodriguez",
+  "date": "2019-05-15",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 43,
+  "gender": "M",
+  "race": "H",
+  "city": "Tamarac",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

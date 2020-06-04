@@ -1,0 +1,16 @@
+{
+  "id": 5738,
+  "name": "Giuseppe Particianone",
+  "date": "2020-04-10",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Philadelphia",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

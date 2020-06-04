@@ -1,0 +1,16 @@
+{
+  "id": 1933,
+  "name": "John H. Fetter",
+  "date": "2016-10-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Ventnor",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

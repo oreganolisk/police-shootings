@@ -1,0 +1,16 @@
+{
+  "id": 3593,
+  "name": "Carlos Roman Urias",
+  "date": "2018-04-08",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Cathedral City",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

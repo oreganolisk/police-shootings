@@ -1,0 +1,16 @@
+{
+  "id": 3016,
+  "name": "Roberto Callejas",
+  "date": "2017-10-06",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Orlando",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

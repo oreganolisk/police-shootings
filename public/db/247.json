@@ -1,0 +1,16 @@
+{
+  "id": 247,
+  "name": "Scott Dunham",
+  "date": "2015-03-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

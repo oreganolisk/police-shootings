@@ -1,0 +1,16 @@
+{
+  "id": 2899,
+  "name": "Kristen Ambury",
+  "date": "2017-08-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "F",
+  "race": "W",
+  "city": "Sunrise",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

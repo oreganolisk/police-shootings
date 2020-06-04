@@ -1,0 +1,16 @@
+{
+  "id": 4771,
+  "name": "Terry Frost",
+  "date": "2019-06-10",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": "",
+  "gender": "M",
+  "race": "W",
+  "city": "Kingsport",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

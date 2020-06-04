@@ -1,0 +1,16 @@
+{
+  "id": 2743,
+  "name": "Tiffany Lynn Potter",
+  "date": "2017-07-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "F",
+  "race": "W",
+  "city": "Des Moines",
+  "state": "IA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

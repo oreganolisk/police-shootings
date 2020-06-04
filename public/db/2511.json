@@ -1,0 +1,16 @@
+{
+  "id": 2511,
+  "name": "Casey Desper",
+  "date": "2017-04-18",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Brandywine",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

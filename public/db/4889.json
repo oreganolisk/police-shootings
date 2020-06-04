@@ -1,0 +1,16 @@
+{
+  "id": 4889,
+  "name": "Elisha Lucero",
+  "date": "2019-07-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "F",
+  "race": "H",
+  "city": "Albuquerque",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

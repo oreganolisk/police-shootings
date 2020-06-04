@@ -1,0 +1,16 @@
+{
+  "id": 3481,
+  "name": "James E. Waters",
+  "date": "2018-03-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "B",
+  "city": "Clinton",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

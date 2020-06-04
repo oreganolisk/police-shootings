@@ -1,0 +1,16 @@
+{
+  "id": 1696,
+  "name": "Thomas Vandemark",
+  "date": "2016-07-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 65,
+  "gender": "M",
+  "race": "W",
+  "city": "Rush Springs",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

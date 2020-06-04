@@ -1,0 +1,16 @@
+{
+  "id": 2256,
+  "name": "Jeremy Lopez-Robledo",
+  "date": "2017-01-24",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Las Cruces",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

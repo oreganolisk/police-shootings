@@ -1,0 +1,16 @@
+{
+  "id": 3953,
+  "name": "Christopher Anthony Stone",
+  "date": "2018-08-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

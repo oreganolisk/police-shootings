@@ -1,0 +1,16 @@
+{
+  "id": 1224,
+  "name": "Jose Alegre",
+  "date": "2016-01-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "H",
+  "city": "Rossville",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

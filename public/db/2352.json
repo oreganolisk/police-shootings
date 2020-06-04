@@ -1,0 +1,16 @@
+{
+  "id": 2352,
+  "name": "Keo Crockett",
+  "date": "2017-02-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "B",
+  "city": "Efland",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 805,
+  "name": "La'vante Trevon Biggs",
+  "date": "2015-09-05",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Durham",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

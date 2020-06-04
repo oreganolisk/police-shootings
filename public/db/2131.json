@@ -1,0 +1,16 @@
+{
+  "id": 2131,
+  "name": "Roy Minton",
+  "date": "2016-12-19",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Granite Falls",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

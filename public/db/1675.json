@@ -1,0 +1,16 @@
+{
+  "id": 1675,
+  "name": "Michael William Schumacher",
+  "date": "2016-06-29",
+  "manner_of_death": "shot",
+  "armed": "pitchfork",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Madison",
+  "state": "WI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

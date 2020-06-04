@@ -1,0 +1,16 @@
+{
+  "id": 3369,
+  "name": "James M. Burks",
+  "date": "2018-02-01",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Waverly",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1953,
+  "name": "Thomas Jeffery Burns",
+  "date": "2016-10-07",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Benton",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

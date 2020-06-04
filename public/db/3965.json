@@ -1,0 +1,16 @@
+{
+  "id": 3965,
+  "name": "Mark Harvey",
+  "date": "2018-08-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "",
+  "city": "Richton Park",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

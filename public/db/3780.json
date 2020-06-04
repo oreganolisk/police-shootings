@@ -1,0 +1,16 @@
+{
+  "id": 3780,
+  "name": "Marcelo Castellano",
+  "date": "2018-06-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "Kirkland",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

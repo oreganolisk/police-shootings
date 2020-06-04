@@ -1,0 +1,16 @@
+{
+  "id": 199,
+  "name": "Derek Cruice",
+  "date": "2015-03-04",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Deltona",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

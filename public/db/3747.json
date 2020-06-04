@@ -1,0 +1,16 @@
+{
+  "id": 3747,
+  "name": "Lisa Rivera",
+  "date": "2018-05-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "F",
+  "race": "H",
+  "city": "Yuma",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

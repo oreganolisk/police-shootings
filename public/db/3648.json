@@ -1,0 +1,16 @@
+{
+  "id": 3648,
+  "name": "Myra Lisa Micalizio",
+  "date": "2018-04-26",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 56,
+  "gender": "F",
+  "race": "W",
+  "city": "Palermo",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

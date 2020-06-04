@@ -1,0 +1,16 @@
+{
+  "id": 4716,
+  "name": "Paul Mcvicker",
+  "date": "2019-05-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "",
+  "city": "Parks",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

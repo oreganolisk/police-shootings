@@ -1,0 +1,16 @@
+{
+  "id": 967,
+  "name": "Mario Martinez",
+  "date": "2015-10-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Mesquite",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

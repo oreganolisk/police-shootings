@@ -1,0 +1,16 @@
+{
+  "id": 1523,
+  "name": "Nathan Q. Cates",
+  "date": "2016-05-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Lake Stevens",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

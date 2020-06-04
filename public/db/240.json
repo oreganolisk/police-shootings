@@ -1,0 +1,16 @@
+{
+  "id": 240,
+  "name": "Jeremy Lorenza Kelly",
+  "date": "2015-03-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Johnsonville",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

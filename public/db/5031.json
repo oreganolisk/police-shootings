@@ -1,0 +1,16 @@
+{
+  "id": 5031,
+  "name": "Juan Carlos Macias",
+  "date": "2019-08-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

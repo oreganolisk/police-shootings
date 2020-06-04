@@ -1,0 +1,16 @@
+{
+  "id": 5081,
+  "name": "Christopher G. Louras",
+  "date": "2019-10-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Rutland",
+  "state": "VT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

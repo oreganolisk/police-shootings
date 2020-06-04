@@ -1,0 +1,16 @@
+{
+  "id": 3898,
+  "name": "Cynthia Fields",
+  "date": "2018-07-27",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 60,
+  "gender": "F",
+  "race": "B",
+  "city": "Savannah",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2078,
+  "name": "Jerome Chris Harmon",
+  "date": "2016-11-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Hattiesburg",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3021,
+  "name": "Michael Ferrell",
+  "date": "2017-10-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 67,
+  "gender": "M",
+  "race": "W",
+  "city": "Mesa",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3709,
+  "name": "Martin Sandejo",
+  "date": "2018-05-22",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 49,
+  "gender": "M",
+  "race": "H",
+  "city": "Mathis",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

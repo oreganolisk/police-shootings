@@ -1,0 +1,16 @@
+{
+  "id": 1874,
+  "name": "Ricardo Tenorio",
+  "date": "2016-09-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Memphis",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4038,
+  "name": "Jose Alvarez",
+  "date": "2018-09-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "H",
+  "city": "Temple Hills",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

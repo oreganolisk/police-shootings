@@ -1,0 +1,16 @@
+{
+  "id": 3748,
+  "name": "Peter Boden",
+  "date": "2018-05-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Hackett",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

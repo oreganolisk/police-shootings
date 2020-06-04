@@ -1,0 +1,16 @@
+{
+  "id": 3649,
+  "name": "Shukri Ali Said",
+  "date": "2018-04-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "F",
+  "race": "A",
+  "city": "Johns Creek",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

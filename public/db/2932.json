@@ -1,0 +1,16 @@
+{
+  "id": 2932,
+  "name": "Timothy Elam",
+  "date": "2017-09-06",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

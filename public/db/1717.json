@@ -1,0 +1,16 @@
+{
+  "id": 1717,
+  "name": "Jermaine Johnson",
+  "date": "2016-07-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

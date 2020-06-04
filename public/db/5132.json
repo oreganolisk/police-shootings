@@ -1,0 +1,16 @@
+{
+  "id": 5132,
+  "name": "Kwesi Ashun",
+  "date": "2019-10-25",
+  "manner_of_death": "shot",
+  "armed": "chair",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

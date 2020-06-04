@@ -1,0 +1,16 @@
+{
+  "id": 483,
+  "name": "Javoris Washington",
+  "date": "2015-05-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Ft. Lauderdale",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

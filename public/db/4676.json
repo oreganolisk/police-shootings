@@ -1,0 +1,16 @@
+{
+  "id": 4676,
+  "name": "Jose German",
+  "date": "2019-03-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "",
+  "city": "Buckeye",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2610,
+  "name": "Shaquian Tyrone Johnson",
+  "date": "2017-05-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "B",
+  "city": "Cary",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

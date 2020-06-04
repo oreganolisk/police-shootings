@@ -1,0 +1,16 @@
+{
+  "id": 2297,
+  "name": "Daniel McMasters",
+  "date": "2017-02-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Grafton",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2852,
+  "name": "Darreon Neal",
+  "date": "2017-08-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 17,
+  "gender": "M",
+  "race": "B",
+  "city": "Dalton",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5860,
+  "name": "Kenneth Bennett",
+  "date": "2020-05-26",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 61,
+  "gender": "M",
+  "race": "",
+  "city": "Manlius",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

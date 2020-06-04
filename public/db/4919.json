@@ -1,0 +1,16 @@
+{
+  "id": 4919,
+  "name": "Cortney Ronald Staley",
+  "date": "2019-08-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Carson City",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

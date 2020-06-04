@@ -1,0 +1,16 @@
+{
+  "id": 699,
+  "name": "Franklin Short",
+  "date": "2015-08-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 71,
+  "gender": "M",
+  "race": "W",
+  "city": "Powhatan County",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

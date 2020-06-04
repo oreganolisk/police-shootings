@@ -1,0 +1,16 @@
+{
+  "id": 3305,
+  "name": "Nathan Giffin",
+  "date": "2018-01-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Montpelier",
+  "state": "VT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Foot",
+  "body_camera": "False"
+}

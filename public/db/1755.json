@@ -1,0 +1,16 @@
+{
+  "id": 1755,
+  "name": "Benjamin William Heaton",
+  "date": "2016-08-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Clearfield",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

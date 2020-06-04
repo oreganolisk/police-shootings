@@ -1,0 +1,16 @@
+{
+  "id": 3725,
+  "name": "Katherine Brazeau",
+  "date": "2018-05-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "F",
+  "race": "W",
+  "city": "Fullerton",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

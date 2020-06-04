@@ -1,0 +1,16 @@
+{
+  "id": 2751,
+  "name": "Brian Easley",
+  "date": "2017-07-07",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Marietta",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

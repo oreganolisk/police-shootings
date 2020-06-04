@@ -1,0 +1,16 @@
+{
+  "id": 1712,
+  "name": "Kevin Higgins",
+  "date": "2016-07-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Sheboygan",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

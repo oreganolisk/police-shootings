@@ -1,0 +1,16 @@
+{
+  "id": 4172,
+  "name": "Jemel Roberson",
+  "date": "2018-11-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "B",
+  "city": "Robbins",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

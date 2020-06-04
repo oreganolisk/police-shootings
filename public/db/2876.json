@@ -1,0 +1,16 @@
+{
+  "id": 2876,
+  "name": "Jonathan Bolger",
+  "date": "2017-08-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Yellville",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

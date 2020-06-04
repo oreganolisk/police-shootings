@@ -1,0 +1,16 @@
+{
+  "id": 5506,
+  "name": "Andrew Smyrna",
+  "date": "2020-01-23",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Atlanta",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

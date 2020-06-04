@@ -1,0 +1,16 @@
+{
+  "id": 2445,
+  "name": "TK Tk",
+  "date": "2017-03-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": "",
+  "gender": "M",
+  "race": "",
+  "city": "Desert Hot Springs",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

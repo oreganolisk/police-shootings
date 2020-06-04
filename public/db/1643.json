@@ -1,0 +1,16 @@
+{
+  "id": 1643,
+  "name": "Pedro Cruz-Amado",
+  "date": "2016-06-21",
+  "manner_of_death": "shot",
+  "armed": "chair",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Lawndale",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

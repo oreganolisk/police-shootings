@@ -1,0 +1,16 @@
+{
+  "id": 1509,
+  "name": "Richard Ferretti",
+  "date": "2016-05-04",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Philadelphia",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

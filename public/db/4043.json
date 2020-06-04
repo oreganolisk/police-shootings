@@ -1,0 +1,16 @@
+{
+  "id": 4043,
+  "name": "Jerry Foster",
+  "date": "2018-09-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Shreveport",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

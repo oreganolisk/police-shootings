@@ -1,0 +1,16 @@
+{
+  "id": 2575,
+  "name": "Ryan Lowell",
+  "date": "2017-05-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Billings",
+  "state": "MT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

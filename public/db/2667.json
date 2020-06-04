@@ -1,0 +1,16 @@
+{
+  "id": 2667,
+  "name": "James T. Hodgkinson",
+  "date": "2017-06-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 66,
+  "gender": "M",
+  "race": "W",
+  "city": "Alexandria",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1681,
+  "name": "Anthony Nunez",
+  "date": "2016-07-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

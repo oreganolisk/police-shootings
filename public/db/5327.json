@@ -1,0 +1,16 @@
+{
+  "id": 5327,
+  "name": "Kenneth Collins",
+  "date": "2019-12-22",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 46,
+  "gender": "M",
+  "race": "B",
+  "city": "Hattiesburg",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

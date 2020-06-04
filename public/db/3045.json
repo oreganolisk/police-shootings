@@ -1,0 +1,16 @@
+{
+  "id": 3045,
+  "name": "Mitchell Fox",
+  "date": "2017-10-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Clearwater",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

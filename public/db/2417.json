@@ -1,0 +1,16 @@
+{
+  "id": 2417,
+  "name": "Noel Aaron Russell",
+  "date": "2017-03-13",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Napa",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

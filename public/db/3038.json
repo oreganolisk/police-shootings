@@ -1,0 +1,16 @@
+{
+  "id": 3038,
+  "name": "Eddie Sanders",
+  "date": "2017-10-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "",
+  "city": "Olivehurst",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

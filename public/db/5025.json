@@ -1,0 +1,16 @@
+{
+  "id": 5025,
+  "name": "Kristopher Fitzpatrick",
+  "date": "2019-09-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Aberdeen",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

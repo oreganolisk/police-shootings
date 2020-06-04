@@ -1,0 +1,16 @@
+{
+  "id": 5750,
+  "name": "Marcus Eugene Epps",
+  "date": "2020-04-17",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Anderson",
+  "state": "SC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

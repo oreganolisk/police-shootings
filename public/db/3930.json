@@ -1,0 +1,16 @@
+{
+  "id": 3930,
+  "name": "Lemuel Bunn",
+  "date": "2018-07-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Fayetteville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4405,
+  "name": "Preston Oszust",
+  "date": "2019-01-23",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 20,
+  "gender": "M",
+  "race": "W",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Foot",
+  "body_camera": "False"
+}

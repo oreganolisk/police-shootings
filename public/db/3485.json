@@ -1,0 +1,16 @@
+{
+  "id": 3485,
+  "name": "Alkeeta Allena Walker",
+  "date": "2018-03-09",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "F",
+  "race": "W",
+  "city": "Tarpon Springs",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

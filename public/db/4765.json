@@ -1,0 +1,16 @@
+{
+  "id": 4765,
+  "name": "Jay Clem",
+  "date": "2019-06-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "W",
+  "city": "Jonesboro",
+  "state": "AR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

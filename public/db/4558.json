@@ -1,0 +1,16 @@
+{
+  "id": 4558,
+  "name": "Joel David Kellay",
+  "date": "2019-03-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "",
+  "city": "Pennfield Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

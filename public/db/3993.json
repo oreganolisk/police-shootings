@@ -1,0 +1,16 @@
+{
+  "id": 3993,
+  "name": "Donna Castleberry",
+  "date": "2018-08-23",
+  "manner_of_death": "shot",
+  "armed": "sharp object",
+  "age": 23,
+  "gender": "F",
+  "race": "W",
+  "city": "Columbus",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

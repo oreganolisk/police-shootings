@@ -1,0 +1,16 @@
+{
+  "id": 3556,
+  "name": "Rodney Toler",
+  "date": "2018-03-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Charleston",
+  "state": "WV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

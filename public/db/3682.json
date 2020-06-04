@@ -1,0 +1,16 @@
+{
+  "id": 3682,
+  "name": "Elliott Reed",
+  "date": "2018-05-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Jackson",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

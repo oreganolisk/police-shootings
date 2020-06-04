@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "name": "Lester Brown",
+  "date": "2015-03-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Brevard",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

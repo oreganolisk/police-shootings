@@ -1,0 +1,16 @@
+{
+  "id": 3109,
+  "name": "Pamela Webber",
+  "date": "2017-11-06",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 54,
+  "gender": "F",
+  "race": "W",
+  "city": "Lynchburg",
+  "state": "VA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

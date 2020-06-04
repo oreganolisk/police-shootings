@@ -1,0 +1,16 @@
+{
+  "id": 2177,
+  "name": "John McLaughlin",
+  "date": "2017-01-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Springfield",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3678,
+  "name": "Charles Hutchison",
+  "date": "2018-05-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

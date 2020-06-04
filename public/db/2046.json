@@ -1,0 +1,16 @@
+{
+  "id": 2046,
+  "name": "William Ray Score",
+  "date": "2016-11-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "",
+  "city": "Montrose County",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3882,
+  "name": "Donna Lynn Allen",
+  "date": "2018-07-24",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 39,
+  "gender": "F",
+  "race": "W",
+  "city": "Soddy-Daisy",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

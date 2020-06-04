@@ -1,0 +1,16 @@
+{
+  "id": 4648,
+  "name": "John Stewart, Jr.",
+  "date": "2019-04-17",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Pentress",
+  "state": "WV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 208,
+  "name": "Clifton Reintzel",
+  "date": "2015-03-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Follansbee",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

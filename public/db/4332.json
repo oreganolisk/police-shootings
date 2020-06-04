@@ -1,0 +1,16 @@
+{
+  "id": 4332,
+  "name": "Iosia Faletogo",
+  "date": "2018-12-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "A",
+  "city": "Seattle",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 660,
+  "name": "Jose Roman Rodriguez",
+  "date": "2015-07-17",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Brownsville",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

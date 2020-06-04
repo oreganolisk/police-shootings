@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "name": "Aaron Rutledge",
+  "date": "2015-04-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Pineville",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

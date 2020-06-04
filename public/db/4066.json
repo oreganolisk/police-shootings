@@ -1,0 +1,16 @@
+{
+  "id": 4066,
+  "name": "Juan Angel Pinedo",
+  "date": "2018-09-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "Las Cruces",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

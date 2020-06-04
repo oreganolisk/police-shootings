@@ -1,0 +1,16 @@
+{
+  "id": 534,
+  "name": "Mark Smith",
+  "date": "2015-04-09",
+  "manner_of_death": "shot and Tasered",
+  "armed": "",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Kellyville",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

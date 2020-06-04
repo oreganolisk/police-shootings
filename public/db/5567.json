@@ -1,0 +1,16 @@
+{
+  "id": 5567,
+  "name": "Chris Cadotte",
+  "date": "2020-02-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 63,
+  "gender": "M",
+  "race": "",
+  "city": "Yuma",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

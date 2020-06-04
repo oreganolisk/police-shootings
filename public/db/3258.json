@@ -1,0 +1,16 @@
+{
+  "id": 3258,
+  "name": "Jarvis Lykes",
+  "date": "2017-12-29",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 35,
+  "gender": "M",
+  "race": "",
+  "city": "Columbus",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

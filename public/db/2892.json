@@ -1,0 +1,16 @@
+{
+  "id": 2892,
+  "name": "Thomas Selje",
+  "date": "2017-08-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "W",
+  "city": "Pardeeville",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

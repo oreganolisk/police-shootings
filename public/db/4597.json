@@ -1,0 +1,16 @@
+{
+  "id": 4597,
+  "name": "Brandon Michael Jacque",
+  "date": "2019-03-27",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Burnet",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

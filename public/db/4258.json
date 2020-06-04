@@ -1,0 +1,16 @@
+{
+  "id": 4258,
+  "name": "Mitchell Nelson",
+  "date": "2018-04-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Federal Way",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

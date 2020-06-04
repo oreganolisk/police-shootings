@@ -1,0 +1,16 @@
+{
+  "id": 4815,
+  "name": "Shawn D. Blowers",
+  "date": "2019-06-25",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Menasha",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

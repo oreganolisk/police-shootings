@@ -1,0 +1,16 @@
+{
+  "id": 1376,
+  "name": "Scott Bennett",
+  "date": "2016-03-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Houston",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

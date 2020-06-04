@@ -1,0 +1,16 @@
+{
+  "id": 4076,
+  "name": "Tison Dinney",
+  "date": "2018-10-07",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 51,
+  "gender": "M",
+  "race": "",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

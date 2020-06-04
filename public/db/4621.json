@@ -1,0 +1,16 @@
+{
+  "id": 4621,
+  "name": "Anthony Orlando Bowers",
+  "date": "2019-04-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Greeneville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

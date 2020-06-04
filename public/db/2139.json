@@ -1,0 +1,16 @@
+{
+  "id": 2139,
+  "name": "Nick Hamilton",
+  "date": "2016-12-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "",
+  "city": "Hemet",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3687,
+  "name": "Cody Reynolds",
+  "date": "2018-05-14",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 20,
+  "gender": "M",
+  "race": "W",
+  "city": "Royal Oak",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

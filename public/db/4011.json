@@ -1,0 +1,16 @@
+{
+  "id": 4011,
+  "name": "Oshae Terry",
+  "date": "2018-09-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Arlington",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

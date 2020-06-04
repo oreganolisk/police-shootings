@@ -1,0 +1,16 @@
+{
+  "id": 207,
+  "name": "James Richard Jimenez",
+  "date": "2015-03-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "H",
+  "city": "Napa",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2403,
+  "name": "Dave Phoenix",
+  "date": "2017-03-03",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 25,
+  "gender": "M",
+  "race": "N",
+  "city": "Lemoore",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

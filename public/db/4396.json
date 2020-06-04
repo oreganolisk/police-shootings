@@ -1,0 +1,16 @@
+{
+  "id": 4396,
+  "name": "Matthew Neil Tuhkanen",
+  "date": "2019-01-19",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "St. Louis Park",
+  "state": "MN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

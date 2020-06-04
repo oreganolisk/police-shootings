@@ -1,0 +1,16 @@
+{
+  "id": 515,
+  "name": "Demouria Hogg",
+  "date": "2015-06-06",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Oakland",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

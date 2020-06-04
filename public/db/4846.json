@@ -1,0 +1,16 @@
+{
+  "id": 4846,
+  "name": "Kareem Omar Morgan",
+  "date": "2019-07-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "B",
+  "city": "Rosedale",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4937,
+  "name": "Kevin Jenkins",
+  "date": "2019-08-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "",
+  "city": "Leitchfield",
+  "state": "KY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

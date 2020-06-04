@@ -1,0 +1,16 @@
+{
+  "id": 4002,
+  "name": "Tyler Hodge",
+  "date": "2018-08-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Redlands",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

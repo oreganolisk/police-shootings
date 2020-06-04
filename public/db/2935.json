@@ -1,0 +1,16 @@
+{
+  "id": 2935,
+  "name": "Erick Perez",
+  "date": "2017-09-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 22,
+  "gender": "M",
+  "race": "H",
+  "city": "Youngtown",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

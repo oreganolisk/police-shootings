@@ -1,0 +1,16 @@
+{
+  "id": 1907,
+  "name": "Gary Don Lafon",
+  "date": "2016-09-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Wood County",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

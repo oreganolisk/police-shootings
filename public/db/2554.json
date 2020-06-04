@@ -1,0 +1,16 @@
+{
+  "id": 2554,
+  "name": "Malik Carey",
+  "date": "2017-05-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

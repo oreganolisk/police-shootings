@@ -1,0 +1,16 @@
+{
+  "id": 11,
+  "name": "Kenneth Joe Brown",
+  "date": "2015-01-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Guthrie",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

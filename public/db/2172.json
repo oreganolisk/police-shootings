@@ -1,0 +1,16 @@
+{
+  "id": 2172,
+  "name": "Jake Childers",
+  "date": "2016-12-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Campbellton",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

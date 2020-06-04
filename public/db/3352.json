@@ -1,0 +1,16 @@
+{
+  "id": 3352,
+  "name": "Dustin Gonzales Castillo",
+  "date": "2018-01-25",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

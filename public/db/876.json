@@ -1,0 +1,16 @@
+{
+  "id": 876,
+  "name": "Brandon Lamar Johnson",
+  "date": "2015-09-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Beckley",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

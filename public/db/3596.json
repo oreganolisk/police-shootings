@@ -1,0 +1,16 @@
+{
+  "id": 3596,
+  "name": "Russell Bowman",
+  "date": "2018-04-08",
+  "manner_of_death": "shot",
+  "armed": "screwdriver",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4210,
+  "name": "Jarmane Logan",
+  "date": "2018-11-27",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 35,
+  "gender": "M",
+  "race": "B",
+  "city": "Topeka",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

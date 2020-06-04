@@ -1,0 +1,16 @@
+{
+  "id": 2616,
+  "name": "Joseph Zimmerman",
+  "date": "2017-05-26",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

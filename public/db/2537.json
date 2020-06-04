@@ -1,0 +1,16 @@
+{
+  "id": 2537,
+  "name": "Tim A. Holmgren",
+  "date": "2017-04-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Rapid City",
+  "state": "SD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

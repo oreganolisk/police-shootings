@@ -1,0 +1,16 @@
+{
+  "id": 3053,
+  "name": "Victor Gonzalez",
+  "date": "2017-10-21",
+  "manner_of_death": "shot",
+  "armed": "hammer",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Cloverdale",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

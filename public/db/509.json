@@ -1,0 +1,16 @@
+{
+  "id": 509,
+  "name": "Miguel Martinez",
+  "date": "2015-06-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "Ellis County",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 453,
+  "name": "Stephen  Cunningham",
+  "date": "2015-05-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Tacoma",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3329,
+  "name": "Arther McAfee Jr.",
+  "date": "2018-01-20",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 61,
+  "gender": "M",
+  "race": "B",
+  "city": "Longview",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

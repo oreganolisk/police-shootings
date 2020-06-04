@@ -1,0 +1,16 @@
+{
+  "id": 2817,
+  "name": "Isaiah Tucker",
+  "date": "2017-07-31",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Oshkosh",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

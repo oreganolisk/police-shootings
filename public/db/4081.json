@@ -1,0 +1,16 @@
+{
+  "id": 4081,
+  "name": "Isaiah Ramirez",
+  "date": "2018-10-08",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Oak Ridge",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

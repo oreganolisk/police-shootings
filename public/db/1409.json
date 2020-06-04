@@ -1,0 +1,16 @@
+{
+  "id": 1409,
+  "name": "Freddy Centeno",
+  "date": "2015-09-03",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 40,
+  "gender": "M",
+  "race": "H",
+  "city": "Fresno",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

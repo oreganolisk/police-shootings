@@ -1,0 +1,16 @@
+{
+  "id": 2459,
+  "name": "Justin Quincy Smith",
+  "date": "2017-03-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Wasilla",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

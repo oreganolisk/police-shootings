@@ -1,0 +1,16 @@
+{
+  "id": 183,
+  "name": "Rodney Biggs",
+  "date": "2015-02-26",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Gulfport",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

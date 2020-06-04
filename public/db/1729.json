@@ -1,0 +1,16 @@
+{
+  "id": 1729,
+  "name": "Robert Lee Lourenco",
+  "date": "2016-07-24",
+  "manner_of_death": "shot",
+  "armed": "hatchet and gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Winchester",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3425,
+  "name": "Paul Stanley Strickland",
+  "date": "2018-02-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Catoosa",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

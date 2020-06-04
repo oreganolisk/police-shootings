@@ -1,0 +1,16 @@
+{
+  "id": 4896,
+  "name": "Alphonso Zaporta",
+  "date": "2019-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "H",
+  "city": "Hartford",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

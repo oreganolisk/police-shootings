@@ -1,0 +1,16 @@
+{
+  "id": 1015,
+  "name": "Jeray Chatham",
+  "date": "2015-11-17",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Weatherford",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

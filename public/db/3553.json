@@ -1,0 +1,16 @@
+{
+  "id": 3553,
+  "name": "Holly Knighton",
+  "date": "2018-03-27",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 33,
+  "gender": "F",
+  "race": "W",
+  "city": "Montgomery",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

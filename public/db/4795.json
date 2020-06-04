@@ -1,0 +1,16 @@
+{
+  "id": 4795,
+  "name": "Shawn Ray Wilson",
+  "date": "2019-06-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Fairbanks",
+  "state": "AK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

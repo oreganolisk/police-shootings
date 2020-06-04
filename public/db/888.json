@@ -1,0 +1,16 @@
+{
+  "id": 888,
+  "name": "David M. Diaz",
+  "date": "2015-10-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "H",
+  "city": "Sierra Vista",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

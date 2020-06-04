@@ -1,0 +1,16 @@
+{
+  "id": 1098,
+  "name": "Douglas Yon",
+  "date": "2015-12-17",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Kent",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

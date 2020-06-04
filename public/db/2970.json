@@ -1,0 +1,16 @@
+{
+  "id": 2970,
+  "name": "Mack Brinkley",
+  "date": "2017-09-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 70,
+  "gender": "M",
+  "race": "W",
+  "city": "Boswell",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

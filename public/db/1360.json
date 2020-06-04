@@ -1,0 +1,16 @@
+{
+  "id": 1360,
+  "name": "Wesley Chad Deerman",
+  "date": "2016-03-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Piedmont",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

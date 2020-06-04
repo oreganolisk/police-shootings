@@ -1,0 +1,16 @@
+{
+  "id": 2211,
+  "name": "Kevin Ernest Tree",
+  "date": "2017-01-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Ocala",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

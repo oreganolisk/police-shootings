@@ -1,0 +1,16 @@
+{
+  "id": 3737,
+  "name": "Brett Luengo",
+  "date": "2018-05-24",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Cleveland",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

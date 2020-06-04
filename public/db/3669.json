@@ -1,0 +1,16 @@
+{
+  "id": 3669,
+  "name": "Terence Leslie",
+  "date": "2018-05-06",
+  "manner_of_death": "shot",
+  "armed": "Taser",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "East Point",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

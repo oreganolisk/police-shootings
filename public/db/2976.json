@@ -1,0 +1,16 @@
+{
+  "id": 2976,
+  "name": "Anthony Robinson",
+  "date": "2017-09-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Palmetto",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

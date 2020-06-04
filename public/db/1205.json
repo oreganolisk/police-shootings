@@ -1,0 +1,16 @@
+{
+  "id": 1205,
+  "name": "Johnathan Bratcher",
+  "date": "2016-01-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Memphis",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "True"
+}

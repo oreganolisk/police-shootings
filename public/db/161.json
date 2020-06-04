@@ -1,0 +1,16 @@
+{
+  "id": 161,
+  "name": "Douglas Sparks",
+  "date": "2015-02-17",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Tewksbury",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

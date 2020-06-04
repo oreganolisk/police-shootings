@@ -1,0 +1,16 @@
+{
+  "id": 3454,
+  "name": "Stephen Hudak",
+  "date": "2018-03-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Glendale",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

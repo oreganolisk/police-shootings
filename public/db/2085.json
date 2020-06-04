@@ -1,0 +1,16 @@
+{
+  "id": 2085,
+  "name": "Pablo Renato Cartagena",
+  "date": "2016-11-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Foot",
+  "body_camera": "False"
+}

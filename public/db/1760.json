@@ -1,0 +1,16 @@
+{
+  "id": 1760,
+  "name": "William Bowers",
+  "date": "2016-08-02",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Castaic",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

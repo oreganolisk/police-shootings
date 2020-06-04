@@ -1,0 +1,16 @@
+{
+  "id": 1813,
+  "name": "William Charbonneau",
+  "date": "2016-08-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "W",
+  "city": "Orlando",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

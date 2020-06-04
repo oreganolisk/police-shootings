@@ -1,0 +1,16 @@
+{
+  "id": 4528,
+  "name": "Kenneth Joseph Sisneros",
+  "date": "2019-02-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Lone Tree",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

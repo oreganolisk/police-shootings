@@ -1,0 +1,16 @@
+{
+  "id": 5836,
+  "name": "Michael Snyder",
+  "date": "2020-05-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "",
+  "city": "Bulls Gap",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1653,
+  "name": "Dylan Noble",
+  "date": "2016-06-25",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 19,
+  "gender": "M",
+  "race": "W",
+  "city": "Fresno",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

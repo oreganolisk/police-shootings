@@ -1,0 +1,16 @@
+{
+  "id": 2077,
+  "name": "Derek Adame",
+  "date": "2016-11-26",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 20,
+  "gender": "M",
+  "race": "H",
+  "city": "Surprise",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

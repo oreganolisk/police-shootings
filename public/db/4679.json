@@ -1,0 +1,16 @@
+{
+  "id": 4679,
+  "name": "Joshua Worth",
+  "date": "2019-03-05",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Greenville",
+  "state": "MS",
+  "signs_of_mental_illness": "True",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

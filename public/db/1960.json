@@ -1,0 +1,16 @@
+{
+  "id": 1960,
+  "name": "Kirk Figueroa",
+  "date": "2016-10-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Boston",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3961,
+  "name": "John Carlos Natera-Perez",
+  "date": "2018-07-23",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Silver Spring",
+  "state": "MD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

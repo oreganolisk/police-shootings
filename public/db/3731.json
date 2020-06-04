@@ -1,0 +1,16 @@
+{
+  "id": 3731,
+  "name": "Renie Cablay",
+  "date": "2018-06-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 55,
+  "gender": "M",
+  "race": "A",
+  "city": "Honolulu",
+  "state": "HI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

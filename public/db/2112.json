@@ -1,0 +1,16 @@
+{
+  "id": 2112,
+  "name": "Timothy Case",
+  "date": "2016-12-11",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "York",
+  "state": "NE",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

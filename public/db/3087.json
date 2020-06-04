@@ -1,0 +1,16 @@
+{
+  "id": 3087,
+  "name": "Heather Denean Bubrig",
+  "date": "2017-10-31",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 37,
+  "gender": "F",
+  "race": "W",
+  "city": "Las Cruces",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

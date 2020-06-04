@@ -1,0 +1,16 @@
+{
+  "id": 5593,
+  "name": "Justin Lee Stackhouse",
+  "date": "2020-02-26",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Bradenton",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

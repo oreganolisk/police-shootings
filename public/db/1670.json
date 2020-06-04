@@ -1,0 +1,16 @@
+{
+  "id": 1670,
+  "name": "Barry Prak",
+  "date": "2016-06-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 27,
+  "gender": "M",
+  "race": "A",
+  "city": "Long Beach",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

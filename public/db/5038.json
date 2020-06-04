@@ -1,0 +1,16 @@
+{
+  "id": 5038,
+  "name": "Jeffrey Michael Gibble",
+  "date": "2019-09-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Elizabethon",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

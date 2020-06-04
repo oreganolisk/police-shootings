@@ -1,0 +1,16 @@
+{
+  "id": 1998,
+  "name": "Edwin Amaya Maldonado",
+  "date": "2016-10-27",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Elberton",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

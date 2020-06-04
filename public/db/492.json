@@ -1,0 +1,16 @@
+{
+  "id": 492,
+  "name": "Simon Hubble",
+  "date": "2015-05-27",
+  "manner_of_death": "shot and Tasered",
+  "armed": "screwdriver",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Alpine",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

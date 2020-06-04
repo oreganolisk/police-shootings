@@ -1,0 +1,16 @@
+{
+  "id": 4991,
+  "name": "Jeremy Connolly",
+  "date": "2019-08-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Salina",
+  "state": "KS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

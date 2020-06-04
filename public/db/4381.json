@@ -1,0 +1,16 @@
+{
+  "id": 4381,
+  "name": "Charles Frederick Landeros",
+  "date": "2019-01-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Eugene",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

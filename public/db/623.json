@@ -1,0 +1,16 @@
+{
+  "id": 623,
+  "name": "Robert Hammonds",
+  "date": "2015-07-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 68,
+  "gender": "M",
+  "race": "W",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

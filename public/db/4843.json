@@ -1,0 +1,16 @@
+{
+  "id": 4843,
+  "name": "Mark A. Naugle",
+  "date": "2019-07-03",
+  "manner_of_death": "shot",
+  "armed": "hammer",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Salem",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

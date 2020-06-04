@@ -1,0 +1,16 @@
+{
+  "id": 3064,
+  "name": "Ashleigh Bertucci",
+  "date": "2017-10-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "F",
+  "race": "W",
+  "city": "Shelbyville",
+  "state": "KY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

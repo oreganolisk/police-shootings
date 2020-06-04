@@ -1,0 +1,16 @@
+{
+  "id": 249,
+  "name": "Carl Lao",
+  "date": "2015-03-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "A",
+  "city": "Stockton",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

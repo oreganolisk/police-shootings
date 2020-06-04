@@ -1,0 +1,16 @@
+{
+  "id": 3853,
+  "name": "Salome Ramirez",
+  "date": "2018-07-11",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Banos",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

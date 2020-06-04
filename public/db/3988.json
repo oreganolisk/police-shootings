@@ -1,0 +1,16 @@
+{
+  "id": 3988,
+  "name": "Virginia Romero",
+  "date": "2018-08-23",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 34,
+  "gender": "F",
+  "race": "H",
+  "city": "Los Lunas",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

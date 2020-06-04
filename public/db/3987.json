@@ -1,0 +1,16 @@
+{
+  "id": 3987,
+  "name": "Jeffery Paul Fabio",
+  "date": "2018-08-24",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Enoree",
+  "state": "SC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

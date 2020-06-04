@@ -1,0 +1,16 @@
+{
+  "id": 4891,
+  "name": "Sean Michael Collins",
+  "date": "2019-04-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 29,
+  "gender": "M",
+  "race": "H",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

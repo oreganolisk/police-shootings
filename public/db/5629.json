@@ -1,0 +1,16 @@
+{
+  "id": 5629,
+  "name": "Jeremiah Medina",
+  "date": "2020-03-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Taos",
+  "state": "NM",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

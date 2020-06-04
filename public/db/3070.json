@@ -1,0 +1,16 @@
+{
+  "id": 3070,
+  "name": "Antonio Levison",
+  "date": "2017-10-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "B",
+  "city": "Cleveland",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5477,
+  "name": "Terry Pierce",
+  "date": "2019-09-03",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Van Wert",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

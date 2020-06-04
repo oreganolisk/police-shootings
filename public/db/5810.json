@@ -1,0 +1,16 @@
+{
+  "id": 5810,
+  "name": "Justin Charland",
+  "date": "2020-05-05",
+  "manner_of_death": "shot",
+  "armed": "samurai sword",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

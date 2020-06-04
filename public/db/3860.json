@@ -1,0 +1,16 @@
+{
+  "id": 3860,
+  "name": "Isaac Chapa",
+  "date": "2018-07-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Alvin",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

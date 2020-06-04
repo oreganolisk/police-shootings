@@ -1,0 +1,16 @@
+{
+  "id": 2529,
+  "name": "Fred Cardenas",
+  "date": "2017-04-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "H",
+  "city": "Fort Worth",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "True"
+}

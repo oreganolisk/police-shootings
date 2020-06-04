@@ -1,0 +1,16 @@
+{
+  "id": 4264,
+  "name": "James D. Warren",
+  "date": "2018-04-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 89,
+  "gender": "M",
+  "race": "",
+  "city": "Grand Canyon Caverns",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

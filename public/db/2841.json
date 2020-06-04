@@ -1,0 +1,16 @@
+{
+  "id": 2841,
+  "name": "Winston Espino Sanchez",
+  "date": "2017-08-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 45,
+  "gender": "M",
+  "race": "H",
+  "city": "North Bergen",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

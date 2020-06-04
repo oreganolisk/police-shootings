@@ -1,0 +1,16 @@
+{
+  "id": 4123,
+  "name": "William David Williamson",
+  "date": "2018-10-22",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Newport",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

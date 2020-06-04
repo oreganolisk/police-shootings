@@ -1,0 +1,16 @@
+{
+  "id": 2957,
+  "name": "Jacob Dominguez",
+  "date": "2017-09-15",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 32,
+  "gender": "M",
+  "race": "H",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

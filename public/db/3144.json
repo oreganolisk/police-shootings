@@ -1,0 +1,16 @@
+{
+  "id": 3144,
+  "name": "Phillip Van Cise",
+  "date": "2017-11-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Elmira",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

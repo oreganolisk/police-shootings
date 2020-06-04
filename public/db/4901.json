@@ -1,0 +1,16 @@
+{
+  "id": 4901,
+  "name": "Donald Williams Allamong",
+  "date": "2019-07-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 56,
+  "gender": "M",
+  "race": "W",
+  "city": "Sun City",
+  "state": "SC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

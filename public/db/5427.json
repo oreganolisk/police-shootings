@@ -1,0 +1,16 @@
+{
+  "id": 5427,
+  "name": "Scott Joseph Weber",
+  "date": "2020-01-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "San Angelo",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

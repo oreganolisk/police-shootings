@@ -1,0 +1,16 @@
+{
+  "id": 3477,
+  "name": "Steven Peters",
+  "date": "2018-03-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Pueblo",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

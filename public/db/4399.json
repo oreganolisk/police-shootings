@@ -1,0 +1,16 @@
+{
+  "id": 4399,
+  "name": "Jason C. Minnick",
+  "date": "2019-01-19",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Knoxville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

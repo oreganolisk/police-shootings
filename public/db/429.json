@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "name": "Brendon Glenn",
+  "date": "2015-05-05",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 29,
+  "gender": "M",
+  "race": "B",
+  "city": "Venice",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

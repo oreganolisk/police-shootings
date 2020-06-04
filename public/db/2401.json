@@ -1,0 +1,16 @@
+{
+  "id": 2401,
+  "name": "Michael Kocher",
+  "date": "2017-03-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Englewood",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

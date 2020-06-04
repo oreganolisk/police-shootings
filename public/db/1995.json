@@ -1,0 +1,16 @@
+{
+  "id": 1995,
+  "name": "Kyle Killough",
+  "date": "2016-10-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Billings",
+  "state": "MT",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

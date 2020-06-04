@@ -1,0 +1,16 @@
+{
+  "id": 4884,
+  "name": "Jose Javier Gonzalez",
+  "date": "2019-07-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 52,
+  "gender": "M",
+  "race": "H",
+  "city": "Chino Hills",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

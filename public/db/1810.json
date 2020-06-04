@@ -1,0 +1,16 @@
+{
+  "id": 1810,
+  "name": "Todd P. Browning",
+  "date": "2016-08-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "East Ridge",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 83,
+  "name": "Carter Castle",
+  "date": "2015-01-18",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 67,
+  "gender": "M",
+  "race": "W",
+  "city": "Gunlock",
+  "state": "KY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4387,
+  "name": "Louis Jose Burrus",
+  "date": "2019-01-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "H",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

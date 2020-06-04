@@ -1,0 +1,16 @@
+{
+  "id": 4644,
+  "name": "TK TK",
+  "date": "2019-04-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "",
+  "city": "Canutillo",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4805,
+  "name": "Jose Jesus Astorga",
+  "date": "2019-06-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "H",
+  "city": "Modesto",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

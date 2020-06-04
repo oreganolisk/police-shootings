@@ -1,0 +1,16 @@
+{
+  "id": 947,
+  "name": "Juan Ulloa",
+  "date": "2015-10-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Highgrove",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

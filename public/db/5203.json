@@ -1,0 +1,16 @@
+{
+  "id": 5203,
+  "name": "Omar Enrique Garcia",
+  "date": "2019-11-13",
+  "manner_of_death": "shot",
+  "armed": "sword",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4068,
+  "name": "Coltin Brennan Leblanc",
+  "date": "2018-09-27",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Hammond",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

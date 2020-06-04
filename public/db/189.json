@@ -1,0 +1,16 @@
+{
+  "id": 189,
+  "name": "Jessica Uribe",
+  "date": "2015-02-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "F",
+  "race": "H",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

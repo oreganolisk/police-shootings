@@ -1,0 +1,16 @@
+{
+  "id": 198,
+  "name": "Matthew Metz",
+  "date": "2015-03-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Tempe",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2265,
+  "name": "Josue Javier Diaz",
+  "date": "2017-01-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "H",
+  "city": "Charlotte",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

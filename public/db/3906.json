@@ -1,0 +1,16 @@
+{
+  "id": 3906,
+  "name": "William Bacorn",
+  "date": "2018-07-22",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "W",
+  "city": "Hanover",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

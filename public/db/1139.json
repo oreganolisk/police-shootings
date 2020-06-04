@@ -1,0 +1,16 @@
+{
+  "id": 1139,
+  "name": "Joshua Sisson",
+  "date": "2016-01-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "San Diego",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

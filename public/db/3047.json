@@ -1,0 +1,16 @@
+{
+  "id": 3047,
+  "name": "Matthew Whitley",
+  "date": "2017-10-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Kings Mountain",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

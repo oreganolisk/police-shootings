@@ -1,0 +1,16 @@
+{
+  "id": 2036,
+  "name": "George Delacruz",
+  "date": "2016-11-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "H",
+  "city": "San Angelo",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "",
+  "body_camera": "False"
+}

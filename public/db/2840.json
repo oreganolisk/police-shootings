@@ -1,0 +1,16 @@
+{
+  "id": 2840,
+  "name": "Timmy Wilson",
+  "date": "2017-08-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "New Straitsville",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

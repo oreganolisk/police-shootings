@@ -1,0 +1,16 @@
+{
+  "id": 3517,
+  "name": "Michael Lavelle Holliman",
+  "date": "2018-03-19",
+  "manner_of_death": "shot",
+  "armed": "crossbow",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Lone Rock",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

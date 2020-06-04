@@ -1,0 +1,16 @@
+{
+  "id": 4419,
+  "name": "Robert C. Martin",
+  "date": "2019-01-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 69,
+  "gender": "M",
+  "race": "",
+  "city": "North Escambia",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

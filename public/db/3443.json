@@ -1,0 +1,16 @@
+{
+  "id": 3443,
+  "name": "Orbel Nazarians",
+  "date": "2018-02-26",
+  "manner_of_death": "shot and Tasered",
+  "armed": "machete",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

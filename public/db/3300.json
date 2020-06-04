@@ -1,0 +1,16 @@
+{
+  "id": 3300,
+  "name": "Thompson Nguyen",
+  "date": "2018-01-09",
+  "manner_of_death": "shot",
+  "armed": "ax",
+  "age": 27,
+  "gender": "M",
+  "race": "A",
+  "city": "San Jose",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

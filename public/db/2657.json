@@ -1,0 +1,16 @@
+{
+  "id": 2657,
+  "name": "Austin Durham",
+  "date": "2017-06-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Jerseyville",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

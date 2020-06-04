@@ -1,0 +1,16 @@
+{
+  "id": 4908,
+  "name": "Delano Williams",
+  "date": "2019-08-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "",
+  "city": "Charlottte",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

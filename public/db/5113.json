@@ -1,0 +1,16 @@
+{
+  "id": 5113,
+  "name": "Christopher DeQuan Crosby",
+  "date": "2019-10-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "Warren",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5019,
+  "name": "Michael E. Robbins",
+  "date": "2019-09-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 53,
+  "gender": "M",
+  "race": "",
+  "city": "Rigby",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

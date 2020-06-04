@@ -1,0 +1,16 @@
+{
+  "id": 4434,
+  "name": "Robert Martinez",
+  "date": "2019-02-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 45,
+  "gender": "M",
+  "race": "H",
+  "city": "Denver",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

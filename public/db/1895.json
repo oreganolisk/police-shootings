@@ -1,0 +1,16 @@
+{
+  "id": 1895,
+  "name": "Robert Young",
+  "date": "2016-09-17",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntsville",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "True"
+}

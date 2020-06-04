@@ -1,0 +1,16 @@
+{
+  "id": 4635,
+  "name": "Henry Lane",
+  "date": "2019-04-14",
+  "manner_of_death": "shot and Tasered",
+  "armed": "walking stick",
+  "age": 42,
+  "gender": "M",
+  "race": "N",
+  "city": "Red Bluff",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 242,
+  "name": "Joseph Tassinari",
+  "date": "2015-03-25",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 63,
+  "gender": "M",
+  "race": "W",
+  "city": "Glendale",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1975,
+  "name": "Deborah Danner",
+  "date": "2016-10-18",
+  "manner_of_death": "shot",
+  "armed": "baseball bat",
+  "age": 66,
+  "gender": "F",
+  "race": "B",
+  "city": "Bronx",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

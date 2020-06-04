@@ -1,0 +1,16 @@
+{
+  "id": 1539,
+  "name": "Robert Mark Diaz",
+  "date": "2016-05-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "H",
+  "city": "Boyle Heights",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

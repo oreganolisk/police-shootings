@@ -1,0 +1,16 @@
+{
+  "id": 1223,
+  "name": "Juan A. Ruiz",
+  "date": "2016-01-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 46,
+  "gender": "M",
+  "race": "H",
+  "city": "Immokalee",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

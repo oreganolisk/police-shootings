@@ -1,0 +1,16 @@
+{
+  "id": 4684,
+  "name": "Jose Dominguez",
+  "date": "2019-04-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "H",
+  "city": "Sparks",
+  "state": "NV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

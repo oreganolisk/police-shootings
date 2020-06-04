@@ -1,0 +1,16 @@
+{
+  "id": 5633,
+  "name": "Jesus Bonito Garcia",
+  "date": "2020-03-09",
+  "manner_of_death": "shot",
+  "armed": "screwdriver",
+  "age": 47,
+  "gender": "M",
+  "race": "H",
+  "city": "Elmendorf",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2204,
+  "name": "Jason Aldridge",
+  "date": "2017-01-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 44,
+  "gender": "M",
+  "race": "W",
+  "city": "Cumming",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

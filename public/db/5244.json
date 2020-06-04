@@ -1,0 +1,16 @@
+{
+  "id": 5244,
+  "name": "Jason Quincey Niccum",
+  "date": "2019-11-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Great Falls",
+  "state": "MT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

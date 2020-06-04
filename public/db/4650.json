@@ -1,0 +1,16 @@
+{
+  "id": 4650,
+  "name": "Soheil Antonio Mojarrad",
+  "date": "2019-04-20",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 30,
+  "gender": "M",
+  "race": "W",
+  "city": "Raleigh",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

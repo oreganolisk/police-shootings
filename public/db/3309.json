@@ -1,0 +1,16 @@
+{
+  "id": 3309,
+  "name": "Robert Martinez",
+  "date": "2018-01-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "H",
+  "city": "Eugene",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

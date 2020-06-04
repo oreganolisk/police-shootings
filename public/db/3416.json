@@ -1,0 +1,16 @@
+{
+  "id": 3416,
+  "name": "Donald Fulton",
+  "date": "2018-02-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Mobile",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

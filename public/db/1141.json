@@ -1,0 +1,16 @@
+{
+  "id": 1141,
+  "name": "Michael Tindall",
+  "date": "2015-11-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Weatherford",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

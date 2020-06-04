@@ -1,0 +1,16 @@
+{
+  "id": 1932,
+  "name": "Robert Dapkus",
+  "date": "2016-10-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "Lynn",
+  "state": "MA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

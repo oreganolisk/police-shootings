@@ -1,0 +1,16 @@
+{
+  "id": 4269,
+  "name": "Anthony Ray Borden-Cortez",
+  "date": "2018-12-04",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 18,
+  "gender": "M",
+  "race": "H",
+  "city": "Ogden",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

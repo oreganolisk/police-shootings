@@ -1,0 +1,16 @@
+{
+  "id": 4247,
+  "name": "Randall Beymer",
+  "date": "2018-02-24",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 62,
+  "gender": "M",
+  "race": "W",
+  "city": "Monongalia",
+  "state": "WV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

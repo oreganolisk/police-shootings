@@ -1,0 +1,16 @@
+{
+  "id": 4608,
+  "name": "Stacy William Kenny",
+  "date": "2019-03-31",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 33,
+  "gender": "F",
+  "race": "W",
+  "city": "Springfield",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

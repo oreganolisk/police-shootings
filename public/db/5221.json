@@ -1,0 +1,16 @@
+{
+  "id": 5221,
+  "name": "Jose Eduardo Flores",
+  "date": "2019-10-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Buckeye",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

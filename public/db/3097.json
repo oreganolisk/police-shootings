@@ -1,0 +1,16 @@
+{
+  "id": 3097,
+  "name": "Robert Powell",
+  "date": "2017-11-03",
+  "manner_of_death": "shot",
+  "armed": "gun and car",
+  "age": 53,
+  "gender": "M",
+  "race": "W",
+  "city": "Port Orange",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

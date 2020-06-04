@@ -1,0 +1,16 @@
+{
+  "id": 2162,
+  "name": "Michael Alan Altice",
+  "date": "2016-12-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Middleburg",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

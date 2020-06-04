@@ -1,0 +1,16 @@
+{
+  "id": 1307,
+  "name": "Robert Keil",
+  "date": "2016-02-24",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 16,
+  "gender": "M",
+  "race": "W",
+  "city": "Blue Springs",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

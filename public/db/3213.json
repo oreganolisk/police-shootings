@@ -1,0 +1,16 @@
+{
+  "id": 3213,
+  "name": "Zoe Dowdell",
+  "date": "2017-12-14",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "New Britain",
+  "state": "CT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

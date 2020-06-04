@@ -1,0 +1,16 @@
+{
+  "id": 764,
+  "name": "Jason Lee Alderman",
+  "date": "2015-08-22",
+  "manner_of_death": "shot",
+  "armed": "carjack",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Bakersfield",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2357,
+  "name": "Douglas Michael Smith",
+  "date": "2017-02-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Beaverton",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

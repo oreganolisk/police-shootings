@@ -1,0 +1,16 @@
+{
+  "id": 2399,
+  "name": "George Lee Seeton",
+  "date": "2017-03-04",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

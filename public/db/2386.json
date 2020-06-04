@@ -1,0 +1,16 @@
+{
+  "id": 2386,
+  "name": "Michael T. Stoudt",
+  "date": "2017-02-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 62,
+  "gender": "M",
+  "race": "W",
+  "city": "Reading",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

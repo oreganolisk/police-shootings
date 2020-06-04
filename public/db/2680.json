@@ -1,0 +1,16 @@
+{
+  "id": 2680,
+  "name": "Matthew Colton Stover",
+  "date": "2017-06-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "N",
+  "city": "Fairbanks",
+  "state": "AK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

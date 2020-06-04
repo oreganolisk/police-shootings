@@ -1,0 +1,16 @@
+{
+  "id": 475,
+  "name": "Cassandra Bolin",
+  "date": "2015-05-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "F",
+  "race": "W",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

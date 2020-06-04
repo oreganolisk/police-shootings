@@ -1,0 +1,16 @@
+{
+  "id": 4114,
+  "name": "Andrey Tkachenko",
+  "date": "2018-10-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

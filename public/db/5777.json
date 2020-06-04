@@ -1,0 +1,16 @@
+{
+  "id": 5777,
+  "name": "Nicholas Bils",
+  "date": "2020-05-01",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "San Diego",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

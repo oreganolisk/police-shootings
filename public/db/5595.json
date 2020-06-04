@@ -1,0 +1,16 @@
+{
+  "id": 5595,
+  "name": "Ramiro Carrasco",
+  "date": "2020-02-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Greeley",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

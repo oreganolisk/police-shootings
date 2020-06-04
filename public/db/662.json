@@ -1,0 +1,16 @@
+{
+  "id": 662,
+  "name": "Joseph Fuller",
+  "date": "2015-07-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "W",
+  "city": "Oakland Park",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

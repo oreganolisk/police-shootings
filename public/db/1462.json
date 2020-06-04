@@ -1,0 +1,16 @@
+{
+  "id": 1462,
+  "name": "Koltlee Whitson",
+  "date": "2016-04-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Sparta",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

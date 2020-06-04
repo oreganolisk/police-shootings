@@ -1,0 +1,16 @@
+{
+  "id": 359,
+  "name": "Joseph Jeremy Weber",
+  "date": "2015-04-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 28,
+  "gender": "M",
+  "race": "A",
+  "city": "Sunnyvale",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

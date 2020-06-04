@@ -1,0 +1,16 @@
+{
+  "id": 191,
+  "name": "Ian Sherrod",
+  "date": "2015-02-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Tarboro",
+  "state": "NC",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

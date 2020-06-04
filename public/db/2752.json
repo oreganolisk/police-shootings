@@ -1,0 +1,16 @@
+{
+  "id": 2752,
+  "name": "TK TK",
+  "date": "2017-07-07",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 16,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntsville",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

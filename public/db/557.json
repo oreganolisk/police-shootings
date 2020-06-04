@@ -1,0 +1,16 @@
+{
+  "id": 557,
+  "name": "Wendy Chappell",
+  "date": "2015-06-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "F",
+  "race": "W",
+  "city": "Clanton",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

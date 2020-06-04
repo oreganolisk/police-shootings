@@ -1,0 +1,16 @@
+{
+  "id": 1458,
+  "name": "Travis Wood",
+  "date": "2016-04-12",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 20,
+  "gender": "M",
+  "race": "W",
+  "city": "Noma",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

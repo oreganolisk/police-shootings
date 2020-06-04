@@ -1,0 +1,16 @@
+{
+  "id": 4307,
+  "name": "Jacob Mohow",
+  "date": "2018-12-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

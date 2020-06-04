@@ -1,0 +1,16 @@
+{
+  "id": 2012,
+  "name": "Dennis Kirk",
+  "date": "2016-11-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 64,
+  "gender": "M",
+  "race": "",
+  "city": "Chambersburg",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

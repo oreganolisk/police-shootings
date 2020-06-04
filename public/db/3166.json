@@ -1,0 +1,16 @@
+{
+  "id": 3166,
+  "name": "Steve Steenhard",
+  "date": "2017-11-24",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Yuma",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

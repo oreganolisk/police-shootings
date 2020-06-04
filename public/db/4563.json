@@ -1,0 +1,16 @@
+{
+  "id": 4563,
+  "name": "Charles Ballard",
+  "date": "2019-03-13",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Ashland",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

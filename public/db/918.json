@@ -1,0 +1,16 @@
+{
+  "id": 918,
+  "name": "Leslie Portis",
+  "date": "2015-10-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "B",
+  "city": "Monroeville",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

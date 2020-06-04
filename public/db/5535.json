@@ -1,0 +1,16 @@
+{
+  "id": 5535,
+  "name": "William Bluestone",
+  "date": "2020-02-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "H",
+  "city": "Silverton",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 352,
+  "name": "Joshua Omar Garcia",
+  "date": "2015-01-26",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 24,
+  "gender": "M",
+  "race": "H",
+  "city": "Tahoka",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

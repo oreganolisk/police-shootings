@@ -1,0 +1,16 @@
+{
+  "id": 4666,
+  "name": "Theresa Medina-Thomas",
+  "date": "2019-04-11",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 29,
+  "gender": "F",
+  "race": "H",
+  "city": "Ahwatukee",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

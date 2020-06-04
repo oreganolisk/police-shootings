@@ -1,0 +1,16 @@
+{
+  "id": 3673,
+  "name": "David P. Wolosin",
+  "date": "2018-05-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Casper",
+  "state": "WY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

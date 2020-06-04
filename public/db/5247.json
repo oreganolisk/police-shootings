@@ -1,0 +1,16 @@
+{
+  "id": 5247,
+  "name": "Thomas Cole Thompson",
+  "date": "2019-12-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "M",
+  "race": "W",
+  "city": "Ada",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

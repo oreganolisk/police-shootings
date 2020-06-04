@@ -1,0 +1,16 @@
+{
+  "id": 4811,
+  "name": "Michael Spencer",
+  "date": "2019-06-23",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Springfield",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

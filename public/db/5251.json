@@ -1,0 +1,16 @@
+{
+  "id": 5251,
+  "name": "Koben S. Henriksen",
+  "date": "2019-12-08",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Portland",
+  "state": "OR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

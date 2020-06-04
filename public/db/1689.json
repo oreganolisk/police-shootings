@@ -1,0 +1,16 @@
+{
+  "id": 1689,
+  "name": "Jonathan Lane Justiss",
+  "date": "2016-07-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 50,
+  "gender": "M",
+  "race": "W",
+  "city": "Bristol",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

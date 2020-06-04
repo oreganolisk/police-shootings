@@ -1,0 +1,16 @@
+{
+  "id": 1773,
+  "name": "James Eugene Burgess",
+  "date": "2016-08-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 64,
+  "gender": "M",
+  "race": "W",
+  "city": "Wilkesboro",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

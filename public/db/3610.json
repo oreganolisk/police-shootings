@@ -1,0 +1,16 @@
+{
+  "id": 3610,
+  "name": "Rumondale Jones",
+  "date": "2018-04-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Helena-West Helena",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

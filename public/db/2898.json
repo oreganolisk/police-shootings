@@ -1,0 +1,16 @@
+{
+  "id": 2898,
+  "name": "Scott Mayfield",
+  "date": "2017-08-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Orange",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

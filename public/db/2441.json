@@ -1,0 +1,16 @@
+{
+  "id": 2441,
+  "name": "Clifton Knickmeyer",
+  "date": "2017-03-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Affton",
+  "state": "MO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4190,
+  "name": "GD Hendrix",
+  "date": "2018-11-15",
+  "manner_of_death": "shot",
+  "armed": "metal pipe",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Paradise",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

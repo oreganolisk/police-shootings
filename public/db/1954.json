@@ -1,0 +1,16 @@
+{
+  "id": 1954,
+  "name": "Luis Michael Hoff",
+  "date": "2016-10-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

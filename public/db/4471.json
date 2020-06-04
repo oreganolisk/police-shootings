@@ -1,0 +1,16 @@
+{
+  "id": 4471,
+  "name": "Bradley Blackshire",
+  "date": "2019-02-22",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 30,
+  "gender": "M",
+  "race": "B",
+  "city": "Little Rock",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

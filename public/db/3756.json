@@ -1,0 +1,16 @@
+{
+  "id": 3756,
+  "name": "Leslie Yolanda Salazar",
+  "date": "2018-06-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 20,
+  "gender": "F",
+  "race": "W",
+  "city": "Austin",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "True"
+}

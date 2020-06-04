@@ -1,0 +1,16 @@
+{
+  "id": 4054,
+  "name": "Ivan Pena",
+  "date": "2018-09-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "H",
+  "city": "East Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

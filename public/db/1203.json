@@ -1,0 +1,16 @@
+{
+  "id": 1203,
+  "name": "Robert \"LaVoy\" Finicum",
+  "date": "2016-01-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 55,
+  "gender": "M",
+  "race": "W",
+  "city": "Burns",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 373,
+  "name": "Rodolfo Velazquez",
+  "date": "2015-04-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "H",
+  "city": "Shafter",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

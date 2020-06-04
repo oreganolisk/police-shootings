@@ -1,0 +1,16 @@
+{
+  "id": 3568,
+  "name": "Timothy Breckenridge",
+  "date": "2018-03-30",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 42,
+  "gender": "M",
+  "race": "W",
+  "city": "Atwater",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 561,
+  "name": "Kenneth Lanphier",
+  "date": "2015-06-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Hobbs",
+  "state": "NM",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

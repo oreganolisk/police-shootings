@@ -1,0 +1,16 @@
+{
+  "id": 3980,
+  "name": "Bryan C. Bayne",
+  "date": "2018-08-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 42,
+  "gender": "M",
+  "race": "",
+  "city": "Spokane",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

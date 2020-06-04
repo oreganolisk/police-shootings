@@ -1,0 +1,16 @@
+{
+  "id": 5857,
+  "name": "Jason Jesse Gallegos",
+  "date": "2020-05-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "",
+  "city": "Lansing",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

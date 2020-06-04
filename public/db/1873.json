@@ -1,0 +1,16 @@
+{
+  "id": 1873,
+  "name": "Jose Torres",
+  "date": "2016-09-08",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Delhi",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

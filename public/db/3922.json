@@ -1,0 +1,16 @@
+{
+  "id": 3922,
+  "name": "John Randolph",
+  "date": "2018-08-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Delray Beach",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5527,
+  "name": "Bobby Gibbs",
+  "date": "2020-02-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "B",
+  "city": "Forrest City",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

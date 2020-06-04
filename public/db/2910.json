@@ -1,0 +1,16 @@
+{
+  "id": 2910,
+  "name": "Brandy Caldwell",
+  "date": "2017-08-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "F",
+  "race": "W",
+  "city": "Watagua",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1795,
+  "name": "Kenney Watkins",
+  "date": "2016-08-16",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

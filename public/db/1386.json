@@ -1,0 +1,16 @@
+{
+  "id": 1386,
+  "name": "Michael Mallet",
+  "date": "2016-03-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "",
+  "city": "Byron",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

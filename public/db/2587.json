@@ -1,0 +1,16 @@
+{
+  "id": 2587,
+  "name": "Tristan Long",
+  "date": "2017-05-16",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Tempe",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

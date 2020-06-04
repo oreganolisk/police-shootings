@@ -1,0 +1,16 @@
+{
+  "id": 1512,
+  "name": "Matthew Tucker",
+  "date": "2016-05-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 18,
+  "gender": "M",
+  "race": "",
+  "city": "Temecula",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

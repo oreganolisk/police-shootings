@@ -1,0 +1,16 @@
+{
+  "id": 3221,
+  "name": "Todd A. Stone",
+  "date": "2017-12-18",
+  "manner_of_death": "shot",
+  "armed": "hatchet",
+  "age": 48,
+  "gender": "M",
+  "race": "B",
+  "city": "Oak Park",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

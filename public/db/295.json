@@ -1,0 +1,16 @@
+{
+  "id": 295,
+  "name": "Jamison  Childress",
+  "date": "2015-03-19",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 20,
+  "gender": "M",
+  "race": "W",
+  "city": "Sumas",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

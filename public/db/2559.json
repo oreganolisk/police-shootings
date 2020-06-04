@@ -1,0 +1,16 @@
+{
+  "id": 2559,
+  "name": "Jose Hernandez-Rossy",
+  "date": "2017-05-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Buffalo",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

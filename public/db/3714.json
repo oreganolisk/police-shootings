@@ -1,0 +1,16 @@
+{
+  "id": 3714,
+  "name": "Homer Woodroe Tyler",
+  "date": "2018-05-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Silsbee",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4851,
+  "name": "Johnny W. Dellinger",
+  "date": "2019-07-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Timberville",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

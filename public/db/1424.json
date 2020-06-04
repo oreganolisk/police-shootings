@@ -1,0 +1,16 @@
+{
+  "id": 1424,
+  "name": "Kimani Johnson",
+  "date": "2016-03-31",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Baltimore",
+  "state": "MD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

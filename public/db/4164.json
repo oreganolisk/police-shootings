@@ -1,0 +1,16 @@
+{
+  "id": 4164,
+  "name": "Ryan Millsap",
+  "date": "2018-11-04",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 19,
+  "gender": "M",
+  "race": "W",
+  "city": "Clear Creek Canyon",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

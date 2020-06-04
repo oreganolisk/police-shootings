@@ -1,0 +1,16 @@
+{
+  "id": 4588,
+  "name": "Abraham Arellano",
+  "date": "2019-03-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Thurmont",
+  "state": "MD",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 615,
+  "name": "Jose Graciano Lopez",
+  "date": "2015-07-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Edinburg",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

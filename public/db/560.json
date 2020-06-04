@@ -1,0 +1,16 @@
+{
+  "id": 560,
+  "name": "Trepierre Hummons",
+  "date": "2015-06-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 21,
+  "gender": "M",
+  "race": "B",
+  "city": "Cincinnati",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

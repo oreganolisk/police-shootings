@@ -1,0 +1,16 @@
+{
+  "id": 3406,
+  "name": "Jason Seavers",
+  "date": "2018-02-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "",
+  "city": "Seattle",
+  "state": "WA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

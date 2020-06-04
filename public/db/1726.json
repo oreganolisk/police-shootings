@@ -1,0 +1,16 @@
+{
+  "id": 1726,
+  "name": "Austin Jerry Lee Howard",
+  "date": "2016-07-23",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 49,
+  "gender": "M",
+  "race": "B",
+  "city": "Milwaukee",
+  "state": "WI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4555,
+  "name": "Sokhom Hon",
+  "date": "2019-03-10",
+  "manner_of_death": "shot",
+  "armed": "unknown weapon",
+  "age": 31,
+  "gender": "M",
+  "race": "A",
+  "city": "San Bernardino",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4835,
+  "name": "Aaron Hong",
+  "date": "2019-07-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "M",
+  "race": "A",
+  "city": "Athens",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

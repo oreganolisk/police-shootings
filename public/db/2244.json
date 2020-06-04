@@ -1,0 +1,16 @@
+{
+  "id": 2244,
+  "name": "Christopher Garza",
+  "date": "2017-01-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "Fritch",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

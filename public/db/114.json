@@ -1,0 +1,16 @@
+{
+  "id": 114,
+  "name": "David Kassick",
+  "date": "2015-02-02",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Hummelstown",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5211,
+  "name": "Steven Forrest Saucier",
+  "date": "2019-11-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Gaines Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

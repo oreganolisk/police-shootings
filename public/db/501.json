@@ -1,0 +1,16 @@
+{
+  "id": 501,
+  "name": "Alexander Tirado Rivera",
+  "date": "2015-05-30",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Nashville",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

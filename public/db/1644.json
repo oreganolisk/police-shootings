@@ -1,0 +1,16 @@
+{
+  "id": 1644,
+  "name": "Isaiah Core",
+  "date": "2016-06-22",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Birmingham",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

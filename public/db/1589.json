@@ -1,0 +1,16 @@
+{
+  "id": 1589,
+  "name": "Rodney Rodriguez Smith",
+  "date": "2016-06-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 18,
+  "gender": "M",
+  "race": "B",
+  "city": "Charlotte",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

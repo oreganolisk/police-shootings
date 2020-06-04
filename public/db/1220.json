@@ -1,0 +1,16 @@
+{
+  "id": 1220,
+  "name": "Bruce Kelley",
+  "date": "2016-01-31",
+  "manner_of_death": "shot and Tasered",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "B",
+  "city": "Wilkinsburg",
+  "state": "PA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5483,
+  "name": "Christopher Terrell Willis",
+  "date": "2019-11-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "Des Plaines",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

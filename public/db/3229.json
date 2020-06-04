@@ -1,0 +1,16 @@
+{
+  "id": 3229,
+  "name": "Kameron Prescott",
+  "date": "2017-12-21",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 6,
+  "gender": "M",
+  "race": "W",
+  "city": "Schertz",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

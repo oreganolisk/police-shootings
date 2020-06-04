@@ -1,0 +1,16 @@
+{
+  "id": 3811,
+  "name": "James Palmquist",
+  "date": "2018-06-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Dade City",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

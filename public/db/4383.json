@@ -1,0 +1,16 @@
+{
+  "id": 4383,
+  "name": "Stanley Stepanski III",
+  "date": "2019-01-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Roseville",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

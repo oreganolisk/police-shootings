@@ -1,0 +1,16 @@
+{
+  "id": 2228,
+  "name": "Stoney McJunkin",
+  "date": "2017-01-18",
+  "manner_of_death": "shot",
+  "armed": "metal pipe",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Watts",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

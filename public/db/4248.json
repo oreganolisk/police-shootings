@@ -1,0 +1,16 @@
+{
+  "id": 4248,
+  "name": "Billy Ray Riggs",
+  "date": "2018-02-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 38,
+  "gender": "M",
+  "race": "",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

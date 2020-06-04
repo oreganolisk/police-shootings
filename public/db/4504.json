@@ -1,0 +1,16 @@
+{
+  "id": 4504,
+  "name": "Brandon Lovell Webster",
+  "date": "2019-01-01",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Shallotte",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

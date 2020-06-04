@@ -1,0 +1,16 @@
+{
+  "id": 2323,
+  "name": "William A. Young",
+  "date": "2017-02-11",
+  "manner_of_death": "shot",
+  "armed": "metal stick",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Louisville",
+  "state": "KY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

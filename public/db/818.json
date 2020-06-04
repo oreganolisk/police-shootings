@@ -1,0 +1,16 @@
+{
+  "id": 818,
+  "name": "Bruce Santino",
+  "date": "2015-09-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "",
+  "city": "Fontana",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

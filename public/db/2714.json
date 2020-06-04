@@ -1,0 +1,16 @@
+{
+  "id": 2714,
+  "name": "Daezion Turner",
+  "date": "2017-04-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 15,
+  "gender": "M",
+  "race": "B",
+  "city": "Killeen",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

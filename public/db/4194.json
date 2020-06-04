@@ -1,0 +1,16 @@
+{
+  "id": 4194,
+  "name": "Billy G. Heeter",
+  "date": "2018-11-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "Franklinton",
+  "state": "OH",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4754,
+  "name": "TK TK",
+  "date": "2019-05-30",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": "",
+  "gender": "F",
+  "race": "",
+  "city": "Ontario",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

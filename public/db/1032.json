@@ -1,0 +1,16 @@
+{
+  "id": 1032,
+  "name": "Thomas Joseph Mceniry",
+  "date": "2015-11-24",
+  "manner_of_death": "shot and Tasered",
+  "armed": "toy weapon",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Las Vegas",
+  "state": "NV",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

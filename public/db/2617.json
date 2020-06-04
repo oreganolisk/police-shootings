@@ -1,0 +1,16 @@
+{
+  "id": 2617,
+  "name": "Ian Thomas Little",
+  "date": "2017-05-09",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Brighton Township",
+  "state": "MI",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

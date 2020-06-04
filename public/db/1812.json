@@ -1,0 +1,16 @@
+{
+  "id": 1812,
+  "name": "Bobby Lyn Buck",
+  "date": "2016-08-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Myra",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

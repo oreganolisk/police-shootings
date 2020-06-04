@@ -1,0 +1,16 @@
+{
+  "id": 3831,
+  "name": "Craig Yelton",
+  "date": "2018-07-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

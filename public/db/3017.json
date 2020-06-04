@@ -1,0 +1,16 @@
+{
+  "id": 3017,
+  "name": "Ernesto Padron",
+  "date": "2017-10-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "H",
+  "city": "Miami",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 402,
+  "name": "Mark Cecil Hawkins",
+  "date": "2015-04-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 49,
+  "gender": "M",
+  "race": "W",
+  "city": "Eugene",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

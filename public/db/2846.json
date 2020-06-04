@@ -1,0 +1,16 @@
+{
+  "id": 2846,
+  "name": "Keith Burkholder",
+  "date": "2017-08-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 57,
+  "gender": "M",
+  "race": "W",
+  "city": "Lima",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

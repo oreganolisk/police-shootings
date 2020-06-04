@@ -1,0 +1,16 @@
+{
+  "id": 658,
+  "name": "Joshua LeBoeuf",
+  "date": "2015-07-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 35,
+  "gender": "M",
+  "race": "W",
+  "city": "Winnie",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3177,
+  "name": "Mario Guevara",
+  "date": "2017-12-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Colton",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

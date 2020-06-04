@@ -1,0 +1,16 @@
+{
+  "id": 5594,
+  "name": "Dorgel Cisnero-Mesa",
+  "date": "2020-02-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "H",
+  "city": "Jacksonville",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

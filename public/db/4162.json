@@ -1,0 +1,16 @@
+{
+  "id": 4162,
+  "name": "Salvador Morales",
+  "date": "2018-10-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Pittsburg",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "True"
+}

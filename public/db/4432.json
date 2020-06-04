@@ -1,0 +1,16 @@
+{
+  "id": 4432,
+  "name": "Henry Harold Russell",
+  "date": "2019-02-02",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

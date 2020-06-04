@@ -1,0 +1,16 @@
+{
+  "id": 2231,
+  "name": "Genevive Dawes",
+  "date": "2017-01-18",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 21,
+  "gender": "F",
+  "race": "W",
+  "city": "Dallas",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

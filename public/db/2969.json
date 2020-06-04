@@ -1,0 +1,16 @@
+{
+  "id": 2969,
+  "name": "Haraesheo Rice",
+  "date": "2017-09-20",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Huntsville",
+  "state": "AL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

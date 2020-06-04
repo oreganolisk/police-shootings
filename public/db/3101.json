@@ -1,0 +1,16 @@
+{
+  "id": 3101,
+  "name": "Jorge Hidalgo",
+  "date": "2017-11-03",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 43,
+  "gender": "M",
+  "race": "",
+  "city": "El Paso",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "",
+  "body_camera": "False"
+}

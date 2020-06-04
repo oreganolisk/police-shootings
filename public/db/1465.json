@@ -1,0 +1,16 @@
+{
+  "id": 1465,
+  "name": "Clemente Najera",
+  "date": "2016-04-15",
+  "manner_of_death": "shot",
+  "armed": "baseball bat",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Lake Elsinore",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

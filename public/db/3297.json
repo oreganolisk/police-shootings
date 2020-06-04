@@ -1,0 +1,16 @@
+{
+  "id": 3297,
+  "name": "Eugene Loftis",
+  "date": "2018-01-08",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 25,
+  "gender": "M",
+  "race": "W",
+  "city": "Church Hill",
+  "state": "TN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

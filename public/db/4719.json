@@ -1,0 +1,16 @@
+{
+  "id": 4719,
+  "name": "Pamela Shantay Turner",
+  "date": "2019-05-13",
+  "manner_of_death": "shot",
+  "armed": "Taser",
+  "age": 45,
+  "gender": "F",
+  "race": "B",
+  "city": "Baytown",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

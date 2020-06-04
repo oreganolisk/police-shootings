@@ -1,0 +1,16 @@
+{
+  "id": 1178,
+  "name": "Jordan Szymanski",
+  "date": "2016-01-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Tucson",
+  "state": "AZ",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

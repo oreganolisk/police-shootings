@@ -1,0 +1,16 @@
+{
+  "id": 820,
+  "name": "Austin Wilburly  Reid",
+  "date": "2015-09-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Lodi",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

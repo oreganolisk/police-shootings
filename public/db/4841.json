@@ -1,0 +1,16 @@
+{
+  "id": 4841,
+  "name": "Isaiah Robinson",
+  "date": "2019-07-02",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "B",
+  "city": "Elyria",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

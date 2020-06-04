@@ -1,0 +1,16 @@
+{
+  "id": 2674,
+  "name": "Joseph Paul Hogan",
+  "date": "2017-06-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Rapid City",
+  "state": "SD",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

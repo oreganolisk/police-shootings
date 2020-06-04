@@ -1,0 +1,16 @@
+{
+  "id": 564,
+  "name": "Oleg Tcherniak",
+  "date": "2015-06-18",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 58,
+  "gender": "M",
+  "race": "W",
+  "city": "Coney Island",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

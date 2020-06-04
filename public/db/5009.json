@@ -1,0 +1,16 @@
+{
+  "id": 5009,
+  "name": "Fares J. Al-Samno",
+  "date": "2019-09-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Coeur d'Alene",
+  "state": "ID",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

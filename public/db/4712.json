@@ -1,0 +1,16 @@
+{
+  "id": 4712,
+  "name": "Timothy Manuel",
+  "date": "2019-05-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Hiltons",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

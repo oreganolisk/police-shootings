@@ -1,0 +1,16 @@
+{
+  "id": 3490,
+  "name": "Kenneth Scott Townley",
+  "date": "2018-03-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Blackman Township",
+  "state": "MI",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

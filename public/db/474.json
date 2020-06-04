@@ -1,0 +1,16 @@
+{
+  "id": 474,
+  "name": "Eric Robinson",
+  "date": "2015-05-23",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Eagar",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

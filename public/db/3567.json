@@ -1,0 +1,16 @@
+{
+  "id": 3567,
+  "name": "Jason Birt",
+  "date": "2018-03-31",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Guthrie",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

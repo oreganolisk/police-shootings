@@ -1,0 +1,16 @@
+{
+  "id": 1471,
+  "name": "Storm Allen Smith",
+  "date": "2016-04-15",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Muncie",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

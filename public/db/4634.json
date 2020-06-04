@@ -1,0 +1,16 @@
+{
+  "id": 4634,
+  "name": "Kawaski Trawick",
+  "date": "2019-04-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "B",
+  "city": "New York",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

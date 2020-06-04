@@ -1,0 +1,16 @@
+{
+  "id": 5584,
+  "name": "Ian Austin Wilson",
+  "date": "2020-03-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Mocksville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

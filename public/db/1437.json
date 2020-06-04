@@ -1,0 +1,16 @@
+{
+  "id": 1437,
+  "name": "Peter J. Doherty",
+  "date": "2016-04-05",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 52,
+  "gender": "M",
+  "race": "W",
+  "city": "West Springfield",
+  "state": "MA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

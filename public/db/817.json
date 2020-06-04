@@ -1,0 +1,16 @@
+{
+  "id": 817,
+  "name": "Tian Ma",
+  "date": "2015-09-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "A",
+  "city": "Potsdam",
+  "state": "NY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

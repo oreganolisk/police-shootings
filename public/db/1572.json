@@ -1,0 +1,16 @@
+{
+  "id": 1572,
+  "name": "Fernando Castro",
+  "date": "2016-05-26",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 19,
+  "gender": "M",
+  "race": "H",
+  "city": "Solvang",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

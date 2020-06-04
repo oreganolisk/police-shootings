@@ -1,0 +1,16 @@
+{
+  "id": 1808,
+  "name": "Kyle Zimbelman",
+  "date": "2016-08-19",
+  "manner_of_death": "shot",
+  "armed": "undetermined",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Reno",
+  "state": "NV",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Car",
+  "body_camera": "False"
+}

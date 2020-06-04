@@ -1,0 +1,16 @@
+{
+  "id": 4842,
+  "name": "Thomas Graham",
+  "date": "2019-07-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 61,
+  "gender": "M",
+  "race": "W",
+  "city": "Jacksonville",
+  "state": "AR",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

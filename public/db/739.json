@@ -1,0 +1,16 @@
+{
+  "id": 739,
+  "name": "Hector Rene Sorriano Gonzalez",
+  "date": "2015-08-14",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Boerne",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

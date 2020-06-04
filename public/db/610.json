@@ -1,0 +1,16 @@
+{
+  "id": 610,
+  "name": "John Leonard Berry",
+  "date": "2015-07-06",
+  "manner_of_death": "shot and Tasered",
+  "armed": "",
+  "age": 31,
+  "gender": "M",
+  "race": "W",
+  "city": "Lakewood",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

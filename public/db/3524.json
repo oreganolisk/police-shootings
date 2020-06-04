@@ -1,0 +1,16 @@
+{
+  "id": 3524,
+  "name": "Mark Allen Lunn",
+  "date": "2018-03-21",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Mannford",
+  "state": "OK",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

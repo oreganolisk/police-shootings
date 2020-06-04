@@ -1,0 +1,16 @@
+{
+  "id": 412,
+  "name": "Todd Jamal Dye",
+  "date": "2015-04-24",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 20,
+  "gender": "M",
+  "race": "B",
+  "city": "Trinidad",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "True"
+}

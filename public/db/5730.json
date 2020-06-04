@@ -1,0 +1,16 @@
+{
+  "id": 5730,
+  "name": "Derek T. Swanson",
+  "date": "2020-04-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "W",
+  "city": "Caddo Parish",
+  "state": "LA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

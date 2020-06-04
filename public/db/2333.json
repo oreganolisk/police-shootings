@@ -1,0 +1,16 @@
+{
+  "id": 2333,
+  "name": "Bryan Devin Carreno",
+  "date": "2017-02-12",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 26,
+  "gender": "M",
+  "race": "H",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

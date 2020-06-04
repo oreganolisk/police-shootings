@@ -1,0 +1,16 @@
+{
+  "id": 2583,
+  "name": "Buford Shane Whitson",
+  "date": "2017-05-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Johnson City",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1585,
+  "name": "Nicholas Berger",
+  "date": "2016-05-31",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Bend",
+  "state": "OR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4283,
+  "name": "Christopher Deandre Mitchell",
+  "date": "2018-12-09",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Torrance",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "undetermined",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

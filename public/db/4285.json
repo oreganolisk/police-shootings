@@ -1,0 +1,16 @@
+{
+  "id": 4285,
+  "name": "Shane Wentling",
+  "date": "2018-12-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Noble County",
+  "state": "OK",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

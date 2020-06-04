@@ -1,0 +1,16 @@
+{
+  "id": 3360,
+  "name": "Kirsten Kloppe",
+  "date": "2018-01-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "F",
+  "race": "W",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

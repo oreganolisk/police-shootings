@@ -1,0 +1,16 @@
+{
+  "id": 5426,
+  "name": "Joshua James Brown",
+  "date": "2020-01-25",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "B",
+  "city": "Columbus",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

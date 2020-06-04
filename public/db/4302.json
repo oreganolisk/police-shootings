@@ -1,0 +1,16 @@
+{
+  "id": 4302,
+  "name": "Angel Viola Decarlo",
+  "date": "2018-12-18",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 31,
+  "gender": "F",
+  "race": "B",
+  "city": "Hopewell",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Foot",
+  "body_camera": "False"
+}

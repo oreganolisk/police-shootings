@@ -1,0 +1,16 @@
+{
+  "id": 1612,
+  "name": "Lyndarius Cortez Witherspoon",
+  "date": "2016-06-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 27,
+  "gender": "M",
+  "race": "B",
+  "city": "Tupelo",
+  "state": "MS",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

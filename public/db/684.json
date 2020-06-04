@@ -1,0 +1,16 @@
+{
+  "id": 684,
+  "name": "Timothy Johnson",
+  "date": "2015-07-28",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 41,
+  "gender": "M",
+  "race": "",
+  "city": "Manila",
+  "state": "AR",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

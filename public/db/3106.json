@@ -1,0 +1,16 @@
+{
+  "id": 3106,
+  "name": "Talathia Brooks",
+  "date": "2017-11-07",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 32,
+  "gender": "F",
+  "race": "W",
+  "city": "Marietta",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

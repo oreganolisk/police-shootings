@@ -1,0 +1,16 @@
+{
+  "id": 1109,
+  "name": "Bobby Daniels",
+  "date": "2015-12-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "B",
+  "city": "Douglasville",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

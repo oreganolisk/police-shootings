@@ -1,0 +1,16 @@
+{
+  "id": 5176,
+  "name": "Guy Thomas Barnard",
+  "date": "2019-11-07",
+  "manner_of_death": "shot",
+  "armed": "BB gun",
+  "age": 26,
+  "gender": "M",
+  "race": "W",
+  "city": "Wadsworth",
+  "state": "OH",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2096,
+  "name": "Dylan M. Dalzell",
+  "date": "2016-12-02",
+  "manner_of_death": "shot",
+  "armed": "crowbar",
+  "age": 22,
+  "gender": "M",
+  "race": "W",
+  "city": "Simpsonsville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

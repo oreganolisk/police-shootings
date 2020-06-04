@@ -1,0 +1,16 @@
+{
+  "id": 1366,
+  "name": "Joseph Harris",
+  "date": "2016-03-15",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Russellville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3314,
+  "name": "Jason D. Whittemore",
+  "date": "2018-01-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 39,
+  "gender": "M",
+  "race": "W",
+  "city": "Scottsville",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

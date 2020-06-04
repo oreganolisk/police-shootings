@@ -1,0 +1,16 @@
+{
+  "id": 4008,
+  "name": "Steve L. Anderson",
+  "date": "2018-09-03",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Cheney",
+  "state": "WA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

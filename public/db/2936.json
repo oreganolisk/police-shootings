@@ -1,0 +1,16 @@
+{
+  "id": 2936,
+  "name": "Joseph Charles Cook",
+  "date": "2017-09-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 76,
+  "gender": "M",
+  "race": "W",
+  "city": "Huntersville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

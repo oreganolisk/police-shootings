@@ -1,0 +1,16 @@
+{
+  "id": 472,
+  "name": "Michael Lowery",
+  "date": "2015-05-22",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Somerset",
+  "state": "PA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

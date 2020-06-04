@@ -1,0 +1,16 @@
+{
+  "id": 5473,
+  "name": "Keith Carter",
+  "date": "2019-08-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 52,
+  "gender": "M",
+  "race": "B",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

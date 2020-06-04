@@ -1,0 +1,16 @@
+{
+  "id": 3565,
+  "name": "Brian Bellamy",
+  "date": "2018-04-01",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Greenville",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

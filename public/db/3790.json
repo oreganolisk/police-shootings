@@ -1,0 +1,16 @@
+{
+  "id": 3790,
+  "name": "Abe Martinez",
+  "date": "2018-06-17",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 44,
+  "gender": "M",
+  "race": "H",
+  "city": "South Salt Lake",
+  "state": "UT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5067,
+  "name": "Kevin Dudenhefer",
+  "date": "2019-09-25",
+  "manner_of_death": "shot and Tasered",
+  "armed": "gun",
+  "age": 32,
+  "gender": "M",
+  "race": "W",
+  "city": "Lacombe",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

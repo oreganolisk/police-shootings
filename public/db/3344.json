@@ -1,0 +1,16 @@
+{
+  "id": 3344,
+  "name": "Corey Mobley",
+  "date": "2018-01-23",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 38,
+  "gender": "M",
+  "race": "B",
+  "city": "Bradenton",
+  "state": "FL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "False"
+}

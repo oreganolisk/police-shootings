@@ -1,0 +1,16 @@
+{
+  "id": 5372,
+  "name": "Randy Glen Goodale",
+  "date": "2020-01-13",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "San Antonio",
+  "state": "TX",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

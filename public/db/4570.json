@@ -1,0 +1,16 @@
+{
+  "id": 4570,
+  "name": "Henry Wayne Rivera",
+  "date": "2019-03-13",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 30,
+  "gender": "M",
+  "race": "H",
+  "city": "Phoenix",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Other",
+  "body_camera": "False"
+}

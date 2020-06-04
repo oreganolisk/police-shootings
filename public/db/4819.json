@@ -1,0 +1,16 @@
+{
+  "id": 4819,
+  "name": "Matthew Christian Smith",
+  "date": "2019-06-27",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 33,
+  "gender": "M",
+  "race": "W",
+  "city": "Omaha",
+  "state": "NE",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

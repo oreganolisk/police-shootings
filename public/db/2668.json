@@ -1,0 +1,16 @@
+{
+  "id": 2668,
+  "name": "Michael Morris",
+  "date": "2017-06-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 54,
+  "gender": "M",
+  "race": "W",
+  "city": "Somerville",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

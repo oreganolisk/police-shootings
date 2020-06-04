@@ -1,0 +1,16 @@
+{
+  "id": 382,
+  "name": "Thaddeus McCarroll",
+  "date": "2015-04-17",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "M",
+  "race": "B",
+  "city": "Jennings",
+  "state": "MO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

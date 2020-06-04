@@ -1,0 +1,16 @@
+{
+  "id": 1999,
+  "name": "Terrence Coleman",
+  "date": "2016-10-30",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 31,
+  "gender": "M",
+  "race": "B",
+  "city": "Boston",
+  "state": "MA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

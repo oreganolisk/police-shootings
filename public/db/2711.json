@@ -1,0 +1,16 @@
+{
+  "id": 2711,
+  "name": "Jose Olivares",
+  "date": "2017-02-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 43,
+  "gender": "M",
+  "race": "H",
+  "city": "Houma",
+  "state": "LA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

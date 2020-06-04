@@ -1,0 +1,16 @@
+{
+  "id": 3834,
+  "name": "Abraham Noe Flores",
+  "date": "2018-07-04",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Red Bluff",
+  "state": "CA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

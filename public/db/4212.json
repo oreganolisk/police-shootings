@@ -1,0 +1,16 @@
+{
+  "id": 4212,
+  "name": "Eugene Benjamin Weathers",
+  "date": "2018-11-21",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 48,
+  "gender": "M",
+  "race": "B",
+  "city": "Talladega",
+  "state": "AL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2215,
+  "name": "Jose A. Fernandez-Ventura",
+  "date": "2017-01-11",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 38,
+  "gender": "M",
+  "race": "H",
+  "city": "Camden",
+  "state": "NJ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

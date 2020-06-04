@@ -1,0 +1,16 @@
+{
+  "id": 3822,
+  "name": "Emmanuel Bitsuie",
+  "date": "2018-07-04",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "N",
+  "city": "Pueblo",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

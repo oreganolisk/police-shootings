@@ -1,0 +1,16 @@
+{
+  "id": 4152,
+  "name": "Henry Gregory Stroud",
+  "date": "2018-11-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 36,
+  "gender": "M",
+  "race": "W",
+  "city": "Cocke County",
+  "state": "TN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

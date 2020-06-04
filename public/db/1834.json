@@ -1,0 +1,16 @@
+{
+  "id": 1834,
+  "name": "Melvin Faison",
+  "date": "2016-07-29",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 59,
+  "gender": "M",
+  "race": "W",
+  "city": "Pleasant Hill",
+  "state": "NC",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

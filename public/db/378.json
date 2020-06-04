@@ -1,0 +1,16 @@
+{
+  "id": 378,
+  "name": "Michael Foster",
+  "date": "2015-04-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 40,
+  "gender": "M",
+  "race": "W",
+  "city": "Wilmore",
+  "state": "KY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

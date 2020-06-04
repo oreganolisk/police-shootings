@@ -1,0 +1,16 @@
+{
+  "id": 2050,
+  "name": "Jose George Anthony Franco",
+  "date": "2016-11-16",
+  "manner_of_death": "shot",
+  "armed": "machete",
+  "age": 37,
+  "gender": "M",
+  "race": "H",
+  "city": "Whittier",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

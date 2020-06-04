@@ -1,0 +1,16 @@
+{
+  "id": 4289,
+  "name": "George Penev",
+  "date": "2018-12-10",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 23,
+  "gender": "M",
+  "race": "W",
+  "city": "Fredonia",
+  "state": "NY",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

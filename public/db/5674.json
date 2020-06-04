@@ -1,0 +1,16 @@
+{
+  "id": 5674,
+  "name": "Salvatore Friscia",
+  "date": "2020-04-16",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 48,
+  "gender": "M",
+  "race": "W",
+  "city": "Philipsburg",
+  "state": "MT",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3744,
+  "name": "John Corneil",
+  "date": "2018-05-04",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 54,
+  "gender": "M",
+  "race": "",
+  "city": "Oakfield",
+  "state": "ME",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

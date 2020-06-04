@@ -1,0 +1,16 @@
+{
+  "id": 2201,
+  "name": "Hector Navarrete",
+  "date": "2017-01-07",
+  "manner_of_death": "shot",
+  "armed": "",
+  "age": 31,
+  "gender": "M",
+  "race": "H",
+  "city": "Northglenn",
+  "state": "CO",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2249,
+  "name": "Daniel D. Rogers",
+  "date": "2017-01-23",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 27,
+  "gender": "M",
+  "race": "W",
+  "city": "Springfield",
+  "state": "IL",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

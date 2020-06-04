@@ -1,0 +1,16 @@
+{
+  "id": 1369,
+  "name": "Daniel J. Wooters",
+  "date": "2016-03-15",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 38,
+  "gender": "M",
+  "race": "W",
+  "city": "Evansville",
+  "state": "IN",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Car",
+  "body_camera": "True"
+}

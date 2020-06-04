@@ -1,0 +1,16 @@
+{
+  "id": 2707,
+  "name": "Bradley Joseph Szacaks",
+  "date": "2017-01-28",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "W",
+  "city": "Apache Junction",
+  "state": "AZ",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

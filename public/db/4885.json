@@ -1,0 +1,16 @@
+{
+  "id": 4885,
+  "name": "Brian H. Benfield",
+  "date": "2019-07-13",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 46,
+  "gender": "M",
+  "race": "W",
+  "city": "Coleman",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

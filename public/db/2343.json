@@ -1,0 +1,16 @@
+{
+  "id": 2343,
+  "name": "Chad Robertson",
+  "date": "2017-02-08",
+  "manner_of_death": "shot",
+  "armed": "unarmed",
+  "age": 25,
+  "gender": "M",
+  "race": "B",
+  "city": "Chicago",
+  "state": "IL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

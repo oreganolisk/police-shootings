@@ -1,0 +1,16 @@
+{
+  "id": 1103,
+  "name": "Trayvon Scruggs",
+  "date": "2015-12-19",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 24,
+  "gender": "M",
+  "race": "B",
+  "city": "Concord",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "",
+  "body_camera": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4636,
+  "name": "Clarence Leading Fighter",
+  "date": "2019-04-14",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 32,
+  "gender": "M",
+  "race": "N",
+  "city": "Rushville",
+  "state": "NE",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

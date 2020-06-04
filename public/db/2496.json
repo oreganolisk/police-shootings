@@ -1,0 +1,16 @@
+{
+  "id": 2496,
+  "name": "Zelalem Eshetu Ewnetu",
+  "date": "2017-04-12",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 28,
+  "gender": "M",
+  "race": "B",
+  "city": "Los Angeles",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

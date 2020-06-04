@@ -1,0 +1,16 @@
+{
+  "id": 3911,
+  "name": "Tramaine Marquese Poole",
+  "date": "2018-08-01",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 41,
+  "gender": "M",
+  "race": "B",
+  "city": "Sussex County",
+  "state": "VA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

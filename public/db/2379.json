@@ -1,0 +1,16 @@
+{
+  "id": 2379,
+  "name": "Jacob Taulbee",
+  "date": "2017-02-26",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 41,
+  "gender": "M",
+  "race": "W",
+  "city": "Englewood",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

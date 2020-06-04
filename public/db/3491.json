@@ -1,0 +1,16 @@
+{
+  "id": 3491,
+  "name": "Orion Godbout",
+  "date": "2018-03-10",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 45,
+  "gender": "M",
+  "race": "H",
+  "city": "Fontana",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

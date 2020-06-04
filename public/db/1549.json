@@ -1,0 +1,16 @@
+{
+  "id": 1549,
+  "name": "Jaime Ide",
+  "date": "2016-05-19",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 35,
+  "gender": "M",
+  "race": "H",
+  "city": "Citrus Heights",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "True"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1172,
+  "name": "Alfred Longoria",
+  "date": "2016-01-16",
+  "manner_of_death": "shot",
+  "armed": "toy weapon",
+  "age": 34,
+  "gender": "M",
+  "race": "H",
+  "city": "Hollywood Hills",
+  "state": "CA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "other",
+  "flee": "Foot",
+  "body_camera": "False"
+}

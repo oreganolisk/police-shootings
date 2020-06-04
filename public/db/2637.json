@@ -1,0 +1,16 @@
+{
+  "id": 2637,
+  "name": "Quentin Louis Case",
+  "date": "2017-06-05",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 34,
+  "gender": "M",
+  "race": "W",
+  "city": "Lakes Wales",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Other",
+  "body_camera": "False"
+}

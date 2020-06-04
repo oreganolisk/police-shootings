@@ -1,0 +1,16 @@
+{
+  "id": 433,
+  "name": "Joseph Roy",
+  "date": "2015-05-07",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 72,
+  "gender": "M",
+  "race": "",
+  "city": "Lawrenceville",
+  "state": "GA",
+  "signs_of_mental_illness": "True",
+  "threat_level": "other",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

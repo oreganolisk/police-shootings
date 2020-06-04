@@ -1,0 +1,16 @@
+{
+  "id": 4874,
+  "name": "Patrick Martinez",
+  "date": "2019-07-18",
+  "manner_of_death": "shot",
+  "armed": "knife",
+  "age": 53,
+  "gender": "M",
+  "race": "H",
+  "city": "Pueblo",
+  "state": "CO",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

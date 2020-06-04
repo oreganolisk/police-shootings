@@ -1,0 +1,16 @@
+{
+  "id": 2104,
+  "name": "Westley Daum",
+  "date": "2016-12-06",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 47,
+  "gender": "M",
+  "race": "W",
+  "city": "Orange City",
+  "state": "FL",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

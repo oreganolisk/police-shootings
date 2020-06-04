@@ -1,0 +1,16 @@
+{
+  "id": 2732,
+  "name": "John Donadio",
+  "date": "2017-07-03",
+  "manner_of_death": "shot",
+  "armed": "gun",
+  "age": 51,
+  "gender": "M",
+  "race": "W",
+  "city": "Fishers",
+  "state": "IN",
+  "signs_of_mental_illness": "True",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

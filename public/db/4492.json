@@ -1,0 +1,16 @@
+{
+  "id": 4492,
+  "name": "Sasha Ann Pishko",
+  "date": "2019-02-26",
+  "manner_of_death": "shot",
+  "armed": "vehicle",
+  "age": 20,
+  "gender": "F",
+  "race": "W",
+  "city": "McIntosh County",
+  "state": "GA",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Car",
+  "body_camera": "False"
+}

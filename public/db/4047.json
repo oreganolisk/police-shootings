@@ -1,0 +1,16 @@
+{
+  "id": 4047,
+  "name": "Ronald W. Leach",
+  "date": "2018-09-24",
+  "manner_of_death": "shot",
+  "armed": "box cutter",
+  "age": 29,
+  "gender": "M",
+  "race": "W",
+  "city": "Williamsburg",
+  "state": "KY",
+  "signs_of_mental_illness": "False",
+  "threat_level": "attack",
+  "flee": "Not fleeing",
+  "body_camera": "False"
+}

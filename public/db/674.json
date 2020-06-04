@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Not fleeing",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://cdn.abclocal.go.com/content/kabc/images/cms/889902_1280x720.jpg"
 }

@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Foot",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://i.guim.co.uk/img/media/6b8d2e8197fcd13bf1efa55dde76f7af6401fdfb/0_188_600_360/master/600.jpg?w=620&q=85&auto=format&sharp=10&s=cd2d313d4e808218cd2fff1e044bc896"
 }

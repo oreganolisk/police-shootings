@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Car",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://www.gannett-cdn.com/-mm-/8334042135d7f679c06190b7cdf533ced74a407e/c=15-0-465-600&r=537&c=0-0-534-712/local/-/media/2015/02/04/Phoenix/Phoenix/635586889030311552-muna.jpg"
 }

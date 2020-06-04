@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "other",
   "flee": "Car",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "https://cdn.officer.com/files/base/cygnus/ofcr/image/2018/01/640w/suspect.5a4b7e111991c.jpg"
 }

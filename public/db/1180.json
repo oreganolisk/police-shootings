@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Not fleeing",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://s3.amazonaws.com/tributecenteronline/Obituaries/735393/Thumbnail.jpg"
 }

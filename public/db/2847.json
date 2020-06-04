@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "other",
   "flee": "Not fleeing",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "https://s3.amazonaws.com/ogden_images/www.timesobserver.com/images/2017/08/11231420/obit-miller.jpg"
 }

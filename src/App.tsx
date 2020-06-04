@@ -50,6 +50,23 @@ interface IncidentData {
   youtube?: string;
 }
 
+function makePretty(data: IncidentData): IncidentData {
+  switch (data.gender) {
+    case "M": data.gender = "Male"; break;
+    case "F": data.gender = "Female"; break;
+    default: data.gender = "Unknown";
+  }
+  switch (data.race) {
+    case "W": data.race = "White"; break;
+    case "B": data.race = "Black"; break;
+    case "H": data.race = "Hispanic"; break;
+    case "N": data.race = "Native American"; break;
+    case "O": data.race = "Other"; break;
+    default: data.race = "Unknown";
+  }
+  return data;
+}
+
 function withDefaults(data: IncidentData): IncidentData {
   data.photo = data.photo || "https://i.insider.com/54806a086bb3f763254d6d6a?width=1100&format=jpeg&auto=webp";
   data.summary = data.summary ||
@@ -64,7 +81,7 @@ function withDefaults(data: IncidentData): IncidentData {
 
 async function loadIncidentData(id: number): Promise<IncidentData> {
     const data = await axios.get(`db/${id}.json`);
-    return withDefaults(data.data as IncidentData);
+    return makePretty(withDefaults(data.data as IncidentData));
 }
 
 interface AppProps {

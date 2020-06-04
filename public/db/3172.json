@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "other",
   "flee": "Foot",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://www.killedbypolice.net/victims/171101.jpg"
 }

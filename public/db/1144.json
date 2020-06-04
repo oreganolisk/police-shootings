@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Foot",
-  "body_camera": "True"
+  "body_camera": "True",
+  "photo": "https://pbs.twimg.com/media/CX-OJ25UAAA_jR8.jpg"
 }

@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Foot",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://wbtv.images.worldnow.com/images/9830236_G.jpg"
 }

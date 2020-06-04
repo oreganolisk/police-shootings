@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Foot",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "https://media.licdn.com/media/p/3/000/0d2/16d/29b38bd.jpg"
 }

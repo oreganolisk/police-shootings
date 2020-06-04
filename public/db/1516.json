@@ -12,5 +12,6 @@
   "signs_of_mental_illness": "False",
   "threat_level": "attack",
   "flee": "Car",
-  "body_camera": "False"
+  "body_camera": "False",
+  "photo": "http://image.nola.com/home/nola-media/width620/img/crime_impact/photo/20281679-mmmain.jpg"
 }

@@ -27,6 +27,8 @@ interface IncidentMetadata {
 interface IncidentData {
   name: string;
   age: number;
+  race: string;
+  armed: string;
   photo: string;
   summary: string;
   newslink: string;
@@ -88,7 +90,7 @@ class App extends React.Component<AppProps, AppState> {
   private renderHeader(): JSX.Element {
     return <header className="App-header">
       <p>
-        Fatally Shot by Police, USA 2015-2020
+        Killed by Police, USA 2015-2020
       </p>
       <div>
         <div className="App-header-filtergroup">
@@ -170,7 +172,7 @@ class App extends React.Component<AppProps, AppState> {
       return <main>
         <div className="App-main-content">
           <p className="App-main-name">{data.name}</p>
-          <p>{meta.armed ? "armed" : "unarmed"}, {meta.race}, {data.age}</p>
+          <p>{data.armed}, {data.race}, {data.age}</p>
           <img className="App-main-photo" src={data.photo}/>
           <p className="App-main-story">{data.summary}</p>
           <iframe

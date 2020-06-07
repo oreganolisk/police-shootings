@@ -2,30 +2,34 @@ import React from 'react';
 import axios from 'axios'
 import './App.css';
 
+// In each grouping of [race, armed] only this many records are backed by data
+// As the id order is shuffled this is a random sampling
+const RECORDS_LIMIT = 10;
+
 enum Race {
-  White = 0,
-  Black = 1,
-  Hispanic = 2,
-  Other = 3
+  White = 'White',
+  Black = 'Black',
+  Hispanic = 'Hispanic',
+  Other = 'Other'
 };
 const AllRaceVals: Race[] = [Race.White, Race.Black, Race.Hispanic, Race.Other];
 
 enum Armed {
-  Gun = 0,
-  Knife = 1,
-  Unarmed = 2,
-  Other = 3
+  Gun = 'Gun',
+  Knife = 'Knife',
+  Unarmed = 'Unarmed',
+  Other = 'Other'
 }
 const AllArmedVals: Armed[] = [Armed.Gun, Armed.Knife, Armed.Unarmed, Armed.Other];
 
-interface IncidentMetadata {
-  id: number,
+interface IncidentGroup {
+  armed: Armed,
   race: Race,
-  armed: Armed
+  n: number,
+  ids: number[]
 }
 
-const db: IncidentMetadata[] = (require('./db') as number[][])
-  .map(el => ({ id: el[0], armed: el[1], race: el[2]}));
+const db = require('./db') as IncidentGroup[];
 
 interface IncidentData {
   id: number,
@@ -88,7 +92,6 @@ interface AppProps {
 }
 
 interface AppState {
-  metadata: IncidentMetadata | null;
   data: IncidentData | null;
   filters: {
     race: Set<Race>,
@@ -100,7 +103,6 @@ class App extends React.Component<AppProps, AppState> {
   constructor(props: AppProps) {
     super(props);
     this.state = {
-      metadata: null,
       data: null,
       filters: {
         race: new Set(AllRaceVals),
@@ -193,17 +195,16 @@ class App extends React.Component<AppProps, AppState> {
   }
 
   private renderStats(): JSX.Element {
-    const total = db.length;
-    const matched = this.getFilteredFromDb().length;
+    var total = db.map(grp => grp.n).reduce((a, b) => a + b);
+    const matched = this.getGroupsFromDb().map(grp => grp.n).reduce((a, b) => a + b);
     return <p>
       {matched} out of {total}  people match your filters ({Math.floor(matched*100/total)}%)
     </p>
   }
 
   private renderMain(): JSX.Element {
-    const meta = this.state.metadata;
     const data = this.state.data;
-    if (meta && data) {
+    if (data) {
       return <main>
         <div className="App-main-content">
           <p className="App-main-name">{data.name}</p>
@@ -224,25 +225,33 @@ class App extends React.Component<AppProps, AppState> {
     }
   }
 
-  private getFilteredFromDb(): IncidentMetadata[] {
+  private getGroupsFromDb(): IncidentGroup[] {
     const f = this.state.filters;
-    const filtered = db.filter(row => 
-      (f.race.has(row.race)) && (f.armed.has(row.armed))
+    const filtered = db.filter(grp => 
+      (f.race.has(grp.race)) && (f.armed.has(grp.armed))
     );
     return filtered;
   }
 
-  private chooseFromFiltered(): IncidentMetadata | null {
-    const filtered = this.getFilteredFromDb();
+  private chooseFromFiltered(): number | null {
+    const filtered = this.getGroupsFromDb();
     if (filtered.length === 0) return null;
-    const i = Math.floor(Math.random() * filtered.length);
-    return filtered[i];
+    var n = filtered.map(grp => grp.n).reduce((a, b) => a + b);
+    var r = Math.floor(Math.random() * n);
+    for (var grp of filtered) {
+      if (r < grp.n) {
+        return grp.ids[Math.floor(grp.ids.length * Math.random())];
+      } else {
+        r -= grp.n;
+      }
+    }
+    throw "Should never be reached";
   }
 
   private async reload() {
-    const metadata = this.chooseFromFiltered()
-    const data = metadata ? await loadIncidentData(metadata.id) : null;
-    this.setState({ metadata, data });
+    const id = this.chooseFromFiltered()
+    const data = id ? await loadIncidentData(id) : null;
+    this.setState({ data });
   }
 }
 

@@ -2,10 +2,6 @@ import React from 'react';
 import axios from 'axios'
 import './App.css';
 
-// In each grouping of [race, armed] only this many records are backed by data
-// As the id order is shuffled this is a random sampling
-const RECORDS_LIMIT = 10;
-
 enum Race {
   White = 'White',
   Black = 'Black',
@@ -29,29 +25,27 @@ interface IncidentGroup {
   ids: number[]
 }
 
-const db = require('./db') as IncidentGroup[];
+// lightweight reference to all incidents, binned by [race] and [armed]
+interface IncidentLookupTable {
+  description: string; // e.g. "2019 shootings, wapo database, sampled"
+  groups: IncidentGroup[];
+}
 
+const db = require('./db.json') as IncidentLookupTable;
+
+// all info for a specific incident
 interface IncidentData {
-  id: number,
+  id: number;
   name: string;
   age: number;
   race: string;
+  gender: string;
   armed: string;
-  date: string,
-  manner_of_death: string,
-  gender: string,
-  city: string,
-  state: string,
-  signs_of_mental_illness: string,
-  threat_level: string,
-  flee: string,
-  body_camera: string
-
-  // Props that aren't in the data yet
-  photo?: string;
-  summary?: string;
-  newslink?: string;
-  youtube?: string;
+  location: string; // e.g. "Portland, OR"
+  date: string;
+  description: string;
+  photo: string; // url
+  video: string; // embed code
 }
 
 function makePretty(data: IncidentData): IncidentData {
@@ -71,21 +65,9 @@ function makePretty(data: IncidentData): IncidentData {
   return data;
 }
 
-function withDefaults(data: IncidentData): IncidentData {
-  data.photo = data.photo || "https://i.insider.com/54806a086bb3f763254d6d6a?width=1100&format=jpeg&auto=webp";
-  data.summary = data.summary ||
-    "On July 17, 2014, Eric Garner died in the New York City borough of Staten Island after Daniel Pantaleo, \
-    a New York City Police Department (NYPD) officer, put him in a chokehold while arresting him. Video footage \
-    of the incident generated widespread national attention and raised questions about the appropriate use of \
-    force by law enforcement.";
-  data.newslink = data.newslink || "https://en.wikipedia.org/wiki/Death_of_Eric_Garner";
-  data.youtube = data.youtube || "https://www.youtube.com/embed/_s8JklrBSlk";
-  return data;
-}
-
 async function loadIncidentData(id: number): Promise<IncidentData> {
     const data = await axios.get(`db/${id}.json`);
-    return makePretty(withDefaults(data.data as IncidentData));
+    return makePretty(data.data as IncidentData);
 }
 
 interface AppProps {
@@ -195,8 +177,8 @@ class App extends React.Component<AppProps, AppState> {
   }
 
   private renderStats(): JSX.Element {
-    var total = db.map(grp => grp.n).reduce((a, b) => a + b);
-    const matched = this.getGroupsFromDb().map(grp => grp.n).reduce((a, b) => a + b);
+    var total = db.groups.map(grp => grp.n).reduce((a, b) => a + b, 0);
+    const matched = this.getGroupsFromDb().map(grp => grp.n).reduce((a, b) => a + b, 0);
     return <p>
       {matched} out of {total}  people match your filters ({Math.floor(matched*100/total)}%)
     </p>
@@ -210,12 +192,12 @@ class App extends React.Component<AppProps, AppState> {
           <p className="App-main-name">{data.name}</p>
           <p>{data.armed}, {data.race}, {data.age}</p>
           <img className="App-main-photo" src={data.photo}/>
-          <p className="App-main-story">{data.summary}</p>
+          <p className="App-main-story">{data.description}</p>
           <iframe
             className="App-main-youtube"
             width="560"
             height="315"
-            src={data.youtube}
+            src={`https://www.youtube.com/embed/${data.video}`}
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           />
         </div>
@@ -227,7 +209,7 @@ class App extends React.Component<AppProps, AppState> {
 
   private getGroupsFromDb(): IncidentGroup[] {
     const f = this.state.filters;
-    const filtered = db.filter(grp => 
+    const filtered = db.groups.filter(grp => 
       (f.race.has(grp.race)) && (f.armed.has(grp.armed))
     );
     return filtered;

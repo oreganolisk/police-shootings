@@ -1,17 +1,13 @@
 {
   "id": 5061,
   "name": "David Page",
-  "date": "2019-09-29",
-  "manner_of_death": "shot",
-  "armed": "toy weapon",
   "age": 20,
-  "gender": "M",
   "race": "W",
-  "city": "Monument",
-  "state": "CO",
-  "signs_of_mental_illness": "True",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/DavidPage.jpg"
+  "gender": "M",
+  "armed": "toy weapon",
+  "location": "Monument",
+  "date": "9/29/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/DavidPage.jpg",
+  "video": "yq3Qi2AriTY",
+  "description": "In News 5's continuing coverage of the officer-involved shooting in Monument that left 20-year-old David Page dead, we spoke with his mother, Crystina Page, who told us the mental health system failed her son long before the shooting."
 }

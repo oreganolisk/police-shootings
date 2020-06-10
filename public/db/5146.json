@@ -1,16 +1,13 @@
 {
   "id": 5146,
   "name": "John Feggins",
-  "date": "2019-10-30",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 24,
-  "gender": "M",
   "race": "B",
-  "city": "Baltimore",
-  "state": "MD",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Baltimore",
+  "date": "10/30/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/11/John-Feggins.jpeg",
+  "video": "DPAeAEtWpy8",
+  "description": "Baltimore Police on Tuesday released body worn camera footage from a deadly police involved shooting that took place on October 30, outside a Rite Aid in North Baltimore."
 }

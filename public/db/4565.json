@@ -1,16 +1,13 @@
 {
   "id": 4565,
   "name": "Shawn Taylor Waite",
-  "date": "2019-03-14",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 27,
-  "gender": "M",
   "race": "N",
-  "city": "Sallisaw",
-  "state": "OK",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "knife",
+  "location": "Sallisaw",
+  "date": "3/14/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Shawn-Taylor-Watie.jpg",
+  "video": "fS6mhHae1oc",
+  "description": "SALLISAW, Okla. (AP) - Authorities say a knife-wielding Oklahoma man who was fatally shot by police had been reported as a possible Missouri jail escape.\n\nOklahoma State Bureau of Investigation spokeswoman Brook Arbeitman says 27-year-old Shawn Taylor Watie of Stilwell was shot by two officers in Sallisaw Thursday when he \"came after\" them with a knife. He died at a hospital.\n\nWatie's brother-in-law, Jerod Neal, told KFSM-TV that Watie was walking to work when he was shot. Neal said he doesn't believe the police account because Watie was not combative.\n\nArbeitman says police found Watie while investigating reports of a man thought to be 30-year-old Travis Lee Davis, who escaped Sunday from a jail in Sedalia, Missouri. Davis was last seen Wednesday after authorities say he stole a police car while handcuffed in Heavener, Oklahoma, then disappeared after crashing the vehicle."
 }

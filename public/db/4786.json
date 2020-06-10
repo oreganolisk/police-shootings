@@ -1,16 +1,13 @@
 {
   "id": 4786,
   "name": "Eric Jack Logan",
-  "date": "2019-06-16",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 53,
-  "gender": "M",
   "race": "B",
-  "city": "South Bend",
-  "state": "IN",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "knife",
+  "location": "South Bend",
+  "date": "6/16/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/EricLogan.jpeg",
+  "video": "-SjggLHaLV8",
+  "description": "Buttigieg: Transparency in police shooting probe"
 }

@@ -1,17 +1,13 @@
 {
   "id": 4722,
   "name": "Alex Steward Underdown",
-  "date": "2019-05-14",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 54,
-  "gender": "M",
   "race": "W",
-  "city": "Las Vegas",
-  "state": "NV",
-  "signs_of_mental_illness": "True",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/05/Alex-Underdown.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Las Vegas",
+  "date": "5/14/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/05/Alex-Underdown.jpg",
+  "video": "dDfo-_SaBlU",
+  "description": "LVMPD Assistant Sheriff Tim Kelly goes over the officer-involved shooting on Bel Air Drive involving Alex Underdown."
 }

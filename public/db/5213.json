@@ -1,16 +1,13 @@
 {
   "id": 5213,
   "name": "Michael Kahalehoe",
-  "date": "2019-11-12",
-  "manner_of_death": "shot",
-  "armed": "vehicle and gun",
   "age": 30,
-  "gender": "M",
   "race": "O",
-  "city": "Honolulu",
-  "state": "HI",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "vehicle and gun",
+  "location": "Honolulu",
+  "date": "11/12/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/11/Michael-Kahalehoe.jpg",
+  "video": "EJDF-3herKU",
+  "description": "One man is dead and another in custody after a police shooting in Kapolei last night… and it's all tied to a recent string of carjackings."
 }

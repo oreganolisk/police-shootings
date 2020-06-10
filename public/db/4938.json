@@ -1,17 +1,13 @@
 {
   "id": 4938,
   "name": "Freddrick Andrews Hadden",
-  "date": "2019-08-10",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 45,
-  "gender": "M",
   "race": "W",
-  "city": "Augusta",
-  "state": "GA",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Freddrick-Andrews-Hadden.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Augusta",
+  "date": "8/10/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Freddrick-Andrews-Hadden.jpg",
+  "video": "938zYo2zLV8",
+  "description": "On Saturday, August 10, 2019, Burke County Deputy Eric Madison shot and killed an armed kidnapping suspect, Fredrick Andrews Hadden Jr., 45, on the corner of Farmer’s Bridge Road and Springhill Church Road. Hadden fired shots towards Madison and a female, striking her twice as she ran to hide behind Madison’s patrol car."
 }

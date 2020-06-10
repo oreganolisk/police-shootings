@@ -1,16 +1,13 @@
 {
   "id": 4850,
   "name": "Stonechild Chiefstick",
-  "date": "2019-07-03",
-  "manner_of_death": "shot",
-  "armed": "screwdriver",
   "age": 39,
-  "gender": "M",
   "race": "N",
-  "city": "Poulsbo",
-  "state": "WA",
-  "signs_of_mental_illness": "True",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "screwdriver",
+  "location": "Poulsbo",
+  "date": "7/3/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/07/Stonechild-Chiefstick.jpeg",
+  "video": "4ZxR6ti_mgA",
+  "description": "Kitsap County authorities spent this Fourth of July looking for the public's help in a fatal officer-involved shooting, which played out in front of dozens of spectators. It happened at the Waterfront Park in Poulsbo during the city's annual 3rd of July fireworks celebration."
 }

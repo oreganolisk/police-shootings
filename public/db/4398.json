@@ -1,17 +1,13 @@
 {
   "id": 4398,
   "name": "Mark Leo Gregory Gago",
-  "date": "2019-01-19",
-  "manner_of_death": "shot",
-  "armed": "ax",
   "age": 42,
-  "gender": "M",
   "race": "W",
-  "city": "Clackamas County",
-  "state": "OR",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/MarkGago.jpg"
+  "gender": "M",
+  "armed": "ax",
+  "location": "Clackamas County",
+  "date": "1/19/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/MarkGago.jpg",
+  "video": "ABUw066ZKbU",
+  "description": "Neighbors tell KGW that the suspect, Mark Gago, who was shot and killed by police, used an axe to kill his mother, father, girlfriend and baby daughter."
 }

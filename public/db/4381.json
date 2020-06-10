@@ -1,17 +1,13 @@
 {
   "id": 4381,
   "name": "Charles Frederick Landeros",
-  "date": "2019-01-11",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 30,
-  "gender": "M",
   "race": "H",
-  "city": "Eugene",
-  "state": "OR",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/CharlesLanderodsleft.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Eugene",
+  "date": "1/11/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/CharlesLanderodsleft.jpg",
+  "video": "vueL4f_r1aM",
+  "description": "An officer killed the father of a student who'd become agitated during a custody dispute and refused to leave, authorities said."
 }

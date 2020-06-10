@@ -1,17 +1,13 @@
 {
   "id": 4788,
   "name": "Mark Anthony Galvan",
-  "date": "2019-06-17",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
   "age": 20,
-  "gender": "M",
   "race": "H",
-  "city": "Brownsville",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/GALVAN-MARK-ANTHONY.jpg"
+  "gender": "M",
+  "armed": "vehicle",
+  "location": "Brownsville",
+  "date": "6/17/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/GALVAN-MARK-ANTHONY.jpg",
+  "video": "rUQFBYd5VlM",
+  "description": "A Texas police officer has been shot and killed in what officials say was the line of duty, and a person of interest is in custody."
 }

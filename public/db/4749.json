@@ -1,17 +1,13 @@
 {
   "id": 4749,
   "name": "Kyle Needham",
-  "date": "2019-05-31",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
   "age": 32,
-  "gender": "M",
   "race": "W",
-  "city": "Gorham",
-  "state": "ME",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/Kyle-Needham.jpg"
+  "gender": "M",
+  "armed": "vehicle",
+  "location": "Gorham",
+  "date": "5/31/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/Kyle-Needham.jpg",
+  "video": "dngHD15REVw",
+  "description": "Kyle Needham is the person who was shot and killed by a Gorham police officer on Friday night."
 }

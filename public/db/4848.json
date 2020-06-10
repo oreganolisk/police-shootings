@@ -1,17 +1,13 @@
 {
   "id": 4848,
   "name": "Hannah Williams",
-  "date": "2019-07-05",
-  "manner_of_death": "shot",
-  "armed": "toy weapon",
   "age": 17,
-  "gender": "F",
   "race": "W",
-  "city": "Anaheim",
-  "state": "CA",
-  "signs_of_mental_illness": "True",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/07/Hannah-Linn-Williams.jpg"
+  "gender": "F",
+  "armed": "toy weapon",
+  "location": "Anaheim",
+  "date": "7/5/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/07/Hannah-Linn-Williams.jpg",
+  "video": "oVBcM5G_oGQ",
+  "description": "The family of 17-year-old Hannah Williams and others spoke at a news conference on July 9, 2019. Williams was fatally shot in a police shooting on the 91 Freeway in Anaheim on July 5. http://on.ktla.com/yMloU"
 }

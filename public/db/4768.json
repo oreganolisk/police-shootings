@@ -1,17 +1,13 @@
 {
   "id": 4768,
   "name": "JaQuavion Slaton",
-  "date": "2019-06-09",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 20,
-  "gender": "M",
   "race": "B",
-  "city": "Fort Worth",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Foot",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/JaQuavion-Slaton.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Fort Worth",
+  "date": "6/9/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/JaQuavion-Slaton.jpg",
+  "video": "fHmiCW1Nh2A",
+  "description": "(Warning: Disturbing video and language) Fort Worth police officers shot and killed 20-year-old JaQuavion Slaton on June 9. Interim police Chief Ed Kraus said Slaton made an \"overt movement\" that caused officers to \"fear for their lives.\" STORY: https://on.wfaa.com/2MN3yr6"
 }

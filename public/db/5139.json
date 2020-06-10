@@ -1,17 +1,13 @@
 {
   "id": 5139,
   "name": "Victor Hernandez",
-  "date": "2019-10-23",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 29,
-  "gender": "M",
   "race": "B",
-  "city": "New York",
-  "state": "NY",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/Victor-hernandez.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "New York",
+  "date": "10/23/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/Victor-hernandez.jpg",
+  "video": "o83CaM5u4Y4",
+  "description": "CBS2's Alice Gainer has the latest on the deadly police involved shooting in Harlem where an officer was saved by his bulletproof vest."
 }

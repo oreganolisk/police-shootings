@@ -1,16 +1,13 @@
 {
   "id": 5249,
   "name": "Michael Dean",
-  "date": "2019-12-02",
-  "manner_of_death": "shot",
-  "armed": "undetermined",
   "age": 28,
-  "gender": "M",
   "race": "B",
-  "city": "Temple",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "undetermined",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "undetermined",
+  "location": "Temple",
+  "date": "12/2/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/12/Michael-Lorenzo-Dean.jpg",
+  "video": "Nc7B8SlRLVo",
+  "description": "LIVE: Temple Interim Police Chief Jim Tobin addresses shooting death of Michael Dean. Dean was killed by an officer Monday night."
 }

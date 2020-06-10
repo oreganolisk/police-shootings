@@ -1,17 +1,13 @@
 {
   "id": 4397,
   "name": "Horacio Ruiz-Rodriguez",
-  "date": "2019-01-21",
-  "manner_of_death": "shot",
-  "armed": "undetermined",
   "age": 37,
-  "gender": "M",
   "race": "H",
-  "city": "Las Vegas",
-  "state": "NV",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/Horacio-Ruiz-Rodriguez.jpg"
+  "gender": "M",
+  "armed": "undetermined",
+  "location": "Las Vegas",
+  "date": "1/21/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/Horacio-Ruiz-Rodriguez.jpg",
+  "video": "k1sSupOCzJE",
+  "description": "The man shot by North Las Vegas police has been identified by 37-year-old Horacio Ruiz-Rodriguez."
 }

@@ -1,17 +1,13 @@
 {
   "id": 5063,
   "name": "Jamaal Ramone Taylor",
-  "date": "2019-09-28",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 31,
-  "gender": "M",
   "race": "",
-  "city": "Baltimore",
-  "state": "MD",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Foot",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/JamaalTaylor.jpg"
+  "gender": "M",
+  "armed": "knife",
+  "location": "Baltimore",
+  "date": "9/28/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/JamaalTaylor.jpg",
+  "video": "DGPQik9m4LI",
+  "description": "Police are learning more about the stabbing in Hunt Valley Saturday that led to the fatal police-involved shooting of the suspect, Jamaal Ramone Taylor. They have also identified the officers involved in the shooting. Katie Johnston reports."
 }

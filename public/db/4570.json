@@ -1,17 +1,13 @@
 {
   "id": 4570,
   "name": "Henry Wayne Rivera",
-  "date": "2019-03-13",
-  "manner_of_death": "shot",
-  "armed": "unarmed",
   "age": 30,
-  "gender": "M",
   "race": "H",
-  "city": "Phoenix",
-  "state": "AZ",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Other",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/HenryRivera.jpg"
+  "gender": "M",
+  "armed": "unarmed",
+  "location": "Phoenix",
+  "date": "3/13/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/HenryRivera.jpg",
+  "video": "3x9ByYNAI1g",
+  "description": "The suspect, 30-year-old Henry Wayne Rivera, was taken to the hospital where he later died. No weapons were found at the scene. Police determined the man was not the suspect they were looking for, though they say he did have outstanding warrants for his arrest."
 }

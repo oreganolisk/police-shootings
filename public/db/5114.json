@@ -1,16 +1,13 @@
 {
   "id": 5114,
   "name": "Joseph Bernhard-Williams Kisar",
-  "date": "2019-10-21",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 21,
-  "gender": "M",
   "race": "W",
-  "city": "Trotwood",
-  "state": "OH",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Trotwood",
+  "date": "10/21/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/JosephKiser.jpg",
+  "video": "su0cBEdmVf0",
+  "description": "TROTWOOD, Ohio (WKRC) - New video shows the moments just before an Ohio State Highway Patrol trooper shot and killed a suspect following a chase in the Dayton suburb of Trotwood.\n\nInvestigators say the shooting happened after a nine-minute-long high-speed chase early Monday morning.\n\nSurveillance video shows the chase. About 30 seconds later, you can see the driver walking toward the trooper's cruiser. Later, you can see what appears to be a state trooper walking in the other direction.\n\nThe driver who was killed was identified as 21-year-old Joseph Bernhard-William Kiser from Granville. Troopers say Kiser sped away when Trooper Jason Whitner tried to pull him over for speeding.\n\nHe eventually stopped in Trotwood, pulled out a gun and pointed it at the trooper. That's when Whitner shot him three times.\n\nThe state patrol's pursuit policy says a pursuit is justified when the necessity of apprehension outweighs the level of danger created by the pursuit."
 }

@@ -1,17 +1,13 @@
 {
   "id": 5074,
   "name": "Joseph Jesk",
-  "date": "2019-10-01",
-  "manner_of_death": "shot",
-  "armed": "BB gun and vehicle",
   "age": 32,
-  "gender": "M",
   "race": "W",
-  "city": "Bridgeview",
-  "state": "IL",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Foot",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/Joseph-Jesk.jpg"
+  "gender": "M",
+  "armed": "BB gun and vehicle",
+  "location": "Bridgeview",
+  "date": "10/1/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/Joseph-Jesk.jpg",
+  "video": "dy4SA7YjGSM",
+  "description": "A man has died after being shot by a police officer in Bridgeview."
 }

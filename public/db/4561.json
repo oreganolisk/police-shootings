@@ -1,17 +1,13 @@
 {
   "id": 4561,
   "name": "Latasha Nicole Walton",
-  "date": "2019-03-12",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
   "age": 32,
-  "gender": "F",
   "race": "B",
-  "city": "Miami",
-  "state": "FL",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/NatashaWalton.jpg"
+  "gender": "F",
+  "armed": "vehicle",
+  "location": "Miami",
+  "date": "3/12/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/NatashaWalton.jpg",
+  "video": "S96uWZCuInw",
+  "description": "Video obtained by Local 10 News shows a fatal trooper-involved shooting Tuesday night near the Golden Glades park-and-ride station in northwest Miami-Dade County."
 }

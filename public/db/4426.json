@@ -1,17 +1,13 @@
 {
   "id": 4426,
   "name": "Nekiylo Dawayne Graves",
-  "date": "2019-01-28",
-  "manner_of_death": "shot",
-  "armed": "unknown weapon",
   "age": 27,
-  "gender": "M",
   "race": "B",
-  "city": "Mercury",
-  "state": "NV",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/Nekiylo-Dawayne-Graves1.jpg"
+  "gender": "M",
+  "armed": "unknown weapon",
+  "location": "Mercury",
+  "date": "1/28/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/Nekiylo-Dawayne-Graves1.jpg",
+  "video": "yjvATJnaADc",
+  "description": "The Nye County Sheriff's office has released the names of the those involved in the officer involved shooting at the Nevad National Security Site: Deputy John Kakavulias, and the deceased, Nekiylo Dawayne Graves."
 }

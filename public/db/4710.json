@@ -1,17 +1,13 @@
 {
   "id": 4710,
   "name": "Jorge Albert Merino",
-  "date": "2019-05-02",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 37,
-  "gender": "M",
   "race": "H",
-  "city": "Cedar Hill",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/05/Jorge-Albert-Merino.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Cedar Hill",
+  "date": "5/2/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/05/Jorge-Albert-Merino.jpg",
+  "video": "2RPp_RtMecw",
+  "description": "Officials in the Houston area are investigating a deadly police shooting caught on video Monday night. That cellphone video, posted on social media, shows a Baytown police officer firing five shots after struggling to arrest a 45-year-old woman. Nikki Battiste reports.\n\nWatch \"CBS This Morning\" HERE: http://bit.ly/1T88yAR\nDownload the CBS News app on iOS HERE: https://apple.co/1tRNnUy\nDownload the CBS News app on Android HERE: https://bit.ly/1IcphuX\nLike \"CBS This Morning\" on Facebook HERE: http://on.fb.me/1LhtdvI\nFollow \"CBS This Morning\" on Twitter HERE: http://bit.ly/1Xj5W3p\nFollow \"CBS This Morning\" on Instagram HERE: http://bit.ly/1Q7NGnY\nGet new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\nDelivered by Norah O’Donnell, Gayle King, and John Dickerson, \"CBS This Morning\" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for \"CBS This Morning\" broadcast times."
 }

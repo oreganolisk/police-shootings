@@ -1,17 +1,13 @@
 {
   "id": 4980,
   "name": "Chad Michael Breinholt",
-  "date": "2019-08-23",
-  "manner_of_death": "shot",
-  "armed": "unarmed",
   "age": 31,
-  "gender": "M",
   "race": "W",
-  "city": "West Valley City",
-  "state": "UT",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Chad-Breinholt.jpg"
+  "gender": "M",
+  "armed": "unarmed",
+  "location": "West Valley City",
+  "date": "8/23/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Chad-Breinholt.jpg",
+  "video": "na-qhq2leLQ",
+  "description": "Michael Chad Breinholt was killed by West Valley City police on Aug. 23, 2019, inside the DUI processing area at West Valley City Hall. Officials say Breinholt had a firm grip on one of the officers guns when he was shot by another officer."
 }

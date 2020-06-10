@@ -1,17 +1,13 @@
 {
   "id": 4945,
   "name": "Aaron Luther",
-  "date": "2019-08-12",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 49,
-  "gender": "M",
   "race": "W",
-  "city": "Riverside",
-  "state": "CA",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Aaron-Luther.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Riverside",
+  "date": "8/12/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Aaron-Luther.jpg",
+  "video": "Fw2GfvCvhKg",
+  "description": "The man suspected of killing a CHP officer and wounding two others in a dramatic shootout in Riverside was an ex-con who served 10 years in prison for attempted murder - but also a married father trying to get his life together, according to his father. Details: https://abc7.la/2KHlRd5"
 }

@@ -1,17 +1,13 @@
 {
   "id": 4666,
   "name": "Theresa Medina-Thomas",
-  "date": "2019-04-11",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
   "age": 29,
-  "gender": "F",
   "race": "H",
-  "city": "Ahwatukee",
-  "state": "AZ",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/04/Theresa.jpg"
+  "gender": "F",
+  "armed": "vehicle",
+  "location": "Ahwatukee",
+  "date": "4/11/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/04/Theresa.jpg",
+  "video": "MasV9Z2U1o4",
+  "description": "Phoenix police said Monday that 29-year-old Theresa Medina-Thomas died at the scene of the shooting near 48th Street and Elliot Road."
 }

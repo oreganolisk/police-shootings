@@ -1,17 +1,13 @@
 {
   "id": 4829,
   "name": "Jose Salvador Meza",
-  "date": "2019-06-06",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 35,
-  "gender": "M",
   "race": "H",
-  "city": "San Gabriel",
-  "state": "CA",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/Jose-Salvador-Meza.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "San Gabriel",
+  "date": "6/6/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/Jose-Salvador-Meza.jpg",
+  "video": "8OSee65pTUY",
+  "description": "Sheriff’s investigators spent the day searching for explosives amid charred ruins of the home near Saxon Ave. and Brighton St., where an hours-long standoff that included fires, fireworks, rubber bullets, a robotic officer, SWAT and a neighborhood evacuation ended in the death of the suspect, identified as 35-year-old Jose Salvador Meza."
 }

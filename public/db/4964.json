@@ -1,17 +1,13 @@
 {
   "id": 4964,
   "name": "Jovany Mercado-Bedolla",
-  "date": "2019-08-16",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 26,
-  "gender": "M",
   "race": "H",
-  "city": "Ogden",
-  "state": "UT",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Jovany-Mercado-Bedolla.jpg"
+  "gender": "M",
+  "armed": "knife",
+  "location": "Ogden",
+  "date": "8/16/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Jovany-Mercado-Bedolla.jpg",
+  "video": "snrEXfqtIME",
+  "description": "Ogden Police Department released this body camera footage from a confrontation on Aug. 16, 2019. During the encounter, four officers fired at and killed 26-year-old Jovany Mercado-Bedolla."
 }

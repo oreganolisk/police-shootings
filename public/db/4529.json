@@ -1,17 +1,13 @@
 {
   "id": 4529,
   "name": "Danny Brogdon",
-  "date": "2019-03-05",
-  "manner_of_death": "shot and Tasered",
-  "armed": "knife",
   "age": 56,
-  "gender": "M",
   "race": "W",
-  "city": "Muskogee",
-  "state": "OK",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Danny-Brogdon.jpg"
+  "gender": "M",
+  "armed": "knife",
+  "location": "Muskogee",
+  "date": "3/5/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Danny-Brogdon.jpg",
+  "video": "uuNcrPo6Thw",
+  "description": "BODY CAM: Video shows tense exchange before Muskogee Police shoot man"
 }

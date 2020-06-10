@@ -1,17 +1,13 @@
 {
   "id": 5022,
   "name": "Bobby Ray Duckworth",
-  "date": "2019-09-10",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 26,
-  "gender": "M",
   "race": "B",
-  "city": "Wellington",
-  "state": "UT",
-  "signs_of_mental_illness": "True",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Bobby-Ray-Duckworth.jpg"
+  "gender": "M",
+  "armed": "knife",
+  "location": "Wellington",
+  "date": "9/10/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Bobby-Ray-Duckworth.jpg",
+  "video": "v_ShC3qFYh8",
+  "description": "A 26-year-old man in an \"extremely depressed\" state was killed by police in rural Carbon County Tuesday evening."
 }

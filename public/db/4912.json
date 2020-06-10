@@ -1,16 +1,13 @@
 {
   "id": 4912,
   "name": "De'Von Bailey",
-  "date": "2019-08-03",
-  "manner_of_death": "shot",
-  "armed": "undetermined",
   "age": 19,
-  "gender": "M",
   "race": "B",
-  "city": "Colorado Springs",
-  "state": "CO",
-  "signs_of_mental_illness": "False",
-  "threat_level": "undetermined",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "undetermined",
+  "location": "Colorado Springs",
+  "date": "8/3/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/DeVon-Bailey.jpeg",
+  "video": "Jfz4IGMlh0g",
+  "description": "The full batch of 911 calls and body camera video relating to the Colorado Springs Police Department shooting of De'Von Bailey on Aug. 3, 2019."
 }

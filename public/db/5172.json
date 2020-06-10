@@ -1,16 +1,13 @@
 {
   "id": 5172,
   "name": "Matthew Rasmussen",
-  "date": "2019-11-04",
-  "manner_of_death": "shot",
-  "armed": "sharp object",
   "age": 31,
-  "gender": "M",
   "race": "W",
-  "city": "Glendale",
-  "state": "AZ",
-  "signs_of_mental_illness": "True",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True"
+  "gender": "M",
+  "armed": "sharp object",
+  "location": "Glendale",
+  "date": "11/4/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/11/Matthew-Rasmussen.jpg",
+  "video": "n1za8v7UNas",
+  "description": "Glendale police  shoot 31-year old Matthew Rasmussen outside a Taco Bell."
 }

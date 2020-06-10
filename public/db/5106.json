@@ -1,17 +1,13 @@
 {
   "id": 5106,
   "name": "Nasheem Prioleau",
-  "date": "2019-10-15",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 30,
-  "gender": "M",
   "race": "B",
-  "city": "New York",
-  "state": "NY",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/Nasheem-Prioleau.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "New York",
+  "date": "10/15/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/10/Nasheem-Prioleau.jpg",
+  "video": "cus6_1s3pyU",
+  "description": "A Bronx police-involved shooting came just hours after police in Brooklyn shot and killed 30-year-old Nasheem Prioleau at the Gowanus Houses."
 }

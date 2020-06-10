@@ -1,17 +1,13 @@
 {
   "id": 4545,
   "name": "Carlos Hunter",
-  "date": "2019-03-07",
-  "manner_of_death": "shot",
-  "armed": "gun",
-  "age": "",
-  "gender": "M",
+  "age": null,
   "race": "H",
-  "city": "Vancouver",
-  "state": "WA",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/CarlosHunter.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Vancouver",
+  "date": "3/7/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/CarlosHunter.jpg",
+  "video": "Q6UDmqS7jXQ",
+  "description": "Friends and family held a vigil for Carlos Hunter, the most recent victim of an officer-involved shooting in Vancouver, Washington. Police say the man was a known gang member and was stopped as part of a narcotics trafficking investigation. Family paints a different picture, saying he had turned his life around."
 }

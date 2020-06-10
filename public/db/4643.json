@@ -1,17 +1,13 @@
 {
   "id": 4643,
   "name": "Juan Torres",
-  "date": "2019-04-12",
-  "manner_of_death": "shot",
-  "armed": "wrench",
   "age": 39,
-  "gender": "M",
   "race": "H",
-  "city": "Buckeye",
-  "state": "AZ",
-  "signs_of_mental_illness": "True",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/04/Juan-Torres.jpg"
+  "gender": "M",
+  "armed": "wrench",
+  "location": "Buckeye",
+  "date": "4/12/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/04/Juan-Torres.jpg",
+  "video": "QaVF2tShgfA",
+  "description": "On April 12, 2019, MCSO deputies responded to a domestic violence call in Buckeye, Arizona.\n\nMinutes after law enforcement arrive, Juan Torres, 39, was shot after he threw a wrench at two of the deputies , police said.\n\nRead more about the incident here: https://bit.ly/2IskwIe\n\n#PoliceActivity #BodyCam #Arizona\n\nFor more Arizona news, sports and entertainment, follow azcentral on:\n\nFacebook - https://bit.ly/2N2Xqqc\nTwitter - https://bit.ly/2MsVLOM\nInstagram - https://bit.ly/2nPxgwm\nOnline - https://www.azcentral.com"
 }

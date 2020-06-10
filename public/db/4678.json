@@ -1,16 +1,13 @@
 {
   "id": 4678,
   "name": "Donqaule Maurice Gray",
-  "date": "2019-03-06",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 25,
-  "gender": "M",
   "race": "B",
-  "city": "Morgantown",
-  "state": "WV",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Foot",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Morgantown",
+  "date": "3/6/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Donqualeagray.jpg",
+  "video": "uzzNyrAJhNU",
+  "description": "Donquale Gray killed in shootout"
 }

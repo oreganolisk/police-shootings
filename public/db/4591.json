@@ -1,17 +1,13 @@
 {
   "id": 4591,
   "name": "Hannah Westall",
-  "date": "2019-03-20",
-  "manner_of_death": "shot",
-  "armed": "toy weapon",
   "age": 26,
-  "gender": "F",
   "race": "W",
-  "city": "San Antonio",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Hannah-Westall.jpg"
+  "gender": "F",
+  "armed": "toy weapon",
+  "location": "San Antonio",
+  "date": "3/20/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Hannah-Westall.jpg",
+  "video": "QIdspvIi7xw",
+  "description": "A friend of 26-year-old Hannah Westall says she provided a helping hand when she was homeless on Alamo City streets."
 }

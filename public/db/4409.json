@@ -1,17 +1,13 @@
 {
   "id": 4409,
   "name": "Katlyn Alix",
-  "date": "2019-01-24",
-  "manner_of_death": "shot",
-  "armed": "unarmed",
   "age": 24,
-  "gender": "F",
   "race": "W",
-  "city": "St. Louis",
-  "state": "MO",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/KatlynAlix.jpg"
+  "gender": "F",
+  "armed": "unarmed",
+  "location": "St. Louis",
+  "date": "1/24/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/KatlynAlix.jpg",
+  "video": "q6af1vitRL0",
+  "description": "According to an internal conduct report, officers can actually have alcohol in their system while on duty."
 }

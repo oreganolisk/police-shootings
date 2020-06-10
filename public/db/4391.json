@@ -1,16 +1,13 @@
 {
   "id": 4391,
   "name": "D'Angelo Brown",
-  "date": "2019-01-16",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
-  "age": "",
-  "gender": "M",
+  "age": null,
   "race": "B",
-  "city": "West Memphis",
-  "state": "AR",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "vehicle",
+  "location": "West Memphis",
+  "date": "1/16/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/deangelo-brown.jpg",
+  "video": "pJP_beOE62s",
+  "description": "Lancaster couple killed in Arkansas officer involved Shooting\n1/21/19"
 }

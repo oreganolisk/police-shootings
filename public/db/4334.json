@@ -1,17 +1,13 @@
 {
   "id": 4334,
   "name": "Dylan Michael Smith",
-  "date": "2019-01-01",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 26,
-  "gender": "M",
   "race": "W",
-  "city": "Davidson County",
-  "state": "NC",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Foot",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/dylansmith.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Davidson County",
+  "date": "1/1/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/dylansmith.jpg",
+  "video": "cpBHHD2WKRM",
+  "description": "Smith died after being shot in the line of duty."
 }

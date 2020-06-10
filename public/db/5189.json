@@ -1,16 +1,13 @@
 {
   "id": 5189,
   "name": "Garrett Ryberg",
-  "date": "2019-11-16",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 27,
-  "gender": "M",
   "race": "W",
-  "city": "Mesa",
-  "state": "AZ",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Mesa",
+  "date": "11/16/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/11/Garrett-Ryberg.jpg",
+  "video": "1Wt65YD4C50",
+  "description": "A suspect was injured during a police-involved shooting in Mesa on Monday morning."
 }

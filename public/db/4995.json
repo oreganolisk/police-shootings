@@ -1,16 +1,13 @@
 {
   "id": 4995,
   "name": "Robert Desjarlais",
-  "date": "2019-09-01",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
   "age": 49,
-  "gender": "M",
   "race": "W",
-  "city": "Sand Springs",
-  "state": "OK",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "True"
+  "gender": "M",
+  "armed": "vehicle",
+  "location": "Sand Springs",
+  "date": "9/1/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Robert-Desjarlais-Jr.png",
+  "video": "7usXRJ07u8w",
+  "description": "ᐸpᐳSand Springs Police Department is releasing video from a fatal officer-involved shooting that took place September 1. Robert Desjarlais Jr. 49 was shot and killed following a pursuit southwest of Prattville.ᐸ/pᐳ"
 }

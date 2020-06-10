@@ -1,17 +1,13 @@
 {
   "id": 4746,
   "name": "Curtis Stagger",
-  "date": "2019-05-28",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 21,
-  "gender": "M",
   "race": "B",
-  "city": "Chicago",
-  "state": "IL",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/Curtis-Stagger.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Chicago",
+  "date": "5/28/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/Curtis-Stagger.jpg",
+  "video": "APrXGZpaQyI",
+  "description": "A young man was shot and killed by Chicago police during an arrest attempt Tuesday in South Chicago. Police said they were looking to take another man into custody who was wanted in connection with a deadly shooting on May 14."
 }

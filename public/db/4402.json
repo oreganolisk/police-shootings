@@ -1,17 +1,13 @@
 {
   "id": 4402,
   "name": "D'ettrick Griffin",
-  "date": "2019-01-15",
-  "manner_of_death": "shot",
-  "armed": "vehicle",
   "age": 18,
-  "gender": "M",
   "race": "B",
-  "city": "Atlanta",
-  "state": "GA",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/Dettrick-Griffin.jpg"
+  "gender": "M",
+  "armed": "vehicle",
+  "location": "Atlanta",
+  "date": "1/15/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/01/Dettrick-Griffin.jpg",
+  "video": "tcMFLCiPChY",
+  "description": "Officer Jarius Daugherty said Atlanta Police officers have received multiple death threats after the death of 18-year-old D’ettrick Griffin, who was shot and killed by an Atlanta officer when he attempted to steal his car at a gas station earlier this week."
 }

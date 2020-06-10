@@ -1,17 +1,13 @@
 {
   "id": 4421,
   "name": "Dennis Tuttle",
-  "date": "2019-01-28",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 59,
-  "gender": "M",
   "race": "W",
-  "city": "Houston",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/DennisTuttle.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Houston",
+  "date": "1/28/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/DennisTuttle.jpg",
+  "video": "Zhcjjq4Bd_c",
+  "description": "Dennis Tuttle and Rhogena Nicholas, the suspects who wounded five police officers, did not have long rap sheets, KHOU 11 Investigates found."
 }

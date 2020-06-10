@@ -1,17 +1,13 @@
 {
   "id": 5026,
   "name": "Tasjon Tyreek Osbourne",
-  "date": "2019-09-11",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 18,
-  "gender": "M",
   "race": "B",
-  "city": "Columbus",
-  "state": "OH",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Tasjon-Tyreek-Osbourne.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Columbus",
+  "date": "9/11/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Tasjon-Tyreek-Osbourne.jpg",
+  "video": "GEcfeDbvSuA",
+  "description": "Police identify 18-year-old killed, officer involved in shooting"
 }

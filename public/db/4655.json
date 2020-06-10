@@ -1,17 +1,13 @@
 {
   "id": 4655,
   "name": "Brian Dellaann Butts",
-  "date": "2019-04-14",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 33,
-  "gender": "M",
   "race": "W",
-  "city": "Portland",
-  "state": "OR",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/04/BrianButts.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Portland",
+  "date": "4/14/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/04/BrianButts.jpg",
+  "video": "lgiTzPdam3k",
+  "description": "Cowlitz County Deputy Justin DeRosier died after he was shot on Saturday. The man suspected of shooting him, Brian Butts, died following a confrontation with authorities."
 }

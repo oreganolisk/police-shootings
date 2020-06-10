@@ -1,17 +1,13 @@
 {
   "id": 4890,
   "name": "Joshua Vigil",
-  "date": "2019-07-23",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 38,
-  "gender": "M",
   "race": "H",
-  "city": "Colorado Springs",
-  "state": "CO",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/josh-vigil.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Colorado Springs",
+  "date": "7/23/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/josh-vigil.jpg",
+  "video": "mBhUc5tvHik",
+  "description": "A Colorado Springs neighborhood is grieving after a young man died in an officer-involved shooting. Family, friends, and neighbors gathered at Adams Park Sunday night for a candlelight vigil."
 }

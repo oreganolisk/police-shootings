@@ -1,17 +1,13 @@
 {
   "id": 4928,
   "name": "Detravian Allison",
-  "date": "2019-08-07",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 18,
-  "gender": "M",
   "race": "B",
-  "city": "Longview",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Detravian-Allison.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Longview",
+  "date": "8/7/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/08/Detravian-Allison.jpg",
+  "video": "-YvRGLDmiho",
+  "description": "A family wants to see change after their loved one was killed by a Kansas City Police Department officer."
 }

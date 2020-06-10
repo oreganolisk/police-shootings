@@ -1,17 +1,13 @@
 {
   "id": 4437,
   "name": "Corey Johnson",
-  "date": "2019-02-04",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 44,
-  "gender": "M",
   "race": "",
-  "city": "Farmville",
-  "state": "VA",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/coreyJohnson.png"
+  "gender": "M",
+  "armed": "gun",
+  "location": "Farmville",
+  "date": "2/4/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/coreyJohnson.png",
+  "video": "meDrVSNKL8A",
+  "description": "A taped phone call with roadside assistance revealed that the now-fired officer did not identify himself to Corey Jones before firing six shots, prosecutors said."
 }

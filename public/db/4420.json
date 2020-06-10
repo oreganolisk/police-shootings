@@ -1,17 +1,13 @@
 {
   "id": 4420,
   "name": "Rhogena Nicholas",
-  "date": "2019-01-28",
-  "manner_of_death": "shot",
-  "armed": "unarmed",
   "age": 58,
-  "gender": "F",
   "race": "W",
-  "city": "Houston",
-  "state": "TX",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/RhogenaNicholas.jpg"
+  "gender": "F",
+  "armed": "unarmed",
+  "location": "Houston",
+  "date": "1/28/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/02/RhogenaNicholas.jpg",
+  "video": "oxZo0qhM-Kk",
+  "description": "Houston police have identified the two suspects accused of firing at officers as they served a narcotics warrant at a home in southeast Houston on Monday.\n\nRhogena Nicholas, 58, and Dennis Tuttle, 59, were killed during the shootout with police at the house at 7800 Harding.\n\nFour officers were shot and another suffered a knee injury.\n\nHPD Police Chief Art Acevedo released more information at a press conference Tuesday morning about how the shooting unfolded.\n\nAll of the officers involved are undercover narcotics officers. Their names will not be released.\n\nhttps://abc13.com/5110369/"
 }

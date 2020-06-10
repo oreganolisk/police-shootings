@@ -1,17 +1,13 @@
 {
   "id": 4990,
   "name": "Tyrone Domingo Banks",
-  "date": "2019-08-28",
-  "manner_of_death": "shot",
-  "armed": "gun and car",
   "age": 30,
-  "gender": "M",
   "race": "B",
-  "city": "Baltimore",
-  "state": "MD",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/tyrone-banks.jpg"
+  "gender": "M",
+  "armed": "gun and car",
+  "location": "Baltimore",
+  "date": "8/28/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/tyrone-banks.jpg",
+  "video": "Qbgi0iC_1zQ",
+  "description": "Baltimore police release the body-worn camera footage from the Aug, 28 shootout with a suspect on E. Fayette and N. Caroline Streets."
 }

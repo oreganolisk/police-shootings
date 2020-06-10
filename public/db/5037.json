@@ -1,17 +1,13 @@
 {
   "id": 5037,
   "name": "Ronald Davis",
-  "date": "2019-09-15",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 31,
-  "gender": "M",
   "race": "B",
-  "city": "St. Paul",
-  "state": "MN",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Ronald-Davis.jpg"
+  "gender": "M",
+  "armed": "knife",
+  "location": "St. Paul",
+  "date": "9/15/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/Ronald-Davis.jpg",
+  "video": "F-3CMIYqy-8",
+  "description": "The St. Paul Police Department released the body camera video of the fatal officer-involved shooting of 31-year-old Ronald Davis on Sept. 15. Authorities say the incident began when Davis rear-ended a police squad car. Both the officer and Davis got out of their vehicles and Davis approached the officer with a knife. He ignored repeated commands to drop it and the officer eventually fired his weapon, killing Davis."
 }

@@ -1,17 +1,13 @@
 {
   "id": 5013,
   "name": "Brian Quinones",
-  "date": "2019-09-07",
-  "manner_of_death": "shot",
-  "armed": "knife",
   "age": 30,
-  "gender": "M",
   "race": "H",
-  "city": "Richfield",
-  "state": "MN",
-  "signs_of_mental_illness": "True",
-  "threat_level": "other",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/BrianQuinones.jpg"
+  "gender": "M",
+  "armed": "knife",
+  "location": "Richfield",
+  "date": "9/7/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/BrianQuinones.jpg",
+  "video": "wpy7-y950Zg",
+  "description": "A 30-year-old man was shot and killed by police Saturday night following a vehicle pursuit that began in Edina, Jeff Wagner reports (2:57). WCCO 4 News At 10 – Sept. 8, 2019"
 }

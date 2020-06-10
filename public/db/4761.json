@@ -1,17 +1,13 @@
 {
   "id": 4761,
   "name": "Travis James Eckstein",
-  "date": "2019-06-03",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 23,
-  "gender": "M",
   "race": "W",
-  "city": "San Ysidro",
-  "state": "CA",
-  "signs_of_mental_illness": "True",
-  "threat_level": "attack",
-  "flee": "Car",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/TravisJamesEckstein.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "San Ysidro",
+  "date": "6/3/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/06/TravisJamesEckstein.jpg",
+  "video": "nPhyvxFAWX0",
+  "description": "The girlfriend of the 23-year-old man who was killed in a shootout at the San Ysidro border crossing speaks to 10News about what led up to the fatal encounter. Matt Boone reports."
 }

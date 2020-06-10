@@ -1,16 +1,13 @@
 {
   "id": 5271,
   "name": "Francine Graham",
-  "date": "2019-12-10",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 50,
-  "gender": "F",
   "race": "B",
-  "city": "Jersey City",
-  "state": "NJ",
-  "signs_of_mental_illness": "False",
-  "threat_level": "attack",
-  "flee": "Not fleeing",
-  "body_camera": "False"
+  "gender": "F",
+  "armed": "gun",
+  "location": "Jersey City",
+  "date": "12/10/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/12/Francine-Graham.png",
+  "video": "8CwT9-1KT8w",
+  "description": "The son of former NYPD commissioner Bernie Kerik is being hailed as the hero of the horrific attack at a Jewish market in Jersey City, New Jersey. Detective Joseph Kerik and two other officers were the first officers to exchange fire with the killers. The two suspects killed are David Anderson and Francine Graham, said to be members of a hate group called the Black Hebrew Israelites. Police say they found an anti-Semitic \"rambling manifesto\" along with a pipe bomb, in their vehicle."
 }

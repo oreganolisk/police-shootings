@@ -1,17 +1,13 @@
 {
   "id": 4994,
   "name": "Terry Tillman",
-  "date": "2019-08-31",
-  "manner_of_death": "shot",
-  "armed": "gun",
   "age": 23,
-  "gender": "M",
   "race": "B",
-  "city": "St. Louis",
-  "state": "MO",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Foot",
-  "body_camera": "False",
-  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/TerryTillman.jpg"
+  "gender": "M",
+  "armed": "gun",
+  "location": "St. Louis",
+  "date": "8/31/2019",
+  "photo": "https://fatalencounters.org/wp-content/uploads/2019/09/TerryTillman.jpg",
+  "video": "nOSI3TxmtPQ",
+  "description": "Police are reviewing 158 hours of surveillance video from the Galleria property and will attempt to get video from other surrounding cameras."
 }

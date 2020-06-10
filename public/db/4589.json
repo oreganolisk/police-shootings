@@ -1,17 +1,13 @@
 {
   "id": 4589,
   "name": "Kevin Bruce Mason",
-  "date": "2019-03-24",
-  "manner_of_death": "shot",
-  "armed": "unarmed",
   "age": 57,
-  "gender": "M",
   "race": "B",
-  "city": "Baltimore",
-  "state": "MD",
-  "signs_of_mental_illness": "False",
-  "threat_level": "other",
-  "flee": "Not fleeing",
-  "body_camera": "True",
-  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Kevin-Bruce-Mason.jpg"
+  "gender": "M",
+  "armed": "unarmed",
+  "location": "Baltimore",
+  "date": "3/24/2019",
+  "photo": "https://www.fatalencounters.org/wp-content/uploads/2019/03/Kevin-Bruce-Mason.jpg",
+  "video": "3W21UkHCblw",
+  "description": "Baltimore city police released the body-worn camera footage from a fatal officer-involved shooting Sunday."
 }

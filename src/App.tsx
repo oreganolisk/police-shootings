@@ -109,7 +109,7 @@ class App extends React.Component<AppProps, AppState> {
   private renderHeader(): JSX.Element {
     return <header className="App-header">
       <p>
-        Killed by Police, USA 2015-2020
+        Fatally Shot by Police, USA 2019
       </p>
       <div>
         <div className="App-header-filtergroup">

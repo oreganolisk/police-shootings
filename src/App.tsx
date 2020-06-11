@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios'
+import { withRouter, RouteComponentProps } from 'react-router-dom';
 import './App.css';
 
 enum Race {
@@ -70,9 +71,6 @@ async function loadIncidentData(id: number): Promise<IncidentData> {
     return makePretty(data.data as IncidentData);
 }
 
-interface AppProps {
-}
-
 interface AppState {
   data: IncidentData | null;
   filters: {
@@ -81,8 +79,8 @@ interface AppState {
   }
 }
 
-class App extends React.Component<AppProps, AppState> {
-  constructor(props: AppProps) {
+class App extends React.Component<RouteComponentProps, AppState> {
+  constructor(props: RouteComponentProps) {
     super(props);
     this.state = {
       data: null,
@@ -94,7 +92,17 @@ class App extends React.Component<AppProps, AppState> {
   }
 
   public componentDidMount() {
-    this.reload();
+    if (this.getIdFromLocation()) {
+      this.fetchContent();
+    } else {
+      this.reload();
+    }
+  }
+
+  public async componentDidUpdate(prevProps: RouteComponentProps) {
+    if (this.props.location !== prevProps.location) {
+      this.fetchContent();
+    }
   }
 
   public render() {
@@ -104,6 +112,16 @@ class App extends React.Component<AppProps, AppState> {
         {this.renderMain()}
       </div>
     );
+  }
+
+  private getIdFromLocation(): number | undefined {
+    return parseInt((this.props.match.params as any)['incidentId'] as string);
+  }
+
+  private async fetchContent() {
+    const id: number | undefined = this.getIdFromLocation();
+    const data = id ? await loadIncidentData(id) : null;
+    this.setState({ data });
   }
 
   private renderHeader(): JSX.Element {
@@ -232,9 +250,8 @@ class App extends React.Component<AppProps, AppState> {
 
   private async reload() {
     const id = this.chooseFromFiltered()
-    const data = id ? await loadIncidentData(id) : null;
-    this.setState({ data });
+    this.props.history.push(`/${id}`);
   }
 }
 
-export default App;
+export default withRouter(App);

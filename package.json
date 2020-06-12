@@ -19,8 +19,9 @@
     "police-shooting-data": "github:oreganolisk/police-shooting-data"
   },
   "scripts": {
+    "prepare": "cpy node_modules/police-shooting-data/dist/db public/db",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": " react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -40,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "cpy-cli": "^3.1.1",
     "react-router-dom": "^5.2.0"
   }
 }

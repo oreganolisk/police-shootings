@@ -15,7 +15,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "police-shooting-data": "github:oreganolisk/police-shooting-data"
   },
   "scripts": {
     "start": "react-scripts start",

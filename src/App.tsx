@@ -1,55 +1,15 @@
 import React from 'react';
 import axios from 'axios'
 import { withRouter, RouteComponentProps } from 'react-router-dom';
+import { IncidentLookupTable, Incident, IncidentGroup, Armed, Race } from 'police-shooting-data';
 import './App.css';
 
-enum Race {
-  White = 'White',
-  Black = 'Black',
-  Hispanic = 'Hispanic',
-  Other = 'Other'
-};
 const AllRaceVals: Race[] = [Race.White, Race.Black, Race.Hispanic, Race.Other];
-
-enum Armed {
-  Gun = 'Gun',
-  Knife = 'Knife',
-  Unarmed = 'Unarmed',
-  Other = 'Other'
-}
 const AllArmedVals: Armed[] = [Armed.Gun, Armed.Knife, Armed.Unarmed, Armed.Other];
 
-interface IncidentGroup {
-  armed: Armed,
-  race: Race,
-  n: number,
-  ids: number[]
-}
+const db = require('police-shooting-data/dist/db.json') as IncidentLookupTable;
 
-// lightweight reference to all incidents, binned by [race] and [armed]
-interface IncidentLookupTable {
-  description: string; // e.g. "2019 shootings, wapo database, sampled"
-  groups: IncidentGroup[];
-}
-
-const db = require('./db.json') as IncidentLookupTable;
-
-// all info for a specific incident
-interface IncidentData {
-  id: number;
-  name: string;
-  age: number;
-  race: string;
-  gender: string;
-  armed: string;
-  location: string; // e.g. "Portland, OR"
-  date: string;
-  description: string;
-  photo: string; // url
-  video: string; // embed code
-}
-
-function makePretty(data: IncidentData): IncidentData {
+function makePretty(data: Incident): Incident {
   switch (data.gender) {
     case "M": data.gender = "Male"; break;
     case "F": data.gender = "Female"; break;
@@ -66,13 +26,13 @@ function makePretty(data: IncidentData): IncidentData {
   return data;
 }
 
-async function loadIncidentData(id: number): Promise<IncidentData> {
+async function loadIncident(id: number): Promise<Incident> {
     const data = await axios.get(`db/${id}.json`);
-    return makePretty(data.data as IncidentData);
+    return makePretty(data.data as Incident);
 }
 
 interface AppState {
-  data: IncidentData | null;
+  data: Incident | null;
   filters: {
     race: Set<Race>,
     armed: Set<Armed>
@@ -120,7 +80,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
 
   private async fetchContent() {
     const id: number | undefined = this.getIdFromLocation();
-    const data = id ? await loadIncidentData(id) : null;
+    const data = id ? await loadIncident(id) : null;
     this.setState({ data });
   }
 
@@ -211,17 +171,27 @@ class App extends React.Component<RouteComponentProps, AppState> {
           <p>{data.armed}, {data.race}, {data.age}</p>
           <img className="App-main-photo" src={data.photo}/>
           <p className="App-main-story">{data.description}</p>
-          <iframe
-            className="App-main-youtube"
-            width="560"
-            height="315"
-            src={`https://www.youtube.com/embed/${data.video}`}
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          />
+          {this.renderVideoEmbed}
         </div>
       </main>
     } else {
       return <main>No result</main>
+    }
+  }
+
+  private renderVideoEmbed(): JSX.Element | null {
+    if (this.state.data?.youtubeEmbed) {
+      return <iframe
+        className="App-main-youtube"
+        width="560"
+        height="315"
+        src={`https://www.youtube.com/embed/${this.state.data.youtubeEmbed}`}
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      />;
+    } else if (this.state.data?.iframeEmbed) {
+      return <div dangerouslySetInnerHTML={{__html: this.state.data?.iframeEmbed}}/>
+    } else {
+      return null;
     }
   }
 

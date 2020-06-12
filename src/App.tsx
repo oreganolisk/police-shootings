@@ -171,7 +171,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
           <p>{data.armed}, {data.race}, {data.age}</p>
           <img className="App-main-photo" src={data.photo}/>
           <p className="App-main-story">{data.description}</p>
-          {this.renderVideoEmbed}
+          {this.renderVideoEmbed()}
         </div>
       </main>
     } else {

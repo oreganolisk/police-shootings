@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+a {
+  color: lightblue;
+}
+
+.App-popout {
+  position: fixed;
+  top: 0;
+  bottom: -0;
+  left: 0;
+  right: -0;
+  padding-left: 7vw;
+  padding-right: 7vw;
+  background-color: #282c34;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-popout-filter {
+  font-size: 3vh;
+  margin: 2vh;
+}
+
+.App-popout-filter input {
+  width: 2vh;
+  height: 2vh;
+  margin-right: 1vh;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 20vh;
@@ -17,20 +45,26 @@
   position: absolute;
   left: 0;
   top: 0;
-  width: 5vw;
-  height: 5vw;
+  width: 7vw;
+  height: 7vw;
+  margin: 2vw;
   background-image: url('/sliders.svg');
   background-size: contain;
+  filter: invert();
+  z-index: 10;
 }
 
 .App-header-info-button {
   position: absolute;
   right: -0;
   top: 0;
-  width: 5vw;
-  height: 5vw;
+  width: 7vw;
+  height: 7vw;
+  margin: 2vw;
   background-image: url('/info.svg');
   background-size: contain;
+  filter: invert();
+  z-index: 10;
 }
 
 .App-button {
@@ -58,6 +92,12 @@
 .App-main-content {
   margin-left: 10vw;
   margin-right: 10vw;
+}
+
+.App-main-metadata {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4vh;
 }
 
 .App-main-name {

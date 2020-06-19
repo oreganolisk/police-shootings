@@ -35,6 +35,9 @@ interface AppState {
   data: Incident | null;
   showInfo: boolean;
   showSettings: boolean;
+  showDeficientRecords: boolean;
+  showFullRecords: boolean;
+  showAllContent: boolean;
   filters: {
     race: Set<Race>,
     armed: Set<Armed>
@@ -48,6 +51,9 @@ class App extends React.Component<RouteComponentProps, AppState> {
       data: null,
       showInfo: false,
       showSettings: false,
+      showDeficientRecords: false,
+      showAllContent: false,
+      showFullRecords: true,
       filters: {
         race: new Set(AllRaceVals),
         armed: new Set(AllArmedVals)
@@ -111,9 +117,57 @@ class App extends React.Component<RouteComponentProps, AppState> {
 
   private renderSettingsAndInfo(): JSX.Element {
     return <div>
-      <div className="App-header-settings-button"></div>
-      <div className="App-header-info-button"></div>
-    </div>
+      {!this.state.showInfo && <div className="App-header-settings-button" onClick={() => this.setState({
+        ...this.state,
+        showInfo: false,
+        showSettings: !this.state.showSettings
+      })}></div>}
+      {!this.state.showSettings && <div className="App-header-info-button" onClick={() => this.setState({
+        ...this.state,
+        showInfo: !this.state.showInfo,
+        showSettings: false
+      })}></div>}
+      {this.state.showSettings && this.renderSettings()}
+      {this.state.showInfo && this.renderInfo()}
+    </div>;
+  }
+
+  private renderSettings(): JSX.Element {
+    return <div className="App-popout">
+      <p>Settings</p>
+      <div className="App-popout-filter" onClick={(evt) => this.setState({ ...this.state, showFullRecords: !this.state.showFullRecords })}>
+        <input type="checkbox" checked={this.state.showFullRecords} readOnly={true}/>
+        Show full records
+      </div>
+      <div className="App-popout-filter" onClick={(evt) => this.setState({ ...this.state, showDeficientRecords: !this.state.showDeficientRecords })}>
+        <input type="checkbox" checked={this.state.showDeficientRecords} readOnly={true}/>
+        Show incomplete records
+      </div>
+      <div className="App-popout-filter" onClick={(evt) => this.setState({ ...this.state, showAllContent: !this.state.showAllContent })}>
+        <input type="checkbox" checked={this.state.showAllContent} readOnly={true}/>
+        Show all content
+      </div>
+    </div>;
+  }
+
+  private renderInfo(): JSX.Element {
+    return <div className="App-popout">
+      <p>Information</p>
+      <p>App: <a href="https://github.com/oreganolisk/police-shootings">https://github.com/oreganolisk/police-shootings</a></p>
+      <p>Data: <a href="https://github.com/oreganolisk/police-shooting-data">https://github.com/oreganolisk/police-shooting-data</a></p>
+      <p>
+        The records displayed in this app are from the
+        <a href="https://github.com/washingtonpost/data-police-shootings"></a>
+        Washington Post police shootings database, licensed as Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+        Additional information is supplemented from the <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a> project,
+        and from searching Youtube and news sites.
+      </p>
+      <p>
+        By default, records without sufficient content are not chosen for display. When this happens the randomizing algorithm takes the coverage
+        of each combination of filters into account to ensure that results are not biased by race or armament status. See settings to show
+        all records.
+      </p>
+    </div>;
   }
 
   private renderRaceFilter(race: Race): JSX.Element {
@@ -180,7 +234,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
       return <main>
         <div className="App-main-content">
           <p className="App-main-name">{data.name}</p>
-          <p>{data.armed}, {data.race}, {data.age}</p>
+          {this.renderMetadata()}
           <img className="App-main-photo" src={data.photo}/>
           <p className="App-main-story">{data.description}</p>
           {this.renderVideoEmbed()}
@@ -189,6 +243,25 @@ class App extends React.Component<RouteComponentProps, AppState> {
     } else {
       return <main>No result</main>
     }
+  }
+
+  private renderMetadata(): JSX.Element {
+    const data = this.state.data;
+    if (data) {
+      if (this.state.showAllContent) {
+        return <table className="App-main-metadata">
+          {Object.keys(data).map(key => <tr><td>{key}:</td><td>{(data as any)[key]}</td></tr>)}
+        </table>
+      } else {
+        return <table className="App-main-metadata">
+          <tr><td>Age:</td><td>{data.age}</td></tr>
+          <tr><td>Gender:</td><td>{data.gender}</td></tr>
+          <tr><td>Armed:</td><td>{data.armed}</td></tr>
+          <tr><td>Race:</td><td>{data.race}</td></tr>
+        </table>
+      }
+    }
+    else return <p>No metadata</p>;
   }
 
   private renderVideoEmbed(): JSX.Element | null {
@@ -222,7 +295,11 @@ class App extends React.Component<RouteComponentProps, AppState> {
     var r = Math.floor(Math.random() * n);
     for (var grp of filtered) {
       if (r < grp.n) {
-        return grp.ids[Math.floor(grp.ids.length * Math.random())];
+        const candidates = [];
+        if (this.state.showFullRecords) candidates.push(...grp.ids);
+        if (this.state.showDeficientRecords) candidates.push(...grp.idsMissingContent);
+        if (candidates.length === 0) return null;
+        return candidates[Math.floor(candidates.length * Math.random())];
       } else {
         r -= grp.n;
       }

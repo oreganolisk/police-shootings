@@ -33,6 +33,8 @@ async function loadIncident(id: number): Promise<Incident> {
 
 interface AppState {
   data: Incident | null;
+  showInfo: boolean;
+  showSettings: boolean;
   filters: {
     race: Set<Race>,
     armed: Set<Armed>
@@ -44,6 +46,8 @@ class App extends React.Component<RouteComponentProps, AppState> {
     super(props);
     this.state = {
       data: null,
+      showInfo: false,
+      showSettings: false,
       filters: {
         race: new Set(AllRaceVals),
         armed: new Set(AllArmedVals)
@@ -86,6 +90,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
 
   private renderHeader(): JSX.Element {
     return <header className="App-header">
+      {this.renderSettingsAndInfo()}
       <p>
         Fatally Shot by Police, USA 2019
       </p>
@@ -102,6 +107,13 @@ class App extends React.Component<RouteComponentProps, AppState> {
       </button>
       {this.renderStats()}
     </header>
+  }
+
+  private renderSettingsAndInfo(): JSX.Element {
+    return <div>
+      <div className="App-header-settings-button"></div>
+      <div className="App-header-info-button"></div>
+    </div>
   }
 
   private renderRaceFilter(race: Race): JSX.Element {

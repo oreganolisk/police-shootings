@@ -13,6 +13,26 @@
   color: white;
 }
 
+.App-header-settings-button {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 5vw;
+  height: 5vw;
+  background-image: url('/sliders.svg');
+  background-size: contain;
+}
+
+.App-header-info-button {
+  position: absolute;
+  right: -0;
+  top: 0;
+  width: 5vw;
+  height: 5vw;
+  background-image: url('/info.svg');
+  background-size: contain;
+}
+
 .App-button {
   min-height: 5vh;
   min-width: 30vh;

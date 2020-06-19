@@ -42,7 +42,7 @@ a {
 }
 
 .App-header-settings-button {
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   width: 7vw;
@@ -55,7 +55,7 @@ a {
 }
 
 .App-header-info-button {
-  position: absolute;
+  position: fixed;
   right: -0;
   top: 0;
   width: 7vw;

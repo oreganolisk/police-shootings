@@ -7,16 +7,17 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "@types/jest": "^24.9.1",
-    "@types/node": "^12.12.43",
-    "@types/react": "^16.9.35",
+    "@types/node": "^12.12.47",
+    "@types/react": "^16.9.38",
     "@types/react-dom": "^16.9.8",
     "@types/react-router-dom": "^5.1.5",
     "axios": "^0.19.2",
+    "police-shooting-data": "github:oreganolisk/police-shooting-data#2b0f08c",
+    "police-shootings-data": "github:oreganolisk/police-shooting-data#2b0f08c",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "^3.7.5",
-    "police-shooting-data": "github:oreganolisk/police-shooting-data"
+    "typescript": "^3.9.5"
   },
   "scripts": {
     "prepare": "cpy node_modules/police-shooting-data/dist/db public/db",

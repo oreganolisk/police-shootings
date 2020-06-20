@@ -100,6 +100,13 @@ a {
   margin-bottom: 4vh;
 }
 
+.App-main-metadata td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 50vw;
+}
+
 .App-main-name {
   font-size: 2vh;
 }

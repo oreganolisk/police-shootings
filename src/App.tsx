@@ -239,6 +239,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
           {this.renderMetadata()}
           <img className="App-main-photo" src={data.photo}/>
           <p className="App-main-story">{data.description}</p>
+          <p>News link: <a href={data.newsLink}>{data.newsLink}</a></p>
           {this.renderVideoEmbed()}
         </div>
       </main>
@@ -260,6 +261,8 @@ class App extends React.Component<RouteComponentProps, AppState> {
           <tr><td>Gender:</td><td>{data.gender}</td></tr>
           <tr><td>Armed:</td><td>{data.armed}</td></tr>
           <tr><td>Race:</td><td>{data.race}</td></tr>
+          <tr><td>Date:</td><td>{data.date}</td></tr>
+          <tr><td>Location:</td><td>{data.location}</td></tr>
         </table>
       }
     }

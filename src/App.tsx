@@ -239,7 +239,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
           {this.renderMetadata()}
           <img className="App-main-photo" src={data.photo}/>
           <p className="App-main-story">{data.description}</p>
-          <p>News link: <a href={data.newsLink}>{data.newsLink}</a></p>
+          <p><a className="App-main-newslink" href={data.newsLink}>News story</a></p>
           {this.renderVideoEmbed()}
         </div>
       </main>

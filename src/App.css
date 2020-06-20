@@ -118,6 +118,11 @@ a {
 .App-main-story {
 }
 
+.App-main-newslink {
+  color: darkblue;
+  font-size: larger;
+}
+
 .App-main-youtube {
   width: 80vw;
   height: 50vw;

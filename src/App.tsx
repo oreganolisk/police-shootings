@@ -156,8 +156,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
       <p>App: <a href="https://github.com/oreganolisk/police-shootings">https://github.com/oreganolisk/police-shootings</a></p>
       <p>Data: <a href="https://github.com/oreganolisk/police-shooting-data">https://github.com/oreganolisk/police-shooting-data</a></p>
       <p>
-        The records displayed in this app are from the
-        <a href="https://github.com/washingtonpost/data-police-shootings"></a> 
+        The records displayed in this app are from the <a href="https://github.com/washingtonpost/data-police-shootings"></a> 
         Washington Post police shootings database, licensed as Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
         Additional information is supplemented from the <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a> project, 
         and from searching Youtube and news sites.
@@ -166,6 +165,9 @@ class App extends React.Component<RouteComponentProps, AppState> {
         By default, records without sufficient content are not chosen for display. When this happens the randomizing algorithm takes the coverage 
         of each combination of filters into account to ensure that results are not biased by race or armament status. See settings to show
         all records.
+      </p>
+      <p>
+        Accuracy of records is not guaranteed, and minimal effort has been expended on curation.
       </p>
     </div>;
   }

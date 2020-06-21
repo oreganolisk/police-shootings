@@ -104,6 +104,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
         <div className="App-header-filtergroup">
           {AllRaceVals.map(race => this.renderRaceFilter(race))}
         </div>
+        <hr />
         <div className="App-header-filtergroup">
           {AllArmedVals.map(armed => this.renderArmedFilter(armed))}
         </div>
@@ -225,9 +226,14 @@ class App extends React.Component<RouteComponentProps, AppState> {
   private renderStats(): JSX.Element {
     var total = db.groups.map(grp => grp.n).reduce((a, b) => a + b, 0);
     const matched = this.getGroupsFromDb().map(grp => grp.n).reduce((a, b) => a + b, 0);
-    return <p>
-      {matched} out of {total}  people match your filters ({Math.floor(matched*100/total)}%)
-    </p>
+    const noRace: boolean = this.state.filters.race.size === 0;
+    const noArmed: boolean = this.state.filters.armed.size === 0;
+    return <div>
+      <p>{matched} out of {total}  people match your filters ({Math.floor(matched*100/total)}%)</p>
+      {noRace && <p>No race selected</p>}
+      {noArmed && <p>No armed status selected</p>}
+    </div>;
+    
   }
 
   private renderMain(): JSX.Element {

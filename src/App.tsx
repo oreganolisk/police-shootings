@@ -113,7 +113,22 @@ class App extends React.Component<RouteComponentProps, AppState> {
         Reload
       </button>
       {this.renderStats()}
+      {this.renderMeta()}
     </header>
+  }
+
+  private renderMeta(): JSX.Element {
+    const data = this.state.data;
+    if (data) {
+      return <div>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={data.name} />
+        <meta name="twitter:description" content={data.description} />
+        <meta name="twitter:image" content={data.photo} />
+      </div>;
+    } else {
+      return <div />;
+    }
   }
 
   private renderSettingsAndInfo(): JSX.Element {

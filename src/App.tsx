@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios'
+import MetaTags from 'react-meta-tags';
 import { withRouter, RouteComponentProps } from 'react-router-dom';
 import { IncidentLookupTable, Incident, IncidentGroup, Armed, Race } from 'police-shooting-data';
 import './App.css';
@@ -78,10 +79,25 @@ class App extends React.Component<RouteComponentProps, AppState> {
   public render() {
     return (
       <div className="App">
+        {this.renderMeta()}
         {this.renderHeader()}
         {this.renderMain()}
       </div>
     );
+  }
+
+  private renderMeta(): JSX.Element {
+    const data = this.state.data;
+    if (data) {
+      return <MetaTags>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={data.name} />
+        <meta name="twitter:description" content={data.description} />
+        <meta name="twitter:image" content={data.photo} />
+      </MetaTags>;
+    } else {
+      return <div />;
+    }
   }
 
   private getIdFromLocation(): number | undefined {
@@ -113,22 +129,7 @@ class App extends React.Component<RouteComponentProps, AppState> {
         Reload
       </button>
       {this.renderStats()}
-      {this.renderMeta()}
     </header>
-  }
-
-  private renderMeta(): JSX.Element {
-    const data = this.state.data;
-    if (data) {
-      return <div>
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={data.name} />
-        <meta name="twitter:description" content={data.description} />
-        <meta name="twitter:image" content={data.photo} />
-      </div>;
-    } else {
-      return <div />;
-    }
   }
 
   private renderSettingsAndInfo(): JSX.Element {
